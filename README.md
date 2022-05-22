@@ -134,9 +134,8 @@ I am currently working on [a actions GitHub repository automation workflow](http
 
 ## Statistics
 
-[![Ooliver1's GitHub stats](https://github-readme-stats-ooliver1.vercel.app/api/?username=ooliver1&theme=midnight-purple&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-logoe-stats)
+[![Ooliver1's GitHub stats](https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=ooliver1&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-logoe-stats) [![Ooliver1's GitHub stats](https://github-readme-stats-ooliver1.vercel.app/api/?username=ooliver1&theme=midnight-purple&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-logoe-stats)
 [![Ooliver1's GitHub graph](https://activity-graph.herokuapp.com/graph?username=ooliver1&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-logoity-graph)
-[![Ooliver1's GitHub stats](https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=ooliver1&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-logoe-stats)
 
 **Note**: this does not represent skill level but purely the amount of code in each language on my profile.
 
