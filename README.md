@@ -137,6 +137,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-ooliver1.vercel.app/api/?username=ooliver1&theme=midnight-purple&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Ooliver1's GitHub stats" align="center" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=ooliver1&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true" alt="Ooliver1's GitHub stats" align="center" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<a href="https://github.com/ashutosh00710/github-readme-logoity-graph"><img
+  src="https://activity-graph.herokuapp.com/graph?username=ooliver1&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF&hide_border=true"
+  alt="Ooliver1's GitHub graph"
+></a>
+
 
 **Note**: this does not represent skill level but purely the amount of code in each language on my profile.
 
