@@ -147,11 +147,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/nextcord/nextcord-ol/issues/3) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
-2. 🗣 Commented on [#2](https://github.com/nextcord/nextcord-ol/issues/2) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
-3. 🗣 Commented on [#1](https://github.com/nextcord/nextcord-ol/issues/1) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
-4. 🗣 Commented on [#3](https://github.com/ooliver1/mine-cat/issues/3) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-5. 🗣 Commented on [#2](https://github.com/ooliver1/mine-cat/issues/2) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+1. 🗣 Commented on [#33](https://github.com/Jasonlhy/VSCode-Hungry-Delete/issues/33) in [Jasonlhy/VSCode-Hungry-Delete](https://github.com/Jasonlhy/VSCode-Hungry-Delete)
+2. 🗣 Commented on [#3](https://github.com/nextcord/nextcord-ol/issues/3) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+3. 🗣 Commented on [#2](https://github.com/nextcord/nextcord-ol/issues/2) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+4. 🗣 Commented on [#1](https://github.com/nextcord/nextcord-ol/issues/1) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+5. 🗣 Commented on [#3](https://github.com/ooliver1/mine-cat/issues/3) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
 <!--END_SECTION:activity-->
 
 ---
