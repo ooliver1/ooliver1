@@ -154,13 +154,13 @@ I am currently working on [a actions GitHub repository automation workflow](http
 </p>
 <style>
   #stat {
-    max-width: 66%;
+    max-width: 66% !important;
   }
   #lang {
-    max-width: 33%;
+    max-width: 33% !important;
   }
   #graph {
-    max-width: 95%;
+    max-width: 95% !important;
   }
 </style>
 
