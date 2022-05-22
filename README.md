@@ -147,11 +147,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#7](https://github.com/ooliver1/nextcord.gay/pull/7) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-2. ❌ Closed PR [#7](https://github.com/ooliver1/nextcord.gay/pull/7) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-3. ❌ Reopened PR [#6](https://github.com/ooliver1/nextcord.gay/pull/6) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-4. ❌ Closed PR [#6](https://github.com/ooliver1/nextcord.gay/pull/6) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. ❌ Reopened PR [#5](https://github.com/ooliver1/nextcord.gay/pull/5) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🗣 Commented on [#5](https://github.com/ooliver1/wrangler-typescript/issues/5) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+2. 🗣 Commented on [#7](https://github.com/ooliver1/wrangler-typescript/issues/7) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+3. 🗣 Commented on [#6](https://github.com/ooliver1/wrangler-typescript/issues/6) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+4. 🗣 Commented on [#5](https://github.com/ooliver1/wrangler-typescript/issues/5) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+5. 🗣 Commented on [#4](https://github.com/ooliver1/wrangler-typescript/issues/4) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
 <!--END_SECTION:activity-->
 
 ---
