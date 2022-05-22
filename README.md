@@ -151,7 +151,6 @@ I am currently working on [a actions GitHub repository automation workflow](http
     id="graph"
     style="max-width: 95%"
   ></a>
-</p>
 <style>
   #stat {
     max-width: 66% !important;
@@ -163,6 +162,7 @@ I am currently working on [a actions GitHub repository automation workflow](http
     max-width: 95% !important;
   }
 </style>
+</p>
 
 **Note**: this does not represent skill level but purely the amount of code in each language on my profile.
 
