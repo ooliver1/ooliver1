@@ -147,11 +147,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#4](https://github.com/ooliver1/nextcord.gay/pull/4) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-2. ❌ Closed PR [#4](https://github.com/ooliver1/nextcord.gay/pull/4) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-3. 🗣 Commented on [#4](https://github.com/ooliver1/nextcord.gay/issues/4) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-4. 🗣 Commented on [#2](https://github.com/ooliver1/botbase/issues/2) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🗣 Commented on [#3](https://github.com/ooliver1/botbase/issues/3) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. ❌ Reopened PR [#7](https://github.com/ooliver1/nextcord.gay/pull/7) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+2. ❌ Closed PR [#7](https://github.com/ooliver1/nextcord.gay/pull/7) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+3. ❌ Reopened PR [#6](https://github.com/ooliver1/nextcord.gay/pull/6) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+4. ❌ Closed PR [#6](https://github.com/ooliver1/nextcord.gay/pull/6) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+5. ❌ Reopened PR [#5](https://github.com/ooliver1/nextcord.gay/pull/5) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
