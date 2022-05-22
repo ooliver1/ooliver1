@@ -134,8 +134,29 @@ I am currently working on [a actions GitHub repository automation workflow](http
 
 ## Statistics
 
-[![Ooliver1's GitHub stats](https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=ooliver1&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-logoe-stats) [![Ooliver1's GitHub stats](https://github-readme-stats-ooliver1.vercel.app/api/?username=ooliver1&theme=midnight-purple&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-logoe-stats)
-[![Ooliver1's GitHub graph](https://activity-graph.herokuapp.com/graph?username=ooliver1&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-logoity-graph)
+<p dir="auto" style="display: flex; white-space-collapsing: discard;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats-ooliver1.vercel.app/api/?username=ooliver1&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"
+      alt="Ooliver1's GitHub stats"
+      style="max-width: 33%; display: inline-block"
+    >
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats-ooliver1.vercel.app/api/?username=ooliver1&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"
+      alt="Ooliver1's GitHub stats"
+      style="max-width: 66%; display: inline-block"
+    >
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-logoity-graph">
+    <img
+      src="https://activity-graph.herokuapp.com/graph?username=ooliver1&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF&hide_border=true"
+      alt="Ooliver1's GitHub graph"
+      style="max-width: 99%; display: inline-block"
+    >
+  </a>
+</p>
 
 **Note**: this does not represent skill level but purely the amount of code in each language on my profile.
 
