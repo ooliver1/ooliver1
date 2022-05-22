@@ -145,11 +145,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#2](https://github.com/ooliver1/triagecat/pull/2) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-2. ❌ Closed PR [#2](https://github.com/ooliver1/triagecat/pull/2) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. 🗣 Commented on [#2](https://github.com/ooliver1/triagecat/issues/2) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. 🗣 Commented on [#1](https://github.com/ooliver1/triagecat/issues/1) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. ❌ Reopened PR [#1](https://github.com/ooliver1/triagecat/pull/1) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🗣 Commented on [#647](https://github.com/nextcord/nextcord/issues/647) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❌ Reopened PR [#2](https://github.com/ooliver1/triagecat/pull/2) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+3. ❌ Closed PR [#2](https://github.com/ooliver1/triagecat/pull/2) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+4. 🗣 Commented on [#2](https://github.com/ooliver1/triagecat/issues/2) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. 🗣 Commented on [#1](https://github.com/ooliver1/triagecat/issues/1) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
