@@ -134,35 +134,9 @@ I am currently working on [a actions GitHub repository automation workflow](http
 
 ## Statistics
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img 
-    src="https://github-readme-stats-ooliver1.vercel.app/api/?username=ooliver1&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"
-    alt="Ooliver1's GitHub stats"
-    id="stat"
-    style="max-width: 66%"
-  ></a><a href="https://github.com/anuraghazra/github-readme-stats"><img
-    src="https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=ooliver1&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true"
-    alt="Oolyyiver1's GitHub stats"
-    id="lang"
-    style="max-width: 33%"
-  ></a><a href="https://github.com/ashutosh00710/github-readme-logoity-graph"><img
-    src="https://activity-graph.herokuapp.com/graph?username=ooliver1&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF&hide_border=true"
-    alt="Ooliver1's GitHub graph"
-    id="graph"
-    style="max-width: 95%"
-  ></a>
-<style>
-  #stat {
-    max-width: 66% !important;
-  }
-  #lang {
-    max-width: 33% !important;
-  }
-  #graph {
-    max-width: 95% !important;
-  }
-</style>
-</p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-ooliver1.vercel.app/api/?username=ooliver1&theme=midnight-purple&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Ooliver1's GitHub stats" align="center" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=ooliver1&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true" alt="Ooliver1's GitHub stats" align="center" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 **Note**: this does not represent skill level but purely the amount of code in each language on my profile.
 
