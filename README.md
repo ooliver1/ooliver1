@@ -147,11 +147,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ooliver1/wrangler-typescript/issues/5) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-2. 🗣 Commented on [#7](https://github.com/ooliver1/wrangler-typescript/issues/7) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-3. 🗣 Commented on [#6](https://github.com/ooliver1/wrangler-typescript/issues/6) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-4. 🗣 Commented on [#5](https://github.com/ooliver1/wrangler-typescript/issues/5) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-5. 🗣 Commented on [#4](https://github.com/ooliver1/wrangler-typescript/issues/4) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+1. 🗣 Commented on [#3](https://github.com/nextcord/nextcord-ol/issues/3) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+2. 🗣 Commented on [#2](https://github.com/nextcord/nextcord-ol/issues/2) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+3. 🗣 Commented on [#1](https://github.com/nextcord/nextcord-ol/issues/1) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+4. 🗣 Commented on [#3](https://github.com/ooliver1/mine-cat/issues/3) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+5. 🗣 Commented on [#2](https://github.com/ooliver1/mine-cat/issues/2) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
 <!--END_SECTION:activity-->
 
 ---
