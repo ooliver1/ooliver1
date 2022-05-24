@@ -147,11 +147,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13024](https://github.com/hashicorp/consul/issues/13024) in [hashicorp/consul](https://github.com/hashicorp/consul)
-2. 🗣 Commented on [#13024](https://github.com/hashicorp/consul/issues/13024) in [hashicorp/consul](https://github.com/hashicorp/consul)
-3. 🗣 Commented on [#51](https://github.com/hnimminh/libresbc/issues/51) in [hnimminh/libresbc](https://github.com/hnimminh/libresbc)
-4. 🗣 Commented on [#15](https://github.com/ooliver1/nextcord.gay/issues/15) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. 🗣 Commented on [#14](https://github.com/ooliver1/nextcord.gay/issues/14) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🗣 Commented on [#17](https://github.com/ooliver1/nextcord.gay/issues/17) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+2. 🗣 Commented on [#16](https://github.com/ooliver1/nextcord.gay/issues/16) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+3. 🗣 Commented on [#10](https://github.com/ooliver1/wrangler-typescript/issues/10) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+4. 🗣 Commented on [#9](https://github.com/ooliver1/wrangler-typescript/issues/9) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+5. 🗣 Commented on [#8](https://github.com/ooliver1/wrangler-typescript/issues/8) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
 <!--END_SECTION:activity-->
 
 ---
