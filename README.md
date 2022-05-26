@@ -147,11 +147,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ooliver1/mine-cat/pull/4) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-2. 🗣 Commented on [#2327](https://github.com/discord-net/Discord.Net/issues/2327) in [discord-net/Discord.Net](https://github.com/discord-net/Discord.Net)
-3. ❗️ Opened issue [#13](https://github.com/ooliver1/status/issues/13) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#17](https://github.com/ooliver1/nextcord.gay/issues/17) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. 🗣 Commented on [#18](https://github.com/ooliver1/nextcord.gay/issues/18) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🗣 Commented on [#13](https://github.com/ooliver1/status/issues/13) in [ooliver1/status](https://github.com/ooliver1/status)
+2. ❗️ Closed issue [#13](https://github.com/ooliver1/status/issues/13) in [ooliver1/status](https://github.com/ooliver1/status)
+3. 💪 Opened PR [#4](https://github.com/ooliver1/mine-cat/pull/4) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+4. 🗣 Commented on [#2327](https://github.com/discord-net/Discord.Net/issues/2327) in [discord-net/Discord.Net](https://github.com/discord-net/Discord.Net)
+5. ❗️ Opened issue [#13](https://github.com/ooliver1/status/issues/13) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
