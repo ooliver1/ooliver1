@@ -147,11 +147,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2327](https://github.com/discord-net/Discord.Net/issues/2327) in [discord-net/Discord.Net](https://github.com/discord-net/Discord.Net)
-2. 🗣 Commented on [#13](https://github.com/ooliver1/status/issues/13) in [ooliver1/status](https://github.com/ooliver1/status)
-3. ❗️ Closed issue [#13](https://github.com/ooliver1/status/issues/13) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 💪 Opened PR [#4](https://github.com/ooliver1/mine-cat/pull/4) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-5. 🗣 Commented on [#2327](https://github.com/discord-net/Discord.Net/issues/2327) in [discord-net/Discord.Net](https://github.com/discord-net/Discord.Net)
+1. ❗️ Closed issue [#16](https://github.com/ooliver1/status/issues/16) in [ooliver1/status](https://github.com/ooliver1/status)
+2. 🗣 Commented on [#16](https://github.com/ooliver1/status/issues/16) in [ooliver1/status](https://github.com/ooliver1/status)
+3. ❗️ Closed issue [#15](https://github.com/ooliver1/status/issues/15) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#15](https://github.com/ooliver1/status/issues/15) in [ooliver1/status](https://github.com/ooliver1/status)
+5. ❗️ Closed issue [#14](https://github.com/ooliver1/status/issues/14) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
