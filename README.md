@@ -155,3 +155,5 @@ I am currently working on [a actions GitHub repository automation workflow](http
 <!--END_SECTION:activity-->
 
 ---
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/ooliver1/ooliver1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ooliver1/ooliver1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
