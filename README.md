@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/PyYoshi/cChardet/issues/77) in [PyYoshi/cChardet](https://github.com/PyYoshi/cChardet)
-2. ❌ Closed PR [#10](https://github.com/ooliver1/h/pull/10) in [ooliver1/h](https://github.com/ooliver1/h)
-3. 💪 Opened PR [#47](https://github.com/H4ckerxx44/h/pull/47) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-4. ❌ Closed PR [#45](https://github.com/H4ckerxx44/h/pull/45) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-5. 💪 Opened PR [#45](https://github.com/H4ckerxx44/h/pull/45) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+1. 🎉 Merged PR [#20](https://github.com/ooliver1/nextcord.gay/pull/20) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+2. 🗣 Commented on [#15](https://github.com/ooliver1/wrangler-typescript/issues/15) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+3. 🗣 Commented on [#77](https://github.com/PyYoshi/cChardet/issues/77) in [PyYoshi/cChardet](https://github.com/PyYoshi/cChardet)
+4. ❌ Closed PR [#10](https://github.com/ooliver1/h/pull/10) in [ooliver1/h](https://github.com/ooliver1/h)
+5. 💪 Opened PR [#47](https://github.com/H4ckerxx44/h/pull/47) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
 <!--END_SECTION:activity-->
 
 ---
