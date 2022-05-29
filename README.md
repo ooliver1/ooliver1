@@ -1,5 +1,7 @@
 # ooliver1
 
+Enoki shut up
+
 Hey there, I'm Oliver, a 15 year old software developer from the UK. I love making Discord bots with Python, solving problems with Typescript and java, and contributing to other OSS projects whilst sometimes bearing a bit of web development.
 
 I am currently working on [a actions GitHub repository automation workflow](https://github.com/ooliver1/triagecat)
