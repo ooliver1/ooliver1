@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/H4ckerxx44/h/pull/6) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-2. 💪 Opened PR [#5](https://github.com/H4ckerxx44/h/pull/5) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-3. 💪 Opened PR [#4](https://github.com/H4ckerxx44/h/pull/4) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-4. 💪 Opened PR [#3](https://github.com/H4ckerxx44/h/pull/3) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-5. 🎉 Merged PR [#1](https://github.com/ooliver1/ktlsp/pull/1) in [ooliver1/ktlsp](https://github.com/ooliver1/ktlsp)
+1. 💪 Opened PR [#11](https://github.com/H4ckerxx44/h/pull/11) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+2. 💪 Opened PR [#10](https://github.com/H4ckerxx44/h/pull/10) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+3. 💪 Opened PR [#9](https://github.com/H4ckerxx44/h/pull/9) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+4. 💪 Opened PR [#8](https://github.com/H4ckerxx44/h/pull/8) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+5. ❌ Closed PR [#7](https://github.com/H4ckerxx44/h/pull/7) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
 <!--END_SECTION:activity-->
 
 ---
