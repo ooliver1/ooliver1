@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/nextcord/previous/pull/95) in [nextcord/previous](https://github.com/nextcord/previous)
-2. ❗️ Closed issue [#94](https://github.com/nextcord/previous/issues/94) in [nextcord/previous](https://github.com/nextcord/previous)
-3. 🎉 Merged PR [#24](https://github.com/ooliver1/nextcord.gay/pull/24) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-4. 🎉 Merged PR [#23](https://github.com/ooliver1/nextcord.gay/pull/23) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. 🎉 Merged PR [#22](https://github.com/ooliver1/nextcord.gay/pull/22) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🎉 Merged PR [#6](https://github.com/ooliver1/triagecat/pull/6) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+2. 🎉 Merged PR [#5](https://github.com/ooliver1/triagecat/pull/5) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+3. 💪 Opened PR [#5](https://github.com/ooliver1/triagecat/pull/5) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+4. 🗣 Commented on [#3](https://github.com/ooliver1/triagecat/issues/3) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. ❌ Reopened PR [#3](https://github.com/ooliver1/triagecat/pull/3) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
