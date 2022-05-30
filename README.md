@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ooliver1/triagecat/pull/6) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-2. 🎉 Merged PR [#5](https://github.com/ooliver1/triagecat/pull/5) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. 💪 Opened PR [#5](https://github.com/ooliver1/triagecat/pull/5) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. 🗣 Commented on [#3](https://github.com/ooliver1/triagecat/issues/3) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. ❌ Reopened PR [#3](https://github.com/ooliver1/triagecat/pull/3) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🎉 Merged PR [#10](https://github.com/ooliver1/mine-cat/pull/10) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+2. 🗣 Commented on [#10](https://github.com/ooliver1/mine-cat/issues/10) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+3. ❌ Closed PR [#9](https://github.com/ooliver1/mine-cat/pull/9) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+4. 🗣 Commented on [#9](https://github.com/ooliver1/mine-cat/issues/9) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+5. ❌ Closed PR [#8](https://github.com/ooliver1/mine-cat/pull/8) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
 <!--END_SECTION:activity-->
 
 ---
