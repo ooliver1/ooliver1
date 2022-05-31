@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/ooliver1/nextcord.gay/issues/25) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-2. 🗣 Commented on [#26](https://github.com/ooliver1/nextcord.gay/issues/26) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-3. 🗣 Commented on [#19](https://github.com/ooliver1/wrangler-typescript/issues/19) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-4. 🗣 Commented on [#17](https://github.com/ooliver1/wrangler-typescript/issues/17) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-5. 🗣 Commented on [#16](https://github.com/ooliver1/wrangler-typescript/issues/16) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+1. 🎉 Merged PR [#10](https://github.com/ooliver1/triagecat/pull/10) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+2. ❌ Closed PR [#22](https://github.com/ooliver1/mine-cat/pull/22) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+3. 🗣 Commented on [#25](https://github.com/ooliver1/nextcord.gay/issues/25) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+4. 🗣 Commented on [#26](https://github.com/ooliver1/nextcord.gay/issues/26) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+5. 🗣 Commented on [#19](https://github.com/ooliver1/wrangler-typescript/issues/19) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
 <!--END_SECTION:activity-->
 
 ---
