@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/ooliver1/triagecat/issues/8) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-2. 🎉 Merged PR [#7](https://github.com/ooliver1/triagecat/pull/7) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. 🗣 Commented on [#8](https://github.com/ooliver1/triagecat/issues/8) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. 🗣 Commented on [#7](https://github.com/ooliver1/triagecat/issues/7) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. 🗣 Commented on [#7](https://github.com/ooliver1/triagecat/issues/7) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🗣 Commented on [#25](https://github.com/ooliver1/mine-cat/issues/25) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+2. 🗣 Commented on [#24](https://github.com/ooliver1/mine-cat/issues/24) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+3. 🗣 Commented on [#23](https://github.com/ooliver1/mine-cat/issues/23) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+4. 🗣 Commented on [#8](https://github.com/ooliver1/triagecat/issues/8) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. 🎉 Merged PR [#7](https://github.com/ooliver1/triagecat/pull/7) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
