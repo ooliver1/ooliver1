@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1978](https://github.com/pypa/pypi-support/issues/1978) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
-2. 🗣 Commented on [#11](https://github.com/ooliver1/triagecat/issues/11) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. 🗣 Commented on [#11](https://github.com/ooliver1/triagecat/issues/11) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. ❗️ Closed issue [#60](https://github.com/H4ckerxx44/h/issues/60) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-5. ❗️ Closed issue [#60](https://github.com/H4ckerxx44/h/issues/60) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+1. 🗣 Commented on [#27](https://github.com/ooliver1/nextcord.gay/issues/27) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+2. 🗣 Commented on [#27](https://github.com/ooliver1/nextcord.gay/issues/27) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+3. ❌ Closed PR [#27](https://github.com/ooliver1/nextcord.gay/pull/27) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+4. ❗️ Opened issue [#1978](https://github.com/pypa/pypi-support/issues/1978) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
+5. 🗣 Commented on [#11](https://github.com/ooliver1/triagecat/issues/11) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
