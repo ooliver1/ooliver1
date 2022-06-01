@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/H4ckerxx44/h/issues/1) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-2. 🎉 Merged PR [#57](https://github.com/H4ckerxx44/h/pull/57) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-3. 💪 Opened PR [#57](https://github.com/H4ckerxx44/h/pull/57) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-4. 🎉 Merged PR [#56](https://github.com/H4ckerxx44/h/pull/56) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-5. 💪 Opened PR [#56](https://github.com/H4ckerxx44/h/pull/56) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+1. ❗️ Closed issue [#60](https://github.com/H4ckerxx44/h/issues/60) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+2. ❗️ Closed issue [#60](https://github.com/H4ckerxx44/h/issues/60) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+3. ❗️ Closed issue [#60](https://github.com/H4ckerxx44/h/issues/60) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+4. ❗️ Closed issue [#60](https://github.com/H4ckerxx44/h/issues/60) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+5. ❗️ Opened issue [#60](https://github.com/H4ckerxx44/h/issues/60) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
 <!--END_SECTION:activity-->
 
 ---
