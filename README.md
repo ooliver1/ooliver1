@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#647](https://github.com/nextcord/nextcord/pull/647) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#467](https://github.com/nextcord/nextcord/issues/467) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#12](https://github.com/ooliver1/triagecat/issues/12) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. 💪 Opened PR [#102](https://github.com/nextcord/previous/pull/102) in [nextcord/previous](https://github.com/nextcord/previous)
-5. 🗣 Commented on [#655](https://github.com/nextcord/nextcord/issues/655) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#1](https://github.com/QPC-database/do-client/issues/1) in [QPC-database/do-client](https://github.com/QPC-database/do-client)
+2. 🎉 Merged PR [#647](https://github.com/nextcord/nextcord/pull/647) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#467](https://github.com/nextcord/nextcord/issues/467) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#12](https://github.com/ooliver1/triagecat/issues/12) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. 💪 Opened PR [#102](https://github.com/nextcord/previous/pull/102) in [nextcord/previous](https://github.com/nextcord/previous)
 <!--END_SECTION:activity-->
 
 ---
