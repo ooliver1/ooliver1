@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/ooliver1/mine-cat/pull/27) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-2. 💪 Opened PR [#26](https://github.com/ooliver1/mine-cat/pull/26) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-3. 🗣 Commented on [#656](https://github.com/nextcord/nextcord/issues/656) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#1](https://github.com/QPC-database/do-client/issues/1) in [QPC-database/do-client](https://github.com/QPC-database/do-client)
-5. 🎉 Merged PR [#647](https://github.com/nextcord/nextcord/pull/647) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#28](https://github.com/ooliver1/mine-cat/pull/28) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+2. 🎉 Merged PR [#26](https://github.com/ooliver1/mine-cat/pull/26) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+3. 💪 Opened PR [#27](https://github.com/ooliver1/mine-cat/pull/27) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+4. 💪 Opened PR [#26](https://github.com/ooliver1/mine-cat/pull/26) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+5. 🗣 Commented on [#656](https://github.com/nextcord/nextcord/issues/656) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
