@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#644](https://github.com/nextcord/nextcord/pull/644) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#647](https://github.com/nextcord/nextcord/issues/647) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#27](https://github.com/ooliver1/nextcord.gay/issues/27) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-4. 🗣 Commented on [#27](https://github.com/ooliver1/nextcord.gay/issues/27) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. ❌ Closed PR [#27](https://github.com/ooliver1/nextcord.gay/pull/27) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🗣 Commented on [#6](https://github.com/nextcord/nextcord-ol/issues/6) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+2. 🗣 Commented on [#654](https://github.com/nextcord/nextcord/issues/654) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#644](https://github.com/nextcord/nextcord/pull/644) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#647](https://github.com/nextcord/nextcord/issues/647) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#27](https://github.com/ooliver1/nextcord.gay/issues/27) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
