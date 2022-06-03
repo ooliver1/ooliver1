@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/ooliver1/mine-cat/pull/32) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-2. 🎉 Merged PR [#31](https://github.com/ooliver1/mine-cat/pull/31) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-3. 💪 Opened PR [#31](https://github.com/ooliver1/mine-cat/pull/31) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-4. ❌ Closed PR [#30](https://github.com/ooliver1/mine-cat/pull/30) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-5. 💪 Opened PR [#30](https://github.com/ooliver1/mine-cat/pull/30) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+1. 🎉 Merged PR [#658](https://github.com/nextcord/nextcord/pull/658) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#32](https://github.com/ooliver1/mine-cat/pull/32) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+3. 🎉 Merged PR [#31](https://github.com/ooliver1/mine-cat/pull/31) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+4. 💪 Opened PR [#31](https://github.com/ooliver1/mine-cat/pull/31) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+5. ❌ Closed PR [#30](https://github.com/ooliver1/mine-cat/pull/30) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
 <!--END_SECTION:activity-->
 
 ---
