@@ -107,10 +107,10 @@ I am currently working on [a actions GitHub repository automation workflow](http
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#480](https://github.com/Pincer-org/Pincer/issues/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
-2. 💪 Opened PR [#480](https://github.com/Pincer-org/Pincer/pull/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
-3. 🎉 Merged PR [#657](https://github.com/nextcord/nextcord/pull/657) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#13](https://github.com/ooliver1/triagecat/issues/13) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. 🎉 Merged PR [#28](https://github.com/ooliver1/mine-cat/pull/28) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+2. 🗣 Commented on [#480](https://github.com/Pincer-org/Pincer/issues/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+3. 🗣 Commented on [#480](https://github.com/Pincer-org/Pincer/issues/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+4. 💪 Opened PR [#480](https://github.com/Pincer-org/Pincer/pull/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+5. 🎉 Merged PR [#657](https://github.com/nextcord/nextcord/pull/657) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
