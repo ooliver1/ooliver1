@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/ooliver1/mine-cat/pull/29) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-2. 🗣 Commented on [#480](https://github.com/Pincer-org/Pincer/issues/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+1. 🎉 Merged PR [#29](https://github.com/ooliver1/mine-cat/pull/29) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+2. 💪 Opened PR [#29](https://github.com/ooliver1/mine-cat/pull/29) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
 3. 🗣 Commented on [#480](https://github.com/Pincer-org/Pincer/issues/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
 4. 🗣 Commented on [#480](https://github.com/Pincer-org/Pincer/issues/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
-5. 💪 Opened PR [#480](https://github.com/Pincer-org/Pincer/pull/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+5. 🗣 Commented on [#480](https://github.com/Pincer-org/Pincer/issues/480) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
 <!--END_SECTION:activity-->
 
 ---
