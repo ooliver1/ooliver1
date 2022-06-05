@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/ooliver1/nextcord-test/issues/37) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
-2. ❗️ Opened issue [#36](https://github.com/ooliver1/nextcord-test/issues/36) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
-3. ❗️ Opened issue [#35](https://github.com/ooliver1/nextcord-test/issues/35) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
-4. ❗️ Opened issue [#33](https://github.com/ooliver1/nextcord-test/issues/33) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
-5. ❗️ Opened issue [#32](https://github.com/ooliver1/nextcord-test/issues/32) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+1. ❗️ Opened issue [#42](https://github.com/ooliver1/nextcord-test/issues/42) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+2. ❗️ Opened issue [#41](https://github.com/ooliver1/nextcord-test/issues/41) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+3. ❗️ Opened issue [#40](https://github.com/ooliver1/nextcord-test/issues/40) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+4. ❗️ Opened issue [#39](https://github.com/ooliver1/nextcord-test/issues/39) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+5. ❗️ Opened issue [#38](https://github.com/ooliver1/nextcord-test/issues/38) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
 <!--END_SECTION:activity-->
 
 ---
