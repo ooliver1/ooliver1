@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#104](https://github.com/ooliver1/nextcord-test/issues/104) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
-2. ❗️ Opened issue [#103](https://github.com/ooliver1/nextcord-test/issues/103) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
-3. ❗️ Opened issue [#102](https://github.com/ooliver1/nextcord-test/issues/102) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
-4. ❗️ Opened issue [#101](https://github.com/ooliver1/nextcord-test/issues/101) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
-5. ❗️ Opened issue [#100](https://github.com/ooliver1/nextcord-test/issues/100) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+1. ❗️ Closed issue [#26](https://github.com/ooliver1/nextcord-test/issues/26) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+2. 🎉 Merged PR [#78](https://github.com/ooliver1/nextcord-test/pull/78) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+3. ❗️ Closed issue [#8](https://github.com/ooliver1/nextcord-test/issues/8) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+4. 🎉 Merged PR [#77](https://github.com/ooliver1/nextcord-test/pull/77) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
+5. ❗️ Closed issue [#7](https://github.com/ooliver1/nextcord-test/issues/7) in [ooliver1/nextcord-test](https://github.com/ooliver1/nextcord-test)
 <!--END_SECTION:activity-->
 
 ---
