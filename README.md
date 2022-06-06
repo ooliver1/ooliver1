@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/nextcord/nextcord-ol/issues/7) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
-2. 🗣 Commented on [#8](https://github.com/nextcord/nextcord-ol/issues/8) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
-3. 💪 Opened PR [#666](https://github.com/nextcord/nextcord/pull/666) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#664](https://github.com/nextcord/nextcord/pull/664) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#2](https://github.com/antocuni/pypytools/issues/2) in [antocuni/pypytools](https://github.com/antocuni/pypytools)
+1. ❗️ Closed issue [#27](https://github.com/ooliver1/status/issues/27) in [ooliver1/status](https://github.com/ooliver1/status)
+2. 🗣 Commented on [#27](https://github.com/ooliver1/status/issues/27) in [ooliver1/status](https://github.com/ooliver1/status)
+3. ❗️ Opened issue [#27](https://github.com/ooliver1/status/issues/27) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#7](https://github.com/nextcord/nextcord-ol/issues/7) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+5. 🗣 Commented on [#8](https://github.com/nextcord/nextcord-ol/issues/8) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
 <!--END_SECTION:activity-->
 
 ---
