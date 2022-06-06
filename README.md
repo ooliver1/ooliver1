@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/antocuni/pypytools/issues/2) in [antocuni/pypytools](https://github.com/antocuni/pypytools)
-2. 🗣 Commented on [#17](https://github.com/ooliver1/triagecat/issues/17) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. 🗣 Commented on [#16](https://github.com/ooliver1/triagecat/issues/16) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. 🗣 Commented on [#15](https://github.com/ooliver1/triagecat/issues/15) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. 🗣 Commented on [#14](https://github.com/ooliver1/triagecat/issues/14) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🎉 Merged PR [#664](https://github.com/nextcord/nextcord/pull/664) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#2](https://github.com/antocuni/pypytools/issues/2) in [antocuni/pypytools](https://github.com/antocuni/pypytools)
+3. 🗣 Commented on [#17](https://github.com/ooliver1/triagecat/issues/17) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+4. 🗣 Commented on [#16](https://github.com/ooliver1/triagecat/issues/16) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. 🗣 Commented on [#15](https://github.com/ooliver1/triagecat/issues/15) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
