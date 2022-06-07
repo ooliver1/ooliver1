@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#27](https://github.com/ooliver1/status/issues/27) in [ooliver1/status](https://github.com/ooliver1/status)
-2. 🗣 Commented on [#27](https://github.com/ooliver1/status/issues/27) in [ooliver1/status](https://github.com/ooliver1/status)
-3. ❗️ Opened issue [#27](https://github.com/ooliver1/status/issues/27) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#7](https://github.com/nextcord/nextcord-ol/issues/7) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
-5. 🗣 Commented on [#8](https://github.com/nextcord/nextcord-ol/issues/8) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+1. 🗣 Commented on [#33](https://github.com/ooliver1/mine-cat/issues/33) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+2. 🗣 Commented on [#32](https://github.com/ooliver1/nextcord.gay/issues/32) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+3. 🗣 Commented on [#32](https://github.com/ooliver1/nextcord.gay/issues/32) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+4. 🗣 Commented on [#19](https://github.com/ooliver1/triagecat/issues/19) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. 🗣 Commented on [#24](https://github.com/ooliver1/wrangler-typescript/issues/24) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
 <!--END_SECTION:activity-->
 
 ---
