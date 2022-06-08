@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/ooliver1/mine-cat/issues/33) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-2. 🗣 Commented on [#32](https://github.com/ooliver1/nextcord.gay/issues/32) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-3. 🗣 Commented on [#32](https://github.com/ooliver1/nextcord.gay/issues/32) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-4. 🗣 Commented on [#19](https://github.com/ooliver1/triagecat/issues/19) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. 🗣 Commented on [#24](https://github.com/ooliver1/wrangler-typescript/issues/24) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+1. ❗️ Closed issue [#667](https://github.com/nextcord/nextcord/issues/667) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#667](https://github.com/nextcord/nextcord/issues/667) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#33](https://github.com/ooliver1/mine-cat/issues/33) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+4. 🗣 Commented on [#32](https://github.com/ooliver1/nextcord.gay/issues/32) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+5. 🗣 Commented on [#32](https://github.com/ooliver1/nextcord.gay/issues/32) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
