@@ -106,11 +106,11 @@ I am currently working on [a actions GitHub repository automation workflow](http
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#670](https://github.com/nextcord/nextcord/issues/670) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#22](https://github.com/ooliver1/triagecat/issues/22) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. 🗣 Commented on [#665](https://github.com/nextcord/nextcord/issues/665) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#34](https://github.com/ooliver1/mine-cat/issues/34) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
-5. 🗣 Commented on [#21](https://github.com/ooliver1/triagecat/issues/21) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🗣 Commented on [#672](https://github.com/nextcord/nextcord/issues/672) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#670](https://github.com/nextcord/nextcord/issues/670) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#22](https://github.com/ooliver1/triagecat/issues/22) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+4. 🗣 Commented on [#665](https://github.com/nextcord/nextcord/issues/665) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#34](https://github.com/ooliver1/mine-cat/issues/34) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
 <!--END_SECTION:activity-->
 
 ---
