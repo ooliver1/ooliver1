@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ooliver1/ooliver1/pull/1) in [ooliver1/ooliver1](https://github.com/ooliver1/ooliver1)
-2. 🗣 Commented on [#591](https://github.com/nextcord/nextcord/issues/591) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#672](https://github.com/nextcord/nextcord/issues/672) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#23](https://github.com/ooliver1/triagecat/issues/23) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+2. 🎉 Merged PR [#1](https://github.com/ooliver1/ooliver1/pull/1) in [ooliver1/ooliver1](https://github.com/ooliver1/ooliver1)
+3. 🗣 Commented on [#591](https://github.com/nextcord/nextcord/issues/591) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 4. 🗣 Commented on [#672](https://github.com/nextcord/nextcord/issues/672) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#670](https://github.com/nextcord/nextcord/issues/670) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#672](https://github.com/nextcord/nextcord/issues/672) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
