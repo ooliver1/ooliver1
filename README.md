@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/nextcord/nextcord/issues/18) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#18](https://github.com/nextcord/nextcord/issues/18) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#103](https://github.com/nextcord/previous/pull/103) in [nextcord/previous](https://github.com/nextcord/previous)
+2. ❗️ Closed issue [#18](https://github.com/nextcord/nextcord/issues/18) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 3. 🗣 Commented on [#18](https://github.com/nextcord/nextcord/issues/18) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 4. 🗣 Commented on [#18](https://github.com/nextcord/nextcord/issues/18) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#656](https://github.com/nextcord/nextcord/issues/656) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#18](https://github.com/nextcord/nextcord/issues/18) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
