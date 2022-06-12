@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/eZaR-Bot/3Z4R/pull/4) in [eZaR-Bot/3Z4R](https://github.com/eZaR-Bot/3Z4R)
-2. 🗣 Commented on [#674](https://github.com/nextcord/nextcord/issues/674) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#103](https://github.com/nextcord/previous/issues/103) in [nextcord/previous](https://github.com/nextcord/previous)
-4. 💪 Opened PR [#103](https://github.com/nextcord/previous/pull/103) in [nextcord/previous](https://github.com/nextcord/previous)
-5. ❗️ Closed issue [#18](https://github.com/nextcord/nextcord/issues/18) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#670](https://github.com/nextcord/nextcord/pull/670) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 💪 Opened PR [#4](https://github.com/eZaR-Bot/3Z4R/pull/4) in [eZaR-Bot/3Z4R](https://github.com/eZaR-Bot/3Z4R)
+3. 🗣 Commented on [#674](https://github.com/nextcord/nextcord/issues/674) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#103](https://github.com/nextcord/previous/issues/103) in [nextcord/previous](https://github.com/nextcord/previous)
+5. 💪 Opened PR [#103](https://github.com/nextcord/previous/pull/103) in [nextcord/previous](https://github.com/nextcord/previous)
 <!--END_SECTION:activity-->
 
 ---
