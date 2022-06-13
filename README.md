@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#367](https://github.com/nextcord/nextcord/issues/367) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#367](https://github.com/nextcord/nextcord/issues/367) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#6](https://github.com/ooliver1/astro-tailwind/issues/6) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-4. 🗣 Commented on [#7](https://github.com/ooliver1/astro-tailwind/issues/7) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-5. 🗣 Commented on [#35](https://github.com/ooliver1/nextcord.gay/issues/35) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. ❗️ Closed issue [#576](https://github.com/nextcord/nextcord/issues/576) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#576](https://github.com/nextcord/nextcord/issues/576) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#106](https://github.com/nextcord/nextcord/issues/106) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#106](https://github.com/nextcord/nextcord/issues/106) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Closed issue [#367](https://github.com/nextcord/nextcord/issues/367) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
