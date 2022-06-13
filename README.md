@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/ooliver1/nextcord.gay/pull/35) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-2. 🗣 Commented on [#24](https://github.com/ooliver1/triagecat/issues/24) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. ❗️ Closed issue [#576](https://github.com/nextcord/nextcord/issues/576) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#576](https://github.com/nextcord/nextcord/issues/576) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Closed issue [#106](https://github.com/nextcord/nextcord/issues/106) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#680](https://github.com/nextcord/nextcord/pull/680) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#35](https://github.com/ooliver1/nextcord.gay/pull/35) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+3. 🗣 Commented on [#24](https://github.com/ooliver1/triagecat/issues/24) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+4. ❗️ Closed issue [#576](https://github.com/nextcord/nextcord/issues/576) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#576](https://github.com/nextcord/nextcord/issues/576) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
