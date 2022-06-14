@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Eludris/thang-discord/pull/1) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
-2. 🗣 Commented on [#27](https://github.com/ooliver1/triagecat/issues/27) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. 🗣 Commented on [#28](https://github.com/ooliver1/triagecat/issues/28) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. 🗣 Commented on [#27](https://github.com/ooliver1/triagecat/issues/27) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. 🗣 Commented on [#26](https://github.com/ooliver1/triagecat/issues/26) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. ❗️ Closed issue [#30](https://github.com/ooliver1/status/issues/30) in [ooliver1/status](https://github.com/ooliver1/status)
+2. 🗣 Commented on [#30](https://github.com/ooliver1/status/issues/30) in [ooliver1/status](https://github.com/ooliver1/status)
+3. ❗️ Opened issue [#30](https://github.com/ooliver1/status/issues/30) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🎉 Merged PR [#1](https://github.com/Eludris/thang-discord/pull/1) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
+5. 🗣 Commented on [#27](https://github.com/ooliver1/triagecat/issues/27) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
