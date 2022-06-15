@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/ooliver1/astro-tailwind/issues/8) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-2. ❗️ Closed issue [#30](https://github.com/ooliver1/status/issues/30) in [ooliver1/status](https://github.com/ooliver1/status)
-3. 🗣 Commented on [#30](https://github.com/ooliver1/status/issues/30) in [ooliver1/status](https://github.com/ooliver1/status)
-4. ❗️ Opened issue [#30](https://github.com/ooliver1/status/issues/30) in [ooliver1/status](https://github.com/ooliver1/status)
-5. 🎉 Merged PR [#1](https://github.com/Eludris/thang-discord/pull/1) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
+1. 🗣 Commented on [#32](https://github.com/ooliver1/status/issues/32) in [ooliver1/status](https://github.com/ooliver1/status)
+2. ❗️ Closed issue [#32](https://github.com/ooliver1/status/issues/32) in [ooliver1/status](https://github.com/ooliver1/status)
+3. ❗️ Closed issue [#31](https://github.com/ooliver1/status/issues/31) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#31](https://github.com/ooliver1/status/issues/31) in [ooliver1/status](https://github.com/ooliver1/status)
+5. ❗️ Opened issue [#32](https://github.com/ooliver1/status/issues/32) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
