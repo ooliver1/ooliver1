@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/ooliver1/status/issues/32) in [ooliver1/status](https://github.com/ooliver1/status)
-2. ❗️ Closed issue [#32](https://github.com/ooliver1/status/issues/32) in [ooliver1/status](https://github.com/ooliver1/status)
-3. ❗️ Closed issue [#31](https://github.com/ooliver1/status/issues/31) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#31](https://github.com/ooliver1/status/issues/31) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Opened issue [#32](https://github.com/ooliver1/status/issues/32) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🗣 Commented on [#162](https://github.com/nextcord/nextcord/issues/162) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❌ Closed PR [#162](https://github.com/nextcord/nextcord/pull/162) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❌ Reopened PR [#162](https://github.com/nextcord/nextcord/pull/162) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#162](https://github.com/nextcord/nextcord/issues/162) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 💪 Opened PR [#681](https://github.com/nextcord/nextcord/pull/681) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
