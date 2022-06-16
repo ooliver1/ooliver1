@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/ooliver1/status/issues/43) in [ooliver1/status](https://github.com/ooliver1/status)
-2. 🗣 Commented on [#43](https://github.com/ooliver1/status/issues/43) in [ooliver1/status](https://github.com/ooliver1/status)
-3. ❗️ Closed issue [#42](https://github.com/ooliver1/status/issues/42) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#42](https://github.com/ooliver1/status/issues/42) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Opened issue [#43](https://github.com/ooliver1/status/issues/43) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🗣 Commented on [#3](https://github.com/ooliver1/bot-template/issues/3) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+2. 🗣 Commented on [#1](https://github.com/ooliver1/bot-template/issues/1) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+3. 🗣 Commented on [#1](https://github.com/ooliver1/bot-template/issues/1) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+4. 🗣 Commented on [#2](https://github.com/ooliver1/bot-template/issues/2) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+5. ❗️ Closed issue [#43](https://github.com/ooliver1/status/issues/43) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
