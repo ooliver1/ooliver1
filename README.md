@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#662](https://github.com/nextcord/nextcord/pull/662) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#684](https://github.com/nextcord/nextcord/pull/684) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#16](https://github.com/nextcord/nextcord/issues/16) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#681](https://github.com/nextcord/nextcord/pull/681) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Closed issue [#12](https://github.com/nextcord/nextcord/issues/12) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#671](https://github.com/nextcord/nextcord/pull/671) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#662](https://github.com/nextcord/nextcord/pull/662) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#684](https://github.com/nextcord/nextcord/pull/684) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❗️ Closed issue [#16](https://github.com/nextcord/nextcord/issues/16) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#681](https://github.com/nextcord/nextcord/pull/681) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
