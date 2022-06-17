@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com/ooliver1/status/issues/45) in [ooliver1/status](https://github.com/ooliver1/status)
-2. ❗️ Opened issue [#44](https://github.com/ooliver1/status/issues/44) in [ooliver1/status](https://github.com/ooliver1/status)
-3. 🎉 Merged PR [#671](https://github.com/nextcord/nextcord/pull/671) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#662](https://github.com/nextcord/nextcord/pull/662) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#684](https://github.com/nextcord/nextcord/pull/684) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Closed issue [#45](https://github.com/ooliver1/status/issues/45) in [ooliver1/status](https://github.com/ooliver1/status)
+2. 🗣 Commented on [#45](https://github.com/ooliver1/status/issues/45) in [ooliver1/status](https://github.com/ooliver1/status)
+3. ❗️ Closed issue [#44](https://github.com/ooliver1/status/issues/44) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#44](https://github.com/ooliver1/status/issues/44) in [ooliver1/status](https://github.com/ooliver1/status)
+5. ❗️ Opened issue [#45](https://github.com/ooliver1/status/issues/45) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
