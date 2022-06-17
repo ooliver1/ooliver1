@@ -62,7 +62,6 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?logo=Namecheap&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?logo=New%20Relic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=PowerShell&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white)
 ![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?logo=Read%20the%20Docs&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white)
