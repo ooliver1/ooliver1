@@ -106,11 +106,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/nextcord/nextcord/issues/682) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#45](https://github.com/ooliver1/status/issues/45) in [ooliver1/status](https://github.com/ooliver1/status)
-3. 🗣 Commented on [#45](https://github.com/ooliver1/status/issues/45) in [ooliver1/status](https://github.com/ooliver1/status)
-4. ❗️ Closed issue [#44](https://github.com/ooliver1/status/issues/44) in [ooliver1/status](https://github.com/ooliver1/status)
-5. 🗣 Commented on [#44](https://github.com/ooliver1/status/issues/44) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🎉 Merged PR [#30](https://github.com/ooliver1/wrangler-typescript/pull/30) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+2. 🎉 Merged PR [#31](https://github.com/ooliver1/wrangler-typescript/pull/31) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+3. 🎉 Merged PR [#29](https://github.com/ooliver1/wrangler-typescript/pull/29) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+4. 🗣 Commented on [#1](https://github.com/ooliver1/miniflare/issues/1) in [ooliver1/miniflare](https://github.com/ooliver1/miniflare)
+5. 🗣 Commented on [#2](https://github.com/ooliver1/miniflare/issues/2) in [ooliver1/miniflare](https://github.com/ooliver1/miniflare)
 <!--END_SECTION:activity-->
 
 ---
