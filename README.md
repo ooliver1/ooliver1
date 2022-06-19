@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#683](https://github.com/nextcord/nextcord/pull/683) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#2](https://github.com/eZaR-Bot/eZaR-Website/issues/2) in [eZaR-Bot/eZaR-Website](https://github.com/eZaR-Bot/eZaR-Website)
-3. 🎉 Merged PR [#30](https://github.com/ooliver1/wrangler-typescript/pull/30) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-4. 🎉 Merged PR [#31](https://github.com/ooliver1/wrangler-typescript/pull/31) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-5. 🎉 Merged PR [#29](https://github.com/ooliver1/wrangler-typescript/pull/29) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+1. 🎉 Merged PR [#687](https://github.com/nextcord/nextcord/pull/687) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Closed issue [#668](https://github.com/nextcord/nextcord/issues/668) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#669](https://github.com/nextcord/nextcord/pull/669) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❌ Closed PR [#224](https://github.com/nextcord/nextcord/pull/224) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#224](https://github.com/nextcord/nextcord/issues/224) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
