@@ -90,10 +90,10 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#635](https://github.com/nextcord/nextcord/issues/635) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#69](https://github.com/ooliver1/status/issues/69) in [ooliver1/status](https://github.com/ooliver1/status)
-3. 🗣 Commented on [#68](https://github.com/ooliver1/status/issues/68) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#69](https://github.com/ooliver1/status/issues/69) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Closed issue [#68](https://github.com/ooliver1/status/issues/68) in [ooliver1/status](https://github.com/ooliver1/status)
+2. 🗣 Commented on [#635](https://github.com/nextcord/nextcord/issues/635) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#69](https://github.com/ooliver1/status/issues/69) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#68](https://github.com/ooliver1/status/issues/68) in [ooliver1/status](https://github.com/ooliver1/status)
+5. 🗣 Commented on [#69](https://github.com/ooliver1/status/issues/69) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
