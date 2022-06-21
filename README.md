@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#691](https://github.com/nextcord/nextcord/pull/691) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#692](https://github.com/nextcord/nextcord/issues/692) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#105](https://github.com/nextcord/nextcord/issues/105) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#685](https://github.com/nextcord/nextcord/pull/685) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#691](https://github.com/nextcord/nextcord/issues/691) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Closed issue [#48](https://github.com/ooliver1/status/issues/48) in [ooliver1/status](https://github.com/ooliver1/status)
+2. 🗣 Commented on [#48](https://github.com/ooliver1/status/issues/48) in [ooliver1/status](https://github.com/ooliver1/status)
+3. ❗️ Opened issue [#50](https://github.com/ooliver1/status/issues/50) in [ooliver1/status](https://github.com/ooliver1/status)
+4. ❗️ Opened issue [#49](https://github.com/ooliver1/status/issues/49) in [ooliver1/status](https://github.com/ooliver1/status)
+5. ❗️ Closed issue [#47](https://github.com/ooliver1/status/issues/47) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
