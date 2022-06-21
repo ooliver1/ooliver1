@@ -89,10 +89,10 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/nextcord/nextcord/issues/17) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#17](https://github.com/nextcord/nextcord/issues/17) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#7286](https://github.com/Rapptz/discord.py/issues/7286) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. 🗣 Commented on [#635](https://github.com/nextcord/nextcord/issues/635) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#420](https://github.com/nextcord/nextcord/issues/420) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Closed issue [#17](https://github.com/nextcord/nextcord/issues/17) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#17](https://github.com/nextcord/nextcord/issues/17) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#7286](https://github.com/Rapptz/discord.py/issues/7286) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 5. 🗣 Commented on [#635](https://github.com/nextcord/nextcord/issues/635) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
