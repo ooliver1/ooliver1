@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6788](https://github.com/aio-libs/aiohttp/issues/6788) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
-2. 🗣 Commented on [#77](https://github.com/PyYoshi/cChardet/issues/77) in [PyYoshi/cChardet](https://github.com/PyYoshi/cChardet)
-3. 💪 Opened PR [#695](https://github.com/nextcord/nextcord/pull/695) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#420](https://github.com/nextcord/nextcord/issues/420) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Closed issue [#17](https://github.com/nextcord/nextcord/issues/17) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#682](https://github.com/nextcord/nextcord/issues/682) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#682](https://github.com/nextcord/nextcord/issues/682) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#6788](https://github.com/aio-libs/aiohttp/issues/6788) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+4. 🗣 Commented on [#77](https://github.com/PyYoshi/cChardet/issues/77) in [PyYoshi/cChardet](https://github.com/PyYoshi/cChardet)
+5. 💪 Opened PR [#695](https://github.com/nextcord/nextcord/pull/695) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
