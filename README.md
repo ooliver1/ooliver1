@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#703](https://github.com/nextcord/nextcord/pull/703) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#702](https://github.com/nextcord/nextcord/issues/702) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#1](https://github.com/H4ckerxx44/h/issues/1) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-4. 🗣 Commented on [#702](https://github.com/nextcord/nextcord/issues/702) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#701](https://github.com/nextcord/nextcord/issues/701) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#63](https://github.com/H4ckerxx44/h/pull/63) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+2. 💪 Opened PR [#63](https://github.com/H4ckerxx44/h/pull/63) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+3. 🎉 Merged PR [#62](https://github.com/H4ckerxx44/h/pull/62) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+4. 💪 Opened PR [#62](https://github.com/H4ckerxx44/h/pull/62) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+5. 🎉 Merged PR [#703](https://github.com/nextcord/nextcord/pull/703) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
