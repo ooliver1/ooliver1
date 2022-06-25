@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#70](https://github.com/ooliver1/status/issues/70) in [ooliver1/status](https://github.com/ooliver1/status)
-2. 🎉 Merged PR [#66](https://github.com/H4ckerxx44/h/pull/66) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-3. 🎉 Merged PR [#65](https://github.com/H4ckerxx44/h/pull/65) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-4. 💪 Opened PR [#65](https://github.com/H4ckerxx44/h/pull/65) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
-5. 🎉 Merged PR [#64](https://github.com/H4ckerxx44/h/pull/64) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+1. 🗣 Commented on [#70](https://github.com/ooliver1/status/issues/70) in [ooliver1/status](https://github.com/ooliver1/status)
+2. ❗️ Opened issue [#70](https://github.com/ooliver1/status/issues/70) in [ooliver1/status](https://github.com/ooliver1/status)
+3. 🎉 Merged PR [#66](https://github.com/H4ckerxx44/h/pull/66) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+4. 🎉 Merged PR [#65](https://github.com/H4ckerxx44/h/pull/65) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
+5. 💪 Opened PR [#65](https://github.com/H4ckerxx44/h/pull/65) in [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
 <!--END_SECTION:activity-->
 
 ---
