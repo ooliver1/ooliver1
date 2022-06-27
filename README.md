@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/nextcord/previous/issues/105) in [nextcord/previous](https://github.com/nextcord/previous)
-2. 🗣 Commented on [#709](https://github.com/nextcord/nextcord/issues/709) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#709](https://github.com/nextcord/nextcord/issues/709) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#105](https://github.com/nextcord/previous/pull/105) in [nextcord/previous](https://github.com/nextcord/previous)
-5. 🎉 Merged PR [#705](https://github.com/nextcord/nextcord/pull/705) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#46](https://github.com/ooliver1/nextcord.gay/pull/46) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+2. 🎉 Merged PR [#44](https://github.com/ooliver1/nextcord.gay/pull/44) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+3. 🎉 Merged PR [#39](https://github.com/ooliver1/nextcord.gay/pull/39) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+4. 🎉 Merged PR [#41](https://github.com/ooliver1/nextcord.gay/pull/41) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+5. 🎉 Merged PR [#43](https://github.com/ooliver1/nextcord.gay/pull/43) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
