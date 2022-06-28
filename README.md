@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/ooliver1/wrangler-typescript/issues/37) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-2. 🗣 Commented on [#36](https://github.com/ooliver1/wrangler-typescript/issues/36) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-3. 🗣 Commented on [#33](https://github.com/ooliver1/wrangler-typescript/issues/33) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-4. 🎉 Merged PR [#35](https://github.com/ooliver1/wrangler-typescript/pull/35) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-5. 🗣 Commented on [#37](https://github.com/ooliver1/wrangler-typescript/issues/37) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+1. 🎉 Merged PR [#106](https://github.com/nextcord/previous/pull/106) in [nextcord/previous](https://github.com/nextcord/previous)
+2. 🗣 Commented on [#106](https://github.com/nextcord/previous/issues/106) in [nextcord/previous](https://github.com/nextcord/previous)
+3. 🎉 Merged PR [#695](https://github.com/nextcord/nextcord/pull/695) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#686](https://github.com/nextcord/nextcord/pull/686) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Closed issue [#676](https://github.com/nextcord/nextcord/issues/676) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
