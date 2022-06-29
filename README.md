@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#711](https://github.com/nextcord/nextcord/pull/711) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#710](https://github.com/nextcord/nextcord/issues/710) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#716](https://github.com/nextcord/nextcord/pull/716) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#717](https://github.com/nextcord/nextcord/pull/717) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Closed issue [#116](https://github.com/ooliver1/status/issues/116) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🎉 Merged PR [#699](https://github.com/nextcord/nextcord/pull/699) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Closed issue [#382](https://github.com/nextcord/nextcord/issues/382) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#711](https://github.com/nextcord/nextcord/pull/711) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❗️ Closed issue [#710](https://github.com/nextcord/nextcord/issues/710) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#716](https://github.com/nextcord/nextcord/pull/716) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
