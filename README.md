@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#438](https://github.com/ooliver1/status/issues/438) in [ooliver1/status](https://github.com/ooliver1/status)
-2. 🗣 Commented on [#438](https://github.com/ooliver1/status/issues/438) in [ooliver1/status](https://github.com/ooliver1/status)
-3. ❗️ Closed issue [#437](https://github.com/ooliver1/status/issues/437) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#437](https://github.com/ooliver1/status/issues/437) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Opened issue [#438](https://github.com/ooliver1/status/issues/438) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🗣 Commented on [#441](https://github.com/ooliver1/status/issues/441) in [ooliver1/status](https://github.com/ooliver1/status)
+2. ❗️ Closed issue [#441](https://github.com/ooliver1/status/issues/441) in [ooliver1/status](https://github.com/ooliver1/status)
+3. ❗️ Closed issue [#439](https://github.com/ooliver1/status/issues/439) in [ooliver1/status](https://github.com/ooliver1/status)
+4. ❗️ Closed issue [#440](https://github.com/ooliver1/status/issues/440) in [ooliver1/status](https://github.com/ooliver1/status)
+5. 🗣 Commented on [#440](https://github.com/ooliver1/status/issues/440) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
