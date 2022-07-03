@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#468](https://github.com/ooliver1/status/issues/468) in [ooliver1/status](https://github.com/ooliver1/status)
-2. 🗣 Commented on [#468](https://github.com/ooliver1/status/issues/468) in [ooliver1/status](https://github.com/ooliver1/status)
-3. ❗️ Closed issue [#467](https://github.com/ooliver1/status/issues/467) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#467](https://github.com/ooliver1/status/issues/467) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Opened issue [#468](https://github.com/ooliver1/status/issues/468) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🎉 Merged PR [#2](https://github.com/ooliver1/dichecker/pull/2) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
+2. 🎉 Merged PR [#1](https://github.com/ooliver1/dichecker/pull/1) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
+3. ❗️ Closed issue [#468](https://github.com/ooliver1/status/issues/468) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#468](https://github.com/ooliver1/status/issues/468) in [ooliver1/status](https://github.com/ooliver1/status)
+5. ❗️ Closed issue [#467](https://github.com/ooliver1/status/issues/467) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
