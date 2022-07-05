@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/nextcord/nextcord/issues/682) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#730](https://github.com/nextcord/nextcord/issues/730) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#730](https://github.com/nextcord/nextcord/issues/730) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#13](https://github.com/nextcord/nextcord-ol/issues/13) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
-5. 🗣 Commented on [#19](https://github.com/nextcord/nextcord-ol/issues/19) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+1. 🗣 Commented on [#731](https://github.com/nextcord/nextcord/issues/731) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#682](https://github.com/nextcord/nextcord/issues/682) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#730](https://github.com/nextcord/nextcord/issues/730) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#730](https://github.com/nextcord/nextcord/issues/730) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#13](https://github.com/nextcord/nextcord-ol/issues/13) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
 <!--END_SECTION:activity-->
 
 ---
