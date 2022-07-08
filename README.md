@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#731](https://github.com/nextcord/nextcord/issues/731) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#682](https://github.com/nextcord/nextcord/issues/682) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#730](https://github.com/nextcord/nextcord/issues/730) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#730](https://github.com/nextcord/nextcord/issues/730) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#13](https://github.com/nextcord/nextcord-ol/issues/13) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+1. 🗣 Commented on [#17](https://github.com/ooliver1/astro-tailwind/issues/17) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+2. 🗣 Commented on [#16](https://github.com/ooliver1/astro-tailwind/issues/16) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+3. 🗣 Commented on [#15](https://github.com/ooliver1/astro-tailwind/issues/15) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+4. 🎉 Merged PR [#35](https://github.com/ooliver1/mine-cat/pull/35) in [ooliver1/mine-cat](https://github.com/ooliver1/mine-cat)
+5. 🎉 Merged PR [#733](https://github.com/nextcord/nextcord/pull/733) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
