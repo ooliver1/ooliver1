@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/ooliver1/dichecker/pull/7) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
-2. 🗣 Commented on [#6](https://github.com/ooliver1/dichecker/issues/6) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
-3. 🎉 Merged PR [#6](https://github.com/ooliver1/dichecker/pull/6) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
-4. 💪 Opened PR [#6](https://github.com/ooliver1/dichecker/pull/6) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
-5. ❌ Closed PR [#5](https://github.com/ooliver1/dichecker/pull/5) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
+1. 🗣 Commented on [#8](https://github.com/ooliver1/dichecker/issues/8) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
+2. 🎉 Merged PR [#8](https://github.com/ooliver1/dichecker/pull/8) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
+3. 💪 Opened PR [#8](https://github.com/ooliver1/dichecker/pull/8) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
+4. 🗣 Commented on [#7](https://github.com/ooliver1/dichecker/issues/7) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
+5. 🎉 Merged PR [#7](https://github.com/ooliver1/dichecker/pull/7) in [ooliver1/dichecker](https://github.com/ooliver1/dichecker)
 <!--END_SECTION:activity-->
 
 ---
