@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/ooliver1/botbase/pull/8) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-2. 🗣 Commented on [#7](https://github.com/ooliver1/botbase/issues/7) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-3. 🎉 Merged PR [#7](https://github.com/ooliver1/botbase/pull/7) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-4. 💪 Opened PR [#738](https://github.com/nextcord/nextcord/pull/738) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#734](https://github.com/nextcord/nextcord/pull/734) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#9](https://github.com/ooliver1/botbase/pull/9) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+2. 🗣 Commented on [#8](https://github.com/ooliver1/botbase/issues/8) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+3. 🎉 Merged PR [#8](https://github.com/ooliver1/botbase/pull/8) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+4. 💪 Opened PR [#8](https://github.com/ooliver1/botbase/pull/8) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+5. 🗣 Commented on [#7](https://github.com/ooliver1/botbase/issues/7) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
