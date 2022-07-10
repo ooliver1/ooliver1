@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/ooliver1/minecat/pull/3) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
-2. 🗣 Commented on [#2](https://github.com/ooliver1/mineager/issues/2) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
-3. 🎉 Merged PR [#2](https://github.com/ooliver1/mineager/pull/2) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
-4. 💪 Opened PR [#10](https://github.com/ooliver1/botbase/pull/10) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🗣 Commented on [#2](https://github.com/ooliver1/minecat/issues/2) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+1. 🎉 Merged PR [#3](https://github.com/ooliver1/mineager/pull/3) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
+2. 💪 Opened PR [#3](https://github.com/ooliver1/minecat/pull/3) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+3. 🗣 Commented on [#2](https://github.com/ooliver1/mineager/issues/2) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
+4. 🎉 Merged PR [#2](https://github.com/ooliver1/mineager/pull/2) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
+5. 💪 Opened PR [#10](https://github.com/ooliver1/botbase/pull/10) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
