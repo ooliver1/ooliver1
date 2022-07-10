@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ooliver1/mineager/pull/4) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
-2. 🗣 Commented on [#737](https://github.com/nextcord/nextcord/issues/737) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#738](https://github.com/nextcord/nextcord/issues/738) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#1183](https://github.com/aaugustin/websockets/issues/1183) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
-5. 🎉 Merged PR [#3](https://github.com/ooliver1/mineager/pull/3) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
+1. 💪 Opened PR [#15](https://github.com/eZaR-Bot/3Z4R/pull/15) in [eZaR-Bot/3Z4R](https://github.com/eZaR-Bot/3Z4R)
+2. 💪 Opened PR [#14](https://github.com/eZaR-Bot/3Z4R/pull/14) in [eZaR-Bot/3Z4R](https://github.com/eZaR-Bot/3Z4R)
+3. 💪 Opened PR [#13](https://github.com/eZaR-Bot/3Z4R/pull/13) in [eZaR-Bot/3Z4R](https://github.com/eZaR-Bot/3Z4R)
+4. 💪 Opened PR [#12](https://github.com/eZaR-Bot/3Z4R/pull/12) in [eZaR-Bot/3Z4R](https://github.com/eZaR-Bot/3Z4R)
+5. 💪 Opened PR [#11](https://github.com/eZaR-Bot/3Z4R/pull/11) in [eZaR-Bot/3Z4R](https://github.com/eZaR-Bot/3Z4R)
 <!--END_SECTION:activity-->
 
 ---
