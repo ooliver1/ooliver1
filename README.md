@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1183](https://github.com/aaugustin/websockets/issues/1183) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
-2. 🎉 Merged PR [#3](https://github.com/ooliver1/mineager/pull/3) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
-3. 💪 Opened PR [#3](https://github.com/ooliver1/minecat/pull/3) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
-4. 🗣 Commented on [#2](https://github.com/ooliver1/mineager/issues/2) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
-5. 🎉 Merged PR [#2](https://github.com/ooliver1/mineager/pull/2) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
+1. 🗣 Commented on [#738](https://github.com/nextcord/nextcord/issues/738) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#1183](https://github.com/aaugustin/websockets/issues/1183) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
+3. 🎉 Merged PR [#3](https://github.com/ooliver1/mineager/pull/3) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
+4. 💪 Opened PR [#3](https://github.com/ooliver1/minecat/pull/3) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+5. 🗣 Commented on [#2](https://github.com/ooliver1/mineager/issues/2) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
 <!--END_SECTION:activity-->
 
 ---
