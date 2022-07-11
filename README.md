@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/ooliver1/nextcord.gay/issues/58) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-2. 🗣 Commented on [#57](https://github.com/ooliver1/nextcord.gay/issues/57) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-3. 🗣 Commented on [#56](https://github.com/ooliver1/nextcord.gay/issues/56) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-4. 🗣 Commented on [#55](https://github.com/ooliver1/nextcord.gay/issues/55) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. 🗣 Commented on [#54](https://github.com/ooliver1/nextcord.gay/issues/54) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🗣 Commented on [#7](https://github.com/ooliver1/bot-template/issues/7) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+2. 🗣 Commented on [#6](https://github.com/ooliver1/bot-template/issues/6) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+3. 🗣 Commented on [#58](https://github.com/ooliver1/nextcord.gay/issues/58) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+4. 🗣 Commented on [#57](https://github.com/ooliver1/nextcord.gay/issues/57) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+5. 🗣 Commented on [#56](https://github.com/ooliver1/nextcord.gay/issues/56) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
