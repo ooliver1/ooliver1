@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/ooliver1/triagecat/issues/47) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-2. 🗣 Commented on [#48](https://github.com/ooliver1/triagecat/issues/48) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. 🗣 Commented on [#49](https://github.com/ooliver1/triagecat/issues/49) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. 🗣 Commented on [#45](https://github.com/ooliver1/triagecat/issues/45) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. 🗣 Commented on [#44](https://github.com/ooliver1/triagecat/issues/44) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🗣 Commented on [#41](https://github.com/ooliver1/wrangler-typescript/issues/41) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+2. 🗣 Commented on [#20](https://github.com/ooliver1/astro-tailwind/issues/20) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+3. 🗣 Commented on [#43](https://github.com/ooliver1/wrangler-typescript/issues/43) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+4. 🗣 Commented on [#47](https://github.com/ooliver1/triagecat/issues/47) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. 🗣 Commented on [#48](https://github.com/ooliver1/triagecat/issues/48) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
