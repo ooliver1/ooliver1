@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/ooliver1/botbase/issues/10) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-2. 🎉 Merged PR [#10](https://github.com/ooliver1/botbase/pull/10) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-3. 🗣 Commented on [#41](https://github.com/ooliver1/wrangler-typescript/issues/41) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
-4. 🗣 Commented on [#20](https://github.com/ooliver1/astro-tailwind/issues/20) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-5. 🗣 Commented on [#43](https://github.com/ooliver1/wrangler-typescript/issues/43) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+1. 🎉 Merged PR [#12](https://github.com/ooliver1/botbase/pull/12) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+2. 🗣 Commented on [#12](https://github.com/ooliver1/botbase/issues/12) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+3. 🎉 Merged PR [#11](https://github.com/ooliver1/botbase/pull/11) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+4. 🗣 Commented on [#10](https://github.com/ooliver1/botbase/issues/10) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+5. 🎉 Merged PR [#10](https://github.com/ooliver1/botbase/pull/10) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
