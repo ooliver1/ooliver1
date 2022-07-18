@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#738](https://github.com/nextcord/nextcord/pull/738) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#738](https://github.com/nextcord/nextcord/issues/738) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#708](https://github.com/nextcord/nextcord/issues/708) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#4](https://github.com/ooliver1/minecat/pull/4) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
-5. 🗣 Commented on [#13](https://github.com/ooliver1/botbase/issues/13) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. 🗣 Commented on [#9](https://github.com/ooliver1/bot-template/issues/9) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+2. 🎉 Merged PR [#738](https://github.com/nextcord/nextcord/pull/738) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#738](https://github.com/nextcord/nextcord/issues/738) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#708](https://github.com/nextcord/nextcord/issues/708) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 💪 Opened PR [#4](https://github.com/ooliver1/minecat/pull/4) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
 <!--END_SECTION:activity-->
 
 ---
