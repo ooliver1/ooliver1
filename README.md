@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#745](https://github.com/nextcord/nextcord/pull/745) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#735](https://github.com/nextcord/nextcord/pull/735) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#740](https://github.com/nextcord/nextcord/issues/740) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#53](https://github.com/ooliver1/triagecat/issues/53) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. 🗣 Commented on [#52](https://github.com/ooliver1/triagecat/issues/52) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🗣 Commented on [#540](https://github.com/nextcord/nextcord/issues/540) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Closed issue [#136](https://github.com/nextcord/nextcord/issues/136) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#136](https://github.com/nextcord/nextcord/issues/136) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❗️ Closed issue [#114](https://github.com/nextcord/nextcord/issues/114) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#114](https://github.com/nextcord/nextcord/issues/114) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
