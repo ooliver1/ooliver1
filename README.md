@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5219](https://github.com/discord/discord-api-docs/issues/5219) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#740](https://github.com/nextcord/nextcord/issues/740) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❌ Closed PR [#4](https://github.com/ooliver1/mineager/pull/4) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
-4. 💪 Opened PR [#746](https://github.com/nextcord/nextcord/pull/746) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#359](https://github.com/nextcord/nextcord/issues/359) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Closed issue [#728](https://github.com/nextcord/nextcord/issues/728) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#746](https://github.com/nextcord/nextcord/pull/746) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#5219](https://github.com/discord/discord-api-docs/issues/5219) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🗣 Commented on [#740](https://github.com/nextcord/nextcord/issues/740) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❌ Closed PR [#4](https://github.com/ooliver1/mineager/pull/4) in [ooliver1/mineager](https://github.com/ooliver1/mineager)
 <!--END_SECTION:activity-->
 
 ---
