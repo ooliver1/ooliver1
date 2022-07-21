@@ -91,9 +91,9 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Momentous-Muses/code-jam/issues/1) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
 2. 🗣 Commented on [#1](https://github.com/Momentous-Muses/code-jam/issues/1) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
-3. 💪 Opened PR [#1](https://github.com/Momentous-Muses/code-jam/pull/1) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
-4. 🗣 Commented on [#749](https://github.com/nextcord/nextcord/issues/749) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#9](https://github.com/koala9712/bolb-bot/issues/9) in [koala9712/bolb-bot](https://github.com/koala9712/bolb-bot)
+3. 🗣 Commented on [#1](https://github.com/Momentous-Muses/code-jam/issues/1) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
+4. 💪 Opened PR [#1](https://github.com/Momentous-Muses/code-jam/pull/1) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
+5. 🗣 Commented on [#749](https://github.com/nextcord/nextcord/issues/749) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
