@@ -89,10 +89,10 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#750](https://github.com/nextcord/nextcord/pull/750) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#742](https://github.com/nextcord/nextcord/issues/742) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#743](https://github.com/nextcord/nextcord/pull/743) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#1](https://github.com/Momentous-Muses/code-jam/issues/1) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
+1. 🗣 Commented on [#706](https://github.com/nextcord/nextcord/issues/706) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#750](https://github.com/nextcord/nextcord/pull/750) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#742](https://github.com/nextcord/nextcord/issues/742) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#743](https://github.com/nextcord/nextcord/pull/743) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 5. 🗣 Commented on [#1](https://github.com/Momentous-Muses/code-jam/issues/1) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
 <!--END_SECTION:activity-->
 
