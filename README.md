@@ -1,6 +1,6 @@
 # ooliver1
 
-Hey there, I'm Oliver, a 15 year old software developer from the UK. I love making Discord bots with Python, solving problems with Typescript and java, and contributing to other OSS projects whilst sometimes bearing a bit of web development.
+Hey there, I'm Oliver, a 16 year old software developer from the UK. I love making Discord bots with Python, solving problems with Typescript and java, and contributing to other OSS projects whilst sometimes bearing a bit of web development.
 
 I am currently working on [an actions GitHub repository automation workflow](https://github.com/ooliver1/triagecat)
 
