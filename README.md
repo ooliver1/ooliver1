@@ -89,11 +89,11 @@ I am currently working on [an actions GitHub repository automation workflow](htt
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5226](https://github.com/discord/discord-api-docs/issues/5226) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#24](https://github.com/ooliver1/astro-tailwind/issues/24) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-3. 🗣 Commented on [#706](https://github.com/nextcord/nextcord/issues/706) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#750](https://github.com/nextcord/nextcord/pull/750) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#742](https://github.com/nextcord/nextcord/issues/742) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#5227](https://github.com/discord/discord-api-docs/issues/5227) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#5226](https://github.com/discord/discord-api-docs/issues/5226) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 🗣 Commented on [#24](https://github.com/ooliver1/astro-tailwind/issues/24) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+4. 🗣 Commented on [#706](https://github.com/nextcord/nextcord/issues/706) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#750](https://github.com/nextcord/nextcord/pull/750) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
