@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5149](https://github.com/discord/discord-api-docs/issues/5149) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#3](https://github.com/Momentous-Muses/code-jam/issues/3) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
-3. 🗣 Commented on [#5227](https://github.com/discord/discord-api-docs/issues/5227) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🗣 Commented on [#5226](https://github.com/discord/discord-api-docs/issues/5226) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#24](https://github.com/ooliver1/astro-tailwind/issues/24) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+1. ❗️ Closed issue [#470](https://github.com/ooliver1/status/issues/470) in [ooliver1/status](https://github.com/ooliver1/status)
+2. 🗣 Commented on [#470](https://github.com/ooliver1/status/issues/470) in [ooliver1/status](https://github.com/ooliver1/status)
+3. ❗️ Closed issue [#469](https://github.com/ooliver1/status/issues/469) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#469](https://github.com/ooliver1/status/issues/469) in [ooliver1/status](https://github.com/ooliver1/status)
+5. ❗️ Opened issue [#470](https://github.com/ooliver1/status/issues/470) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
