@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#470](https://github.com/ooliver1/status/issues/470) in [ooliver1/status](https://github.com/ooliver1/status)
-2. 🗣 Commented on [#470](https://github.com/ooliver1/status/issues/470) in [ooliver1/status](https://github.com/ooliver1/status)
-3. ❗️ Closed issue [#469](https://github.com/ooliver1/status/issues/469) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#469](https://github.com/ooliver1/status/issues/469) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Opened issue [#470](https://github.com/ooliver1/status/issues/470) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🎉 Merged PR [#9](https://github.com/Momentous-Muses/code-jam/pull/9) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
+2. 🎉 Merged PR [#656](https://github.com/nextcord/nextcord/pull/656) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#470](https://github.com/ooliver1/status/issues/470) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#470](https://github.com/ooliver1/status/issues/470) in [ooliver1/status](https://github.com/ooliver1/status)
+5. ❗️ Closed issue [#469](https://github.com/ooliver1/status/issues/469) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
