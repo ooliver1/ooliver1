@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ooliver1/minecat/issues/5) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
-2. 🗣 Commented on [#5241](https://github.com/discord/discord-api-docs/issues/5241) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🎉 Merged PR [#9](https://github.com/Momentous-Muses/code-jam/pull/9) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
-4. 🎉 Merged PR [#656](https://github.com/nextcord/nextcord/pull/656) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Closed issue [#470](https://github.com/ooliver1/status/issues/470) in [ooliver1/status](https://github.com/ooliver1/status)
+1. ❗️ Opened issue [#472](https://github.com/ooliver1/status/issues/472) in [ooliver1/status](https://github.com/ooliver1/status)
+2. ❗️ Opened issue [#471](https://github.com/ooliver1/status/issues/471) in [ooliver1/status](https://github.com/ooliver1/status)
+3. 🗣 Commented on [#5](https://github.com/ooliver1/minecat/issues/5) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+4. 🗣 Commented on [#5241](https://github.com/discord/discord-api-docs/issues/5241) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 🎉 Merged PR [#9](https://github.com/Momentous-Muses/code-jam/pull/9) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
 <!--END_SECTION:activity-->
 
 ---
