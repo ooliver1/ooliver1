@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#472](https://github.com/ooliver1/status/issues/472) in [ooliver1/status](https://github.com/ooliver1/status)
-2. 🗣 Commented on [#472](https://github.com/ooliver1/status/issues/472) in [ooliver1/status](https://github.com/ooliver1/status)
-3. ❗️ Closed issue [#471](https://github.com/ooliver1/status/issues/471) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#471](https://github.com/ooliver1/status/issues/471) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Opened issue [#472](https://github.com/ooliver1/status/issues/472) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🗣 Commented on [#47](https://github.com/ooliver1/wrangler-typescript/issues/47) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+2. 🗣 Commented on [#45](https://github.com/ooliver1/wrangler-typescript/issues/45) in [ooliver1/wrangler-typescript](https://github.com/ooliver1/wrangler-typescript)
+3. ❗️ Closed issue [#472](https://github.com/ooliver1/status/issues/472) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#472](https://github.com/ooliver1/status/issues/472) in [ooliver1/status](https://github.com/ooliver1/status)
+5. ❗️ Closed issue [#471](https://github.com/ooliver1/status/issues/471) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
