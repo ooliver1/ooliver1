@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/ooliver1/botbase/issues/16) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-2. 🎉 Merged PR [#16](https://github.com/ooliver1/botbase/pull/16) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. 🗣 Commented on [#23](https://github.com/nextcord/nextcord-ol/issues/23) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
+2. 🗣 Commented on [#24](https://github.com/nextcord/nextcord-ol/issues/24) in [nextcord/nextcord-ol](https://github.com/nextcord/nextcord-ol)
 3. 🗣 Commented on [#16](https://github.com/ooliver1/botbase/issues/16) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-4. 💪 Opened PR [#16](https://github.com/ooliver1/botbase/pull/16) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🗣 Commented on [#15](https://github.com/ooliver1/botbase/issues/15) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+4. 🎉 Merged PR [#16](https://github.com/ooliver1/botbase/pull/16) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+5. 🗣 Commented on [#16](https://github.com/ooliver1/botbase/issues/16) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
