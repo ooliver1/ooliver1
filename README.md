@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#250](https://github.com/maintainers/invite-automation/issues/250) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
-2. 🗣 Commented on [#14](https://github.com/ooliver1/botbase/issues/14) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-3. 🎉 Merged PR [#14](https://github.com/ooliver1/botbase/pull/14) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-4. 💪 Opened PR [#14](https://github.com/ooliver1/botbase/pull/14) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🎉 Merged PR [#8](https://github.com/Momentous-Muses/code-jam/pull/8) in [Momentous-Muses/code-jam](https://github.com/Momentous-Muses/code-jam)
+1. 🎉 Merged PR [#607](https://github.com/nextcord/nextcord/pull/607) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#250](https://github.com/maintainers/invite-automation/issues/250) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
+3. 🗣 Commented on [#14](https://github.com/ooliver1/botbase/issues/14) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+4. 🎉 Merged PR [#14](https://github.com/ooliver1/botbase/pull/14) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+5. 💪 Opened PR [#14](https://github.com/ooliver1/botbase/pull/14) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
