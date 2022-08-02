@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#759](https://github.com/nextcord/nextcord/pull/759) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❌ Closed PR [#754](https://github.com/nextcord/nextcord/pull/754) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#754](https://github.com/nextcord/nextcord/issues/754) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❌ Closed PR [#707](https://github.com/nextcord/nextcord/pull/707) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#707](https://github.com/nextcord/nextcord/issues/707) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#17](https://github.com/ooliver1/botbase/issues/17) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+2. 🎉 Merged PR [#17](https://github.com/ooliver1/botbase/pull/17) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+3. 💪 Opened PR [#17](https://github.com/ooliver1/botbase/pull/17) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+4. 💪 Opened PR [#759](https://github.com/nextcord/nextcord/pull/759) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❌ Closed PR [#754](https://github.com/nextcord/nextcord/pull/754) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
