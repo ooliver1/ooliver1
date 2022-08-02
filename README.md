@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/ooliver1/botbase/issues/19) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-2. 💪 Opened PR [#19](https://github.com/ooliver1/botbase/pull/19) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-3. 🗣 Commented on [#18](https://github.com/ooliver1/botbase/issues/18) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-4. 🎉 Merged PR [#18](https://github.com/ooliver1/botbase/pull/18) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 💪 Opened PR [#18](https://github.com/ooliver1/botbase/pull/18) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. 💪 Opened PR [#20](https://github.com/ooliver1/botbase/pull/20) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+2. 🗣 Commented on [#19](https://github.com/ooliver1/botbase/issues/19) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+3. 💪 Opened PR [#19](https://github.com/ooliver1/botbase/pull/19) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+4. 🗣 Commented on [#18](https://github.com/ooliver1/botbase/issues/18) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+5. 🎉 Merged PR [#18](https://github.com/ooliver1/botbase/pull/18) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
