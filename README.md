@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ❗️ Opened issue [#762](https://github.com/nextcord/nextcord/issues/762) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#475](https://github.com/ooliver1/status/issues/475) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#475](https://github.com/ooliver1/status/issues/475) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Closed issue [#474](https://github.com/ooliver1/status/issues/474) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🎉 Merged PR [#65](https://github.com/ooliver1/triagecat/pull/65) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+2. 🎉 Merged PR [#66](https://github.com/ooliver1/triagecat/pull/66) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+3. 💪 Opened PR [#66](https://github.com/ooliver1/triagecat/pull/66) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+4. 🗣 Commented on [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. ❗️ Opened issue [#762](https://github.com/nextcord/nextcord/issues/762) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
