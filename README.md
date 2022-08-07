@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 💪 Opened PR [#1](https://github.com/Oliver-Wilkes/ThePiggery/pull/1) in [Oliver-Wilkes/ThePiggery](https://github.com/Oliver-Wilkes/ThePiggery)
-3. 🎉 Merged PR [#65](https://github.com/ooliver1/triagecat/pull/65) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. 🎉 Merged PR [#66](https://github.com/ooliver1/triagecat/pull/66) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. 💪 Opened PR [#66](https://github.com/ooliver1/triagecat/pull/66) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🗣 Commented on [#5288](https://github.com/discord/discord-api-docs/issues/5288) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. 💪 Opened PR [#1](https://github.com/Oliver-Wilkes/ThePiggery/pull/1) in [Oliver-Wilkes/ThePiggery](https://github.com/Oliver-Wilkes/ThePiggery)
+4. 🎉 Merged PR [#65](https://github.com/ooliver1/triagecat/pull/65) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. 🎉 Merged PR [#66](https://github.com/ooliver1/triagecat/pull/66) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
