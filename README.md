@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5293](https://github.com/discord/discord-api-docs/issues/5293) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#5288](https://github.com/discord/discord-api-docs/issues/5288) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🗣 Commented on [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#1](https://github.com/Oliver-Wilkes/ThePiggery/pull/1) in [Oliver-Wilkes/ThePiggery](https://github.com/Oliver-Wilkes/ThePiggery)
-5. 🎉 Merged PR [#65](https://github.com/ooliver1/triagecat/pull/65) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🗣 Commented on [#1](https://github.com/Oliver-Wilkes/ThePiggery/issues/1) in [Oliver-Wilkes/ThePiggery](https://github.com/Oliver-Wilkes/ThePiggery)
+2. 🗣 Commented on [#5293](https://github.com/discord/discord-api-docs/issues/5293) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 🗣 Commented on [#5288](https://github.com/discord/discord-api-docs/issues/5288) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🗣 Commented on [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. 💪 Opened PR [#1](https://github.com/Oliver-Wilkes/ThePiggery/pull/1) in [Oliver-Wilkes/ThePiggery](https://github.com/Oliver-Wilkes/ThePiggery)
 <!--END_SECTION:activity-->
 
 ---
