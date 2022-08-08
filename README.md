@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Oliver-Wilkes/ThePiggery/issues/1) in [Oliver-Wilkes/ThePiggery](https://github.com/Oliver-Wilkes/ThePiggery)
-2. 🗣 Commented on [#5293](https://github.com/discord/discord-api-docs/issues/5293) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🗣 Commented on [#5288](https://github.com/discord/discord-api-docs/issues/5288) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🗣 Commented on [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 💪 Opened PR [#1](https://github.com/Oliver-Wilkes/ThePiggery/pull/1) in [Oliver-Wilkes/ThePiggery](https://github.com/Oliver-Wilkes/ThePiggery)
+1. ❗️ Closed issue [#673](https://github.com/nextcord/nextcord/issues/673) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Closed issue [#615](https://github.com/nextcord/nextcord/issues/615) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#591](https://github.com/nextcord/nextcord/issues/591) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❗️ Closed issue [#589](https://github.com/nextcord/nextcord/issues/589) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#678](https://github.com/nextcord/nextcord/pull/678) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
