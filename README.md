@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6288](https://github.com/portainer/portainer/issues/6288) in [portainer/portainer](https://github.com/portainer/portainer)
-2. 🗣 Commented on [#7254](https://github.com/portainer/portainer/issues/7254) in [portainer/portainer](https://github.com/portainer/portainer)
-3. ❗️ Closed issue [#673](https://github.com/nextcord/nextcord/issues/673) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❗️ Closed issue [#615](https://github.com/nextcord/nextcord/issues/615) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Closed issue [#591](https://github.com/nextcord/nextcord/issues/591) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#5298](https://github.com/discord/discord-api-docs/issues/5298) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#6288](https://github.com/portainer/portainer/issues/6288) in [portainer/portainer](https://github.com/portainer/portainer)
+3. 🗣 Commented on [#7254](https://github.com/portainer/portainer/issues/7254) in [portainer/portainer](https://github.com/portainer/portainer)
+4. ❗️ Closed issue [#673](https://github.com/nextcord/nextcord/issues/673) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Closed issue [#615](https://github.com/nextcord/nextcord/issues/615) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
