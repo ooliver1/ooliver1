@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#510](https://github.com/Pincer-org/Pincer/pull/510) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
-2. 💪 Opened PR [#509](https://github.com/Pincer-org/Pincer/pull/509) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
-3. 🗣 Commented on [#302](https://github.com/Pincer-org/Pincer/issues/302) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
-4. 🗣 Commented on [#423](https://github.com/Pincer-org/Pincer/issues/423) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
-5. ❌ Reopened PR [#763](https://github.com/nextcord/nextcord/pull/763) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#509](https://github.com/Pincer-org/Pincer/issues/509) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+2. 🗣 Commented on [#510](https://github.com/Pincer-org/Pincer/issues/510) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+3. 💪 Opened PR [#510](https://github.com/Pincer-org/Pincer/pull/510) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+4. 💪 Opened PR [#509](https://github.com/Pincer-org/Pincer/pull/509) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+5. 🗣 Commented on [#302](https://github.com/Pincer-org/Pincer/issues/302) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
 <!--END_SECTION:activity-->
 
 ---
