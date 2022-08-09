@@ -91,9 +91,9 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 <!--START_SECTION:activity-->
 1. ❌ Reopened PR [#763](https://github.com/nextcord/nextcord/pull/763) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 2. ❌ Closed PR [#763](https://github.com/nextcord/nextcord/pull/763) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#763](https://github.com/nextcord/nextcord/issues/763) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#764](https://github.com/nextcord/nextcord/pull/764) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 💪 Opened PR [#763](https://github.com/nextcord/nextcord/pull/763) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❌ Reopened PR [#763](https://github.com/nextcord/nextcord/pull/763) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❌ Closed PR [#763](https://github.com/nextcord/nextcord/pull/763) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#763](https://github.com/nextcord/nextcord/issues/763) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
