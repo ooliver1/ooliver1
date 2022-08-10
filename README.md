@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#764](https://github.com/nextcord/nextcord/pull/764) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❌ Closed PR [#764](https://github.com/nextcord/nextcord/pull/764) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#765](https://github.com/nextcord/nextcord/issues/765) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#509](https://github.com/Pincer-org/Pincer/issues/509) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
-5. 🗣 Commented on [#510](https://github.com/Pincer-org/Pincer/issues/510) in [Pincer-org/Pincer](https://github.com/Pincer-org/Pincer)
+1. ❗️ Closed issue [#765](https://github.com/nextcord/nextcord/issues/765) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#765](https://github.com/nextcord/nextcord/issues/765) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❌ Reopened PR [#764](https://github.com/nextcord/nextcord/pull/764) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❌ Closed PR [#764](https://github.com/nextcord/nextcord/pull/764) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#765](https://github.com/nextcord/nextcord/issues/765) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
