@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#766](https://github.com/nextcord/nextcord/pull/766) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#765](https://github.com/nextcord/nextcord/issues/765) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#765](https://github.com/nextcord/nextcord/issues/765) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❌ Reopened PR [#764](https://github.com/nextcord/nextcord/pull/764) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❌ Closed PR [#764](https://github.com/nextcord/nextcord/pull/764) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❌ Reopened PR [#766](https://github.com/nextcord/nextcord/pull/766) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❌ Closed PR [#766](https://github.com/nextcord/nextcord/pull/766) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#766](https://github.com/nextcord/nextcord/pull/766) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❗️ Closed issue [#765](https://github.com/nextcord/nextcord/issues/765) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#765](https://github.com/nextcord/nextcord/issues/765) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
