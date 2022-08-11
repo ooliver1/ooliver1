@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#766](https://github.com/nextcord/nextcord/issues/766) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#10](https://github.com/ooliver1/inspection/pull/10) in [ooliver1/inspection](https://github.com/ooliver1/inspection)
-3. 🗣 Commented on [#9](https://github.com/ooliver1/inspection/issues/9) in [ooliver1/inspection](https://github.com/ooliver1/inspection)
-4. 🎉 Merged PR [#9](https://github.com/ooliver1/inspection/pull/9) in [ooliver1/inspection](https://github.com/ooliver1/inspection)
-5. 💪 Opened PR [#9](https://github.com/ooliver1/inspection/pull/9) in [ooliver1/inspection](https://github.com/ooliver1/inspection)
+1. ❗️ Opened issue [#771](https://github.com/nextcord/nextcord/issues/771) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Opened issue [#770](https://github.com/nextcord/nextcord/issues/770) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Opened issue [#769](https://github.com/nextcord/nextcord/issues/769) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❗️ Opened issue [#768](https://github.com/nextcord/nextcord/issues/768) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#766](https://github.com/nextcord/nextcord/issues/766) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
