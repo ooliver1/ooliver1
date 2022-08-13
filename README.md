@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux/issues/30) in [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
+1. 🗣 Commented on [#11](https://github.com/EpikCord/EpikCord.py/issues/11) in [EpikCord/EpikCord.py](https://github.com/EpikCord/EpikCord.py)
 2. 🗣 Commented on [#30](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux/issues/30) in [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
-3. ❗️ Opened issue [#771](https://github.com/nextcord/nextcord/issues/771) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❗️ Opened issue [#770](https://github.com/nextcord/nextcord/issues/770) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Opened issue [#769](https://github.com/nextcord/nextcord/issues/769) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#30](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux/issues/30) in [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
+4. ❗️ Opened issue [#771](https://github.com/nextcord/nextcord/issues/771) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Opened issue [#770](https://github.com/nextcord/nextcord/issues/770) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
