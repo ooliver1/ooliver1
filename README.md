@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#198](https://github.com/EpikCord/EpikCord.py/pull/198) in [EpikCord/EpikCord.py](https://github.com/EpikCord/EpikCord.py)
-2. 💪 Opened PR [#197](https://github.com/EpikCord/EpikCord.py/pull/197) in [EpikCord/EpikCord.py](https://github.com/EpikCord/EpikCord.py)
-3. ❗️ Closed issue [#18](https://github.com/EzarDev/eZaR/issues/18) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
-4. 🎉 Merged PR [#19](https://github.com/EzarDev/eZaR/pull/19) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
-5. ❌ Closed PR [#58](https://github.com/ooliver1/nextcord.gay/pull/58) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🗣 Commented on [#71](https://github.com/ooliver1/triagecat/issues/71) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+2. 🗣 Commented on [#70](https://github.com/ooliver1/triagecat/issues/70) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+3. 🗣 Commented on [#69](https://github.com/ooliver1/triagecat/issues/69) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+4. 🗣 Commented on [#68](https://github.com/ooliver1/triagecat/issues/68) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. 🗣 Commented on [#72](https://github.com/ooliver1/triagecat/issues/72) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
