@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#164](https://github.com/nextcord/nextcord/issues/164) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#763](https://github.com/nextcord/nextcord/pull/763) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#540](https://github.com/nextcord/nextcord/issues/540) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#764](https://github.com/nextcord/nextcord/pull/764) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Closed issue [#758](https://github.com/nextcord/nextcord/issues/758) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❌ Closed PR [#58](https://github.com/ooliver1/nextcord.gay/pull/58) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+2. 🗣 Commented on [#11](https://github.com/ooliver1/bot-template/issues/11) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+3. 🗣 Commented on [#12](https://github.com/ooliver1/bot-template/issues/12) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+4. 🗣 Commented on [#74](https://github.com/ooliver1/nextcord.gay/issues/74) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+5. 🗣 Commented on [#58](https://github.com/ooliver1/nextcord.gay/issues/58) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
