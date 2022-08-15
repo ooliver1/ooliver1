@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/ooliver1/triagecat/issues/71) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-2. 🗣 Commented on [#70](https://github.com/ooliver1/triagecat/issues/70) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-3. 🗣 Commented on [#69](https://github.com/ooliver1/triagecat/issues/69) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-4. 🗣 Commented on [#68](https://github.com/ooliver1/triagecat/issues/68) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
-5. 🗣 Commented on [#72](https://github.com/ooliver1/triagecat/issues/72) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🗣 Commented on [#74](https://github.com/ooliver1/triagecat/issues/74) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+2. 🗣 Commented on [#73](https://github.com/ooliver1/triagecat/issues/73) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+3. 🗣 Commented on [#71](https://github.com/ooliver1/triagecat/issues/71) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+4. 🗣 Commented on [#70](https://github.com/ooliver1/triagecat/issues/70) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+5. 🗣 Commented on [#69](https://github.com/ooliver1/triagecat/issues/69) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
 <!--END_SECTION:activity-->
 
 ---
