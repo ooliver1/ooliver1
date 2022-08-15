@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#774](https://github.com/nextcord/nextcord/pull/774) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#477](https://github.com/ooliver1/status/issues/477) in [ooliver1/status](https://github.com/ooliver1/status)
-3. 🗣 Commented on [#477](https://github.com/ooliver1/status/issues/477) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#476](https://github.com/ooliver1/status/issues/476) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Closed issue [#476](https://github.com/ooliver1/status/issues/476) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🗣 Commented on [#773](https://github.com/nextcord/nextcord/issues/773) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#7](https://github.com/ooliver1/minecat/issues/7) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+3. 🗣 Commented on [#10](https://github.com/ooliver1/minecat/issues/10) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+4. 🗣 Commented on [#11](https://github.com/ooliver1/minecat/issues/11) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+5. 🗣 Commented on [#12](https://github.com/ooliver1/minecat/issues/12) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
 <!--END_SECTION:activity-->
 
 ---
