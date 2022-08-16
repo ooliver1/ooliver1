@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#700](https://github.com/nextcord/nextcord/issues/700) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#23](https://github.com/EzarDev/eZaR/issues/23) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
-3. 🗣 Commented on [#22](https://github.com/EzarDev/eZaR/issues/22) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
-4. 🎉 Merged PR [#21](https://github.com/EzarDev/eZaR/pull/21) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
-5. 🗣 Commented on [#773](https://github.com/nextcord/nextcord/issues/773) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Closed issue [#478](https://github.com/ooliver1/status/issues/478) in [ooliver1/status](https://github.com/ooliver1/status)
+2. 🗣 Commented on [#478](https://github.com/ooliver1/status/issues/478) in [ooliver1/status](https://github.com/ooliver1/status)
+3. ❗️ Opened issue [#478](https://github.com/ooliver1/status/issues/478) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#700](https://github.com/nextcord/nextcord/issues/700) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#23](https://github.com/EzarDev/eZaR/issues/23) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
 <!--END_SECTION:activity-->
 
 ---
