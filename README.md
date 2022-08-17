@@ -90,10 +90,10 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#125](https://github.com/replit/replit-py/issues/125) in [replit/replit-py](https://github.com/replit/replit-py)
-2. ❗️ Closed issue [#478](https://github.com/ooliver1/status/issues/478) in [ooliver1/status](https://github.com/ooliver1/status)
-3. 🗣 Commented on [#478](https://github.com/ooliver1/status/issues/478) in [ooliver1/status](https://github.com/ooliver1/status)
-4. ❗️ Opened issue [#478](https://github.com/ooliver1/status/issues/478) in [ooliver1/status](https://github.com/ooliver1/status)
-5. 🗣 Commented on [#700](https://github.com/nextcord/nextcord/issues/700) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#125](https://github.com/replit/replit-py/issues/125) in [replit/replit-py](https://github.com/replit/replit-py)
+3. ❗️ Closed issue [#478](https://github.com/ooliver1/status/issues/478) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🗣 Commented on [#478](https://github.com/ooliver1/status/issues/478) in [ooliver1/status](https://github.com/ooliver1/status)
+5. ❗️ Opened issue [#478](https://github.com/ooliver1/status/issues/478) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
