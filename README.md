@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#786](https://github.com/nextcord/nextcord/issues/786) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#5346](https://github.com/discord/discord-api-docs/issues/5346) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🗣 Commented on [#783](https://github.com/nextcord/nextcord/issues/783) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#5282](https://github.com/discord/discord-api-docs/issues/5282) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#783](https://github.com/nextcord/nextcord/issues/783) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❌ Closed PR [#786](https://github.com/nextcord/nextcord/pull/786) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#786](https://github.com/nextcord/nextcord/issues/786) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#5346](https://github.com/discord/discord-api-docs/issues/5346) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🗣 Commented on [#783](https://github.com/nextcord/nextcord/issues/783) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#5282](https://github.com/discord/discord-api-docs/issues/5282) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 ---
