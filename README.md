@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/cwz6h/discord-bot-24-7-hosting-free/issues/7) in [cwz6h/discord-bot-24-7-hosting-free](https://github.com/cwz6h/discord-bot-24-7-hosting-free)
-2. ❗️ Opened issue [#6](https://github.com/cwz6h/discord-bot-24-7-hosting-free/issues/6) in [cwz6h/discord-bot-24-7-hosting-free](https://github.com/cwz6h/discord-bot-24-7-hosting-free)
-3. ❗️ Opened issue [#5](https://github.com/cwz6h/discord-bot-24-7-hosting-free/issues/5) in [cwz6h/discord-bot-24-7-hosting-free](https://github.com/cwz6h/discord-bot-24-7-hosting-free)
-4. ❗️ Opened issue [#4](https://github.com/cwz6h/discord-bot-24-7-hosting-free/issues/4) in [cwz6h/discord-bot-24-7-hosting-free](https://github.com/cwz6h/discord-bot-24-7-hosting-free)
-5. ❗️ Opened issue [#3](https://github.com/cwz6h/discord-bot-24-7-hosting-free/issues/3) in [cwz6h/discord-bot-24-7-hosting-free](https://github.com/cwz6h/discord-bot-24-7-hosting-free)
+1. ❗️ Closed issue [#789](https://github.com/nextcord/nextcord/issues/789) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#789](https://github.com/nextcord/nextcord/issues/789) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Opened issue [#7](https://github.com/cwz6h/discord-bot-24-7-hosting-free/issues/7) in [cwz6h/discord-bot-24-7-hosting-free](https://github.com/cwz6h/discord-bot-24-7-hosting-free)
+4. ❗️ Opened issue [#6](https://github.com/cwz6h/discord-bot-24-7-hosting-free/issues/6) in [cwz6h/discord-bot-24-7-hosting-free](https://github.com/cwz6h/discord-bot-24-7-hosting-free)
+5. ❗️ Opened issue [#5](https://github.com/cwz6h/discord-bot-24-7-hosting-free/issues/5) in [cwz6h/discord-bot-24-7-hosting-free](https://github.com/cwz6h/discord-bot-24-7-hosting-free)
 <!--END_SECTION:activity-->
 
 ---
