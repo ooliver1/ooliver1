@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/ooliver1/astro-tailwind/issues/31) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-2. 🗣 Commented on [#35](https://github.com/ooliver1/astro-tailwind/issues/35) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-3. 🗣 Commented on [#28](https://github.com/ooliver1/astro-tailwind/issues/28) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-4. 🗣 Commented on [#83](https://github.com/ooliver1/nextcord.gay/issues/83) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. 🗣 Commented on [#84](https://github.com/ooliver1/nextcord.gay/issues/84) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🗣 Commented on [#773](https://github.com/nextcord/nextcord/issues/773) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#31](https://github.com/ooliver1/astro-tailwind/issues/31) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+3. 🗣 Commented on [#35](https://github.com/ooliver1/astro-tailwind/issues/35) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+4. 🗣 Commented on [#28](https://github.com/ooliver1/astro-tailwind/issues/28) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+5. 🗣 Commented on [#83](https://github.com/ooliver1/nextcord.gay/issues/83) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
