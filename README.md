@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#800](https://github.com/nextcord/nextcord/issues/800) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Opened issue [#799](https://github.com/nextcord/nextcord/issues/799) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#2](https://github.com/Eludris/thang-discord/pull/2) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
-4. 🗣 Commented on [#94](https://github.com/ooliver1/nextcord.gay/issues/94) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. 🗣 Commented on [#94](https://github.com/ooliver1/nextcord.gay/issues/94) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🎉 Merged PR [#797](https://github.com/nextcord/nextcord/pull/797) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#790](https://github.com/nextcord/nextcord/pull/790) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#795](https://github.com/nextcord/nextcord/issues/795) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#796](https://github.com/nextcord/nextcord/pull/796) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Opened issue [#800](https://github.com/nextcord/nextcord/issues/800) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
