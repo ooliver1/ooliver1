@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Eludris/thang-discord/pull/2) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
-2. 🗣 Commented on [#94](https://github.com/ooliver1/nextcord.gay/issues/94) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-3. 🗣 Commented on [#94](https://github.com/ooliver1/nextcord.gay/issues/94) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-4. 🗣 Commented on [#38](https://github.com/ooliver1/astro-tailwind/issues/38) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-5. 🗣 Commented on [#36](https://github.com/ooliver1/astro-tailwind/issues/36) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+1. ❗️ Opened issue [#800](https://github.com/nextcord/nextcord/issues/800) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Opened issue [#799](https://github.com/nextcord/nextcord/issues/799) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#2](https://github.com/Eludris/thang-discord/pull/2) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
+4. 🗣 Commented on [#94](https://github.com/ooliver1/nextcord.gay/issues/94) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+5. 🗣 Commented on [#94](https://github.com/ooliver1/nextcord.gay/issues/94) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
