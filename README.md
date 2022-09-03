@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Eludris/eludris/issues/4) in [Eludris/eludris](https://github.com/Eludris/eludris)
+1. 🗣 Commented on [#6](https://github.com/vcokltfre/crosschat/issues/6) in [vcokltfre/crosschat](https://github.com/vcokltfre/crosschat)
 2. 🗣 Commented on [#4](https://github.com/Eludris/eludris/issues/4) in [Eludris/eludris](https://github.com/Eludris/eludris)
 3. 🗣 Commented on [#4](https://github.com/Eludris/eludris/issues/4) in [Eludris/eludris](https://github.com/Eludris/eludris)
-4. 💪 Opened PR [#6](https://github.com/vcokltfre/crosschat/pull/6) in [vcokltfre/crosschat](https://github.com/vcokltfre/crosschat)
-5. 🗣 Commented on [#1](https://github.com/NotCosmo/Vortex-V2/issues/1) in [NotCosmo/Vortex-V2](https://github.com/NotCosmo/Vortex-V2)
+4. 🗣 Commented on [#4](https://github.com/Eludris/eludris/issues/4) in [Eludris/eludris](https://github.com/Eludris/eludris)
+5. 💪 Opened PR [#6](https://github.com/vcokltfre/crosschat/pull/6) in [vcokltfre/crosschat](https://github.com/vcokltfre/crosschat)
 <!--END_SECTION:activity-->
 
 ---
