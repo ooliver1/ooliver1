@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/vcokltfre/crosschat/issues/6) in [vcokltfre/crosschat](https://github.com/vcokltfre/crosschat)
-2. 🗣 Commented on [#4](https://github.com/Eludris/eludris/issues/4) in [Eludris/eludris](https://github.com/Eludris/eludris)
-3. 🗣 Commented on [#4](https://github.com/Eludris/eludris/issues/4) in [Eludris/eludris](https://github.com/Eludris/eludris)
+1. 🎉 Merged PR [#787](https://github.com/nextcord/nextcord/pull/787) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#791](https://github.com/nextcord/nextcord/pull/791) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#6](https://github.com/vcokltfre/crosschat/issues/6) in [vcokltfre/crosschat](https://github.com/vcokltfre/crosschat)
 4. 🗣 Commented on [#4](https://github.com/Eludris/eludris/issues/4) in [Eludris/eludris](https://github.com/Eludris/eludris)
-5. 💪 Opened PR [#6](https://github.com/vcokltfre/crosschat/pull/6) in [vcokltfre/crosschat](https://github.com/vcokltfre/crosschat)
+5. 🗣 Commented on [#4](https://github.com/Eludris/eludris/issues/4) in [Eludris/eludris](https://github.com/Eludris/eludris)
 <!--END_SECTION:activity-->
 
 ---
