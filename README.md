@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#808](https://github.com/nextcord/nextcord/pull/808) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#757](https://github.com/nextcord/nextcord/issues/757) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#803](https://github.com/nextcord/nextcord/pull/803) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#1065](https://github.com/Iskallia/Vault-public-S1/issues/1065) in [Iskallia/Vault-public-S1](https://github.com/Iskallia/Vault-public-S1)
-5. 🎉 Merged PR [#804](https://github.com/nextcord/nextcord/pull/804) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#809](https://github.com/nextcord/nextcord/issues/809) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Opened issue [#810](https://github.com/nextcord/nextcord/issues/810) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#809](https://github.com/nextcord/nextcord/pull/809) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#808](https://github.com/nextcord/nextcord/pull/808) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Closed issue [#757](https://github.com/nextcord/nextcord/issues/757) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
