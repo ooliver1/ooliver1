@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5455](https://github.com/discord/discord-api-docs/issues/5455) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#24](https://github.com/ooliver1/botbase/issues/24) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-3. 🎉 Merged PR [#24](https://github.com/ooliver1/botbase/pull/24) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-4. 💪 Opened PR [#24](https://github.com/ooliver1/botbase/pull/24) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🗣 Commented on [#23](https://github.com/ooliver1/botbase/issues/23) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. 🗣 Commented on [#25](https://github.com/ooliver1/botbase/issues/25) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+2. 🎉 Merged PR [#25](https://github.com/ooliver1/botbase/pull/25) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+3. 💪 Opened PR [#25](https://github.com/ooliver1/botbase/pull/25) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+4. 🗣 Commented on [#5455](https://github.com/discord/discord-api-docs/issues/5455) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 🗣 Commented on [#24](https://github.com/ooliver1/botbase/issues/24) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
