@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5463](https://github.com/discord/discord-api-docs/issues/5463) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🎉 Merged PR [#27](https://github.com/EzarDev/eZaR/pull/27) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
-3. 🗣 Commented on [#27](https://github.com/EzarDev/eZaR/issues/27) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
-4. 🗣 Commented on [#25](https://github.com/ooliver1/botbase/issues/25) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🎉 Merged PR [#25](https://github.com/ooliver1/botbase/pull/25) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. ❗️ Opened issue [#817](https://github.com/nextcord/nextcord/issues/817) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#5463](https://github.com/discord/discord-api-docs/issues/5463) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 🎉 Merged PR [#27](https://github.com/EzarDev/eZaR/pull/27) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
+4. 🗣 Commented on [#27](https://github.com/EzarDev/eZaR/issues/27) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
+5. 🗣 Commented on [#25](https://github.com/ooliver1/botbase/issues/25) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
