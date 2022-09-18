@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#818](https://github.com/nextcord/nextcord/issues/818) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Opened issue [#817](https://github.com/nextcord/nextcord/issues/817) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#5463](https://github.com/discord/discord-api-docs/issues/5463) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🎉 Merged PR [#27](https://github.com/EzarDev/eZaR/pull/27) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
-5. 🗣 Commented on [#27](https://github.com/EzarDev/eZaR/issues/27) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
+1. ❗️ Opened issue [#2](https://github.com/teaishealthy/eludris-flutter/issues/2) in [teaishealthy/eludris-flutter](https://github.com/teaishealthy/eludris-flutter)
+2. ❗️ Opened issue [#818](https://github.com/nextcord/nextcord/issues/818) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Opened issue [#817](https://github.com/nextcord/nextcord/issues/817) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#5463](https://github.com/discord/discord-api-docs/issues/5463) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 🎉 Merged PR [#27](https://github.com/EzarDev/eZaR/pull/27) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
 <!--END_SECTION:activity-->
 
 ---
