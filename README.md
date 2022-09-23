@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#818](https://github.com/nextcord/nextcord/issues/818) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#818](https://github.com/nextcord/nextcord/issues/818) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#7](https://github.com/teaishealthy/eludris-flutter/pull/7) in [teaishealthy/eludris-flutter](https://github.com/teaishealthy/eludris-flutter)
-4. ❗️ Opened issue [#6](https://github.com/teaishealthy/eludris-flutter/issues/6) in [teaishealthy/eludris-flutter](https://github.com/teaishealthy/eludris-flutter)
-5. 🗣 Commented on [#5](https://github.com/teaishealthy/eludris-flutter/issues/5) in [teaishealthy/eludris-flutter](https://github.com/teaishealthy/eludris-flutter)
+1. ❗️ Closed issue [#762](https://github.com/nextcord/nextcord/issues/762) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#773](https://github.com/nextcord/nextcord/pull/773) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#818](https://github.com/nextcord/nextcord/issues/818) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#818](https://github.com/nextcord/nextcord/issues/818) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 💪 Opened PR [#7](https://github.com/teaishealthy/eludris-flutter/pull/7) in [teaishealthy/eludris-flutter](https://github.com/teaishealthy/eludris-flutter)
 <!--END_SECTION:activity-->
 
 ---
