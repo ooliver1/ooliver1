@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#800](https://github.com/nextcord/nextcord/issues/800) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#813](https://github.com/nextcord/nextcord/pull/813) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#12](https://github.com/EnokiUN/Best-Python-Code-You-Have-Probably-Ever-Seen/issues/12) in [EnokiUN/Best-Python-Code-You-Have-Probably-Ever-Seen](https://github.com/EnokiUN/Best-Python-Code-You-Have-Probably-Ever-Seen)
-4. ❗️ Closed issue [#762](https://github.com/nextcord/nextcord/issues/762) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#773](https://github.com/nextcord/nextcord/pull/773) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#700](https://github.com/nextcord/nextcord/issues/700) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#700](https://github.com/nextcord/nextcord/issues/700) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Closed issue [#800](https://github.com/nextcord/nextcord/issues/800) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#813](https://github.com/nextcord/nextcord/pull/813) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Closed issue [#12](https://github.com/EnokiUN/Best-Python-Code-You-Have-Probably-Ever-Seen/issues/12) in [EnokiUN/Best-Python-Code-You-Have-Probably-Ever-Seen](https://github.com/EnokiUN/Best-Python-Code-You-Have-Probably-Ever-Seen)
 <!--END_SECTION:activity-->
 
 ---
