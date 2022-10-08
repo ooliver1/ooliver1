@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#835](https://github.com/nextcord/nextcord/pull/835) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Opened issue [#5512](https://github.com/discord/discord-api-docs/issues/5512) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 💪 Opened PR [#835](https://github.com/nextcord/nextcord/pull/835) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#5433](https://github.com/discord/discord-api-docs/issues/5433) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#31](https://github.com/ooliver1/botbase/issues/31) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. 🗣 Commented on [#8](https://github.com/NotCosmo/Vortex-V2/issues/8) in [NotCosmo/Vortex-V2](https://github.com/NotCosmo/Vortex-V2)
+2. 🎉 Merged PR [#835](https://github.com/nextcord/nextcord/pull/835) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❗️ Opened issue [#5512](https://github.com/discord/discord-api-docs/issues/5512) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 💪 Opened PR [#835](https://github.com/nextcord/nextcord/pull/835) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#5433](https://github.com/discord/discord-api-docs/issues/5433) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 ---
