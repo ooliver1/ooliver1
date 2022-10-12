@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#843](https://github.com/nextcord/nextcord/issues/843) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#841](https://github.com/nextcord/nextcord/issues/841) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Opened issue [#845](https://github.com/nextcord/nextcord/issues/845) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#843](https://github.com/nextcord/nextcord/issues/843) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 3. 🗣 Commented on [#841](https://github.com/nextcord/nextcord/issues/841) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#30](https://github.com/EzarDev/eZaR/issues/30) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
-5. 🗣 Commented on [#1183](https://github.com/aaugustin/websockets/issues/1183) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
+4. 🗣 Commented on [#841](https://github.com/nextcord/nextcord/issues/841) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#30](https://github.com/EzarDev/eZaR/issues/30) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
 <!--END_SECTION:activity-->
 
 ---
