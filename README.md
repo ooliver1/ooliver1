@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5302](https://github.com/discord/discord-api-docs/issues/5302) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. ❗️ Closed issue [#1359](https://github.com/PolyMC/PolyMC/issues/1359) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. ❗️ Opened issue [#1359](https://github.com/PolyMC/PolyMC/issues/1359) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-4. 🎉 Merged PR [#830](https://github.com/nextcord/nextcord/pull/830) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❗️ Closed issue [#816](https://github.com/nextcord/nextcord/issues/816) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#33](https://github.com/EzarDev/eZaR/pull/33) in [EzarDev/eZaR](https://github.com/EzarDev/eZaR)
+2. 🗣 Commented on [#5302](https://github.com/discord/discord-api-docs/issues/5302) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. ❗️ Closed issue [#1359](https://github.com/PolyMC/PolyMC/issues/1359) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+4. ❗️ Opened issue [#1359](https://github.com/PolyMC/PolyMC/issues/1359) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 🎉 Merged PR [#830](https://github.com/nextcord/nextcord/pull/830) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
