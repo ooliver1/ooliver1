@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3514](https://github.com/microsoft/pylance-release/issues/3514) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-2. 🗣 Commented on [#32](https://github.com/ooliver1/botbase/issues/32) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-3. 🎉 Merged PR [#32](https://github.com/ooliver1/botbase/pull/32) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-4. 💪 Opened PR [#32](https://github.com/ooliver1/botbase/pull/32) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🗣 Commented on [#5575](https://github.com/discord/discord-api-docs/issues/5575) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🗣 Commented on [#5558](https://github.com/discord/discord-api-docs/issues/5558) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#3514](https://github.com/microsoft/pylance-release/issues/3514) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+3. 🗣 Commented on [#32](https://github.com/ooliver1/botbase/issues/32) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+4. 🎉 Merged PR [#32](https://github.com/ooliver1/botbase/pull/32) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+5. 💪 Opened PR [#32](https://github.com/ooliver1/botbase/pull/32) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
