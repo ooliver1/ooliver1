@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5455](https://github.com/badges/shields/issues/5455) in [badges/shields](https://github.com/badges/shields)
-2. 💪 Opened PR [#3](https://github.com/ooliver1/mafic/pull/3) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 🎉 Merged PR [#2](https://github.com/ooliver1/mafic/pull/2) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 💪 Opened PR [#2](https://github.com/ooliver1/mafic/pull/2) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🗣 Commented on [#867](https://github.com/nextcord/nextcord/issues/867) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#4](https://github.com/ooliver1/mafic/pull/4) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 🗣 Commented on [#5455](https://github.com/badges/shields/issues/5455) in [badges/shields](https://github.com/badges/shields)
+3. 💪 Opened PR [#3](https://github.com/ooliver1/mafic/pull/3) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 🎉 Merged PR [#2](https://github.com/ooliver1/mafic/pull/2) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 💪 Opened PR [#2](https://github.com/ooliver1/mafic/pull/2) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
