@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ooliver1/mafic/pull/7) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-2. 💪 Opened PR [#7](https://github.com/ooliver1/mafic/pull/7) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 🗣 Commented on [#5433](https://github.com/discord/discord-api-docs/issues/5433) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🎉 Merged PR [#6](https://github.com/ooliver1/mafic/pull/6) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🎉 Merged PR [#870](https://github.com/nextcord/nextcord/pull/870) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Opened issue [#9](https://github.com/ooliver1/mafic/issues/9) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. ❗️ Opened issue [#8](https://github.com/ooliver1/mafic/issues/8) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. 🎉 Merged PR [#871](https://github.com/nextcord/nextcord/pull/871) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#7](https://github.com/ooliver1/mafic/pull/7) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 💪 Opened PR [#7](https://github.com/ooliver1/mafic/pull/7) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
