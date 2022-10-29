@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/ooliver1/mafic/issues/14) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-2. ❗️ Opened issue [#13](https://github.com/ooliver1/mafic/issues/13) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. ❗️ Opened issue [#12](https://github.com/ooliver1/mafic/issues/12) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. ❗️ Opened issue [#11](https://github.com/ooliver1/mafic/issues/11) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. ❗️ Opened issue [#10](https://github.com/ooliver1/mafic/issues/10) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. ❗️ Opened issue [#15](https://github.com/ooliver1/mafic/issues/15) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. ❗️ Opened issue [#14](https://github.com/ooliver1/mafic/issues/14) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. ❗️ Opened issue [#13](https://github.com/ooliver1/mafic/issues/13) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. ❗️ Opened issue [#12](https://github.com/ooliver1/mafic/issues/12) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. ❗️ Opened issue [#11](https://github.com/ooliver1/mafic/issues/11) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
