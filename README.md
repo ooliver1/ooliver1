@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/ooliver1/mafic/pull/17) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-2. 🎉 Merged PR [#888](https://github.com/nextcord/nextcord/pull/888) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Opened issue [#5615](https://github.com/discord/discord-api-docs/issues/5615) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. ❗️ Opened issue [#8](https://github.com/cotemaxime/obsidian-amethyst/issues/8) in [cotemaxime/obsidian-amethyst](https://github.com/cotemaxime/obsidian-amethyst)
-5. 💪 Opened PR [#890](https://github.com/nextcord/nextcord/pull/890) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❌ Closed PR [#891](https://github.com/nextcord/nextcord/pull/891) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#891](https://github.com/nextcord/nextcord/issues/891) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#891](https://github.com/nextcord/nextcord/pull/891) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#17](https://github.com/ooliver1/mafic/pull/17) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 🎉 Merged PR [#888](https://github.com/nextcord/nextcord/pull/888) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
