@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5615](https://github.com/discord/discord-api-docs/issues/5615) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. ❗️ Opened issue [#8](https://github.com/cotemaxime/obsidian-amethyst/issues/8) in [cotemaxime/obsidian-amethyst](https://github.com/cotemaxime/obsidian-amethyst)
-3. 💪 Opened PR [#890](https://github.com/nextcord/nextcord/pull/890) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❗️ Opened issue [#5613](https://github.com/discord/discord-api-docs/issues/5613) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#77](https://github.com/PyYoshi/cChardet/issues/77) in [PyYoshi/cChardet](https://github.com/PyYoshi/cChardet)
+1. 🎉 Merged PR [#888](https://github.com/nextcord/nextcord/pull/888) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Opened issue [#5615](https://github.com/discord/discord-api-docs/issues/5615) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. ❗️ Opened issue [#8](https://github.com/cotemaxime/obsidian-amethyst/issues/8) in [cotemaxime/obsidian-amethyst](https://github.com/cotemaxime/obsidian-amethyst)
+4. 💪 Opened PR [#890](https://github.com/nextcord/nextcord/pull/890) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Opened issue [#5613](https://github.com/discord/discord-api-docs/issues/5613) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 ---
