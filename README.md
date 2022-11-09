@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/ooliver1/mafic/issues/19) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-2. 🎉 Merged PR [#893](https://github.com/nextcord/nextcord/pull/893) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#3](https://github.com/ooliver1/mafic/issues/3) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 🎉 Merged PR [#3](https://github.com/ooliver1/mafic/pull/3) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. ❗️ Closed issue [#11](https://github.com/ooliver1/mafic/issues/11) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 💪 Opened PR [#21](https://github.com/ooliver1/mafic/pull/21) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 💪 Opened PR [#20](https://github.com/ooliver1/mafic/pull/20) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. ❌ Closed PR [#19](https://github.com/ooliver1/minecat/pull/19) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+4. ❌ Closed PR [#21](https://github.com/ooliver1/minecat/pull/21) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+5. ❌ Closed PR [#17](https://github.com/ooliver1/minecat/pull/17) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
 <!--END_SECTION:activity-->
 
 ---
