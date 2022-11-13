@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#902](https://github.com/nextcord/nextcord/issues/902) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#902](https://github.com/nextcord/nextcord/issues/902) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#709](https://github.com/nextcord/nextcord/issues/709) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 💪 Opened PR [#904](https://github.com/nextcord/nextcord/pull/904) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 3. 🗣 Commented on [#902](https://github.com/nextcord/nextcord/issues/902) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#901](https://github.com/nextcord/nextcord/pull/901) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#900](https://github.com/nextcord/nextcord/pull/900) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#902](https://github.com/nextcord/nextcord/issues/902) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#902](https://github.com/nextcord/nextcord/issues/902) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
