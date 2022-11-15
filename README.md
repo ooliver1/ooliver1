@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#839](https://github.com/nextcord/nextcord/issues/839) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#869](https://github.com/nextcord/nextcord/pull/869) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#22](https://github.com/discatpy-dev/library/issues/22) in [discatpy-dev/library](https://github.com/discatpy-dev/library)
-4. 🎉 Merged PR [#904](https://github.com/nextcord/nextcord/pull/904) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❌ Reopened PR [#905](https://github.com/nextcord/nextcord/pull/905) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#5641](https://github.com/discord/discord-api-docs/issues/5641) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. ❗️ Closed issue [#839](https://github.com/nextcord/nextcord/issues/839) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#869](https://github.com/nextcord/nextcord/pull/869) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#22](https://github.com/discatpy-dev/library/issues/22) in [discatpy-dev/library](https://github.com/discatpy-dev/library)
+5. 🎉 Merged PR [#904](https://github.com/nextcord/nextcord/pull/904) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
