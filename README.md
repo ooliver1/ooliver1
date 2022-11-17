@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Eludris/thang-discord/pull/4) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
-2. 💪 Opened PR [#1](https://github.com/drcika/vsCode-dark-theme/pull/1) in [drcika/vsCode-dark-theme](https://github.com/drcika/vsCode-dark-theme)
-3. 🎉 Merged PR [#894](https://github.com/nextcord/nextcord/pull/894) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#868](https://github.com/nextcord/nextcord/pull/868) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#890](https://github.com/nextcord/nextcord/pull/890) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#4](https://github.com/Eludris/thang-discord/pull/4) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
+2. 🗣 Commented on [#4](https://github.com/Eludris/thang-discord/issues/4) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
+3. 💪 Opened PR [#4](https://github.com/Eludris/thang-discord/pull/4) in [Eludris/thang-discord](https://github.com/Eludris/thang-discord)
+4. 💪 Opened PR [#1](https://github.com/drcika/vsCode-dark-theme/pull/1) in [drcika/vsCode-dark-theme](https://github.com/drcika/vsCode-dark-theme)
+5. 🎉 Merged PR [#894](https://github.com/nextcord/nextcord/pull/894) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
