@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#865](https://github.com/DisnakeDev/disnake/issues/865) in [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake)
-2. 🗣 Commented on [#912](https://github.com/nextcord/nextcord/issues/912) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#909](https://github.com/nextcord/nextcord/pull/909) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#76](https://github.com/ooliver1/astro-tailwind/issues/76) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-5. 🗣 Commented on [#89](https://github.com/ooliver1/astro-tailwind/issues/89) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+1. 🗣 Commented on [#3650](https://github.com/microsoft/pylance-release/issues/3650) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+2. 🗣 Commented on [#3649](https://github.com/microsoft/pylance-release/issues/3649) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+3. 🗣 Commented on [#3447](https://github.com/microsoft/pylance-release/issues/3447) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+4. 🗣 Commented on [#865](https://github.com/DisnakeDev/disnake/issues/865) in [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake)
+5. 🗣 Commented on [#912](https://github.com/nextcord/nextcord/issues/912) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
