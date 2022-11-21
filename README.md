@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#885](https://github.com/nextcord/nextcord/issues/885) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#621](https://github.com/Gruntfuggly/todo-tree/issues/621) in [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree)
-3. 🗣 Commented on [#3650](https://github.com/microsoft/pylance-release/issues/3650) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-4. 🗣 Commented on [#3649](https://github.com/microsoft/pylance-release/issues/3649) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-5. 🗣 Commented on [#3447](https://github.com/microsoft/pylance-release/issues/3447) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+1. 🗣 Commented on [#5662](https://github.com/discord/discord-api-docs/issues/5662) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#885](https://github.com/nextcord/nextcord/issues/885) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#621](https://github.com/Gruntfuggly/todo-tree/issues/621) in [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree)
+4. 🗣 Commented on [#3650](https://github.com/microsoft/pylance-release/issues/3650) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+5. 🗣 Commented on [#3649](https://github.com/microsoft/pylance-release/issues/3649) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 <!--END_SECTION:activity-->
 
 ---
