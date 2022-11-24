@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#911](https://github.com/nextcord/nextcord/pull/911) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#5662](https://github.com/discord/discord-api-docs/issues/5662) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🗣 Commented on [#885](https://github.com/nextcord/nextcord/issues/885) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#621](https://github.com/Gruntfuggly/todo-tree/issues/621) in [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree)
-5. 🗣 Commented on [#3650](https://github.com/microsoft/pylance-release/issues/3650) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+1. 💪 Opened PR [#2](https://github.com/drcika/vsCode-dark-theme/pull/2) in [drcika/vsCode-dark-theme](https://github.com/drcika/vsCode-dark-theme)
+2. 🎉 Merged PR [#911](https://github.com/nextcord/nextcord/pull/911) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#5662](https://github.com/discord/discord-api-docs/issues/5662) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🗣 Commented on [#885](https://github.com/nextcord/nextcord/issues/885) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#621](https://github.com/Gruntfuggly/todo-tree/issues/621) in [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree)
 <!--END_SECTION:activity-->
 
 ---
