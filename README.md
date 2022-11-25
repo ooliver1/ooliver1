@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/ooliver1/minecat/pull/24) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
-2. ❌ Closed PR [#23](https://github.com/ooliver1/minecat/pull/23) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
-3. 💪 Opened PR [#23](https://github.com/ooliver1/minecat/pull/23) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
-4. 💪 Opened PR [#2](https://github.com/drcika/vsCode-dark-theme/pull/2) in [drcika/vsCode-dark-theme](https://github.com/drcika/vsCode-dark-theme)
-5. 🎉 Merged PR [#911](https://github.com/nextcord/nextcord/pull/911) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#918](https://github.com/nextcord/nextcord/issues/918) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❌ Closed PR [#918](https://github.com/nextcord/nextcord/pull/918) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#24](https://github.com/ooliver1/minecat/pull/24) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+4. ❌ Closed PR [#23](https://github.com/ooliver1/minecat/pull/23) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
+5. 💪 Opened PR [#23](https://github.com/ooliver1/minecat/pull/23) in [ooliver1/minecat](https://github.com/ooliver1/minecat)
 <!--END_SECTION:activity-->
 
 ---
