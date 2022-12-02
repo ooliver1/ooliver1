@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#10](https://github.com/Eludris/eludris/pull/10) in [Eludris/eludris](https://github.com/Eludris/eludris)
-2. ❌ Closed PR [#10](https://github.com/Eludris/eludris/pull/10) in [Eludris/eludris](https://github.com/Eludris/eludris)
-3. 🗣 Commented on [#10](https://github.com/Eludris/eludris/issues/10) in [Eludris/eludris](https://github.com/Eludris/eludris)
-4. 🗣 Commented on [#6288](https://github.com/portainer/portainer/issues/6288) in [portainer/portainer](https://github.com/portainer/portainer)
-5. ❗️ Closed issue [#836](https://github.com/nextcord/nextcord/issues/836) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#5](https://github.com/Eludris/effis/pull/5) in [Eludris/effis](https://github.com/Eludris/effis)
+2. ❌ Reopened PR [#10](https://github.com/Eludris/eludris/pull/10) in [Eludris/eludris](https://github.com/Eludris/eludris)
+3. ❌ Closed PR [#10](https://github.com/Eludris/eludris/pull/10) in [Eludris/eludris](https://github.com/Eludris/eludris)
+4. 🗣 Commented on [#10](https://github.com/Eludris/eludris/issues/10) in [Eludris/eludris](https://github.com/Eludris/eludris)
+5. 🗣 Commented on [#6288](https://github.com/portainer/portainer/issues/6288) in [portainer/portainer](https://github.com/portainer/portainer)
 <!--END_SECTION:activity-->
 
 ---
