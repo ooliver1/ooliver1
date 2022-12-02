@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Eludris/oprish/pull/6) in [Eludris/oprish](https://github.com/Eludris/oprish)
-2. 🗣 Commented on [#6](https://github.com/Eludris/effis/issues/6) in [Eludris/effis](https://github.com/Eludris/effis)
-3. 💪 Opened PR [#6](https://github.com/Eludris/effis/pull/6) in [Eludris/effis](https://github.com/Eludris/effis)
-4. 💪 Opened PR [#5](https://github.com/Eludris/effis/pull/5) in [Eludris/effis](https://github.com/Eludris/effis)
-5. ❌ Reopened PR [#10](https://github.com/Eludris/eludris/pull/10) in [Eludris/eludris](https://github.com/Eludris/eludris)
+1. 💪 Opened PR [#19](https://github.com/Eludris/todel/pull/19) in [Eludris/todel](https://github.com/Eludris/todel)
+2. 💪 Opened PR [#6](https://github.com/Eludris/pandemonium/pull/6) in [Eludris/pandemonium](https://github.com/Eludris/pandemonium)
+3. 💪 Opened PR [#6](https://github.com/Eludris/oprish/pull/6) in [Eludris/oprish](https://github.com/Eludris/oprish)
+4. 🗣 Commented on [#6](https://github.com/Eludris/effis/issues/6) in [Eludris/effis](https://github.com/Eludris/effis)
+5. 💪 Opened PR [#6](https://github.com/Eludris/effis/pull/6) in [Eludris/effis](https://github.com/Eludris/effis)
 <!--END_SECTION:activity-->
 
 ---
