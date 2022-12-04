@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#925](https://github.com/nextcord/nextcord/pull/925) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#915](https://github.com/nextcord/nextcord/issues/915) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#922](https://github.com/nextcord/nextcord/issues/922) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#924](https://github.com/nextcord/nextcord/pull/924) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#7](https://github.com/Eludris/effis/issues/7) in [Eludris/effis](https://github.com/Eludris/effis)
+1. 🗣 Commented on [#432](https://github.com/codota/TabNine/issues/432) in [codota/TabNine](https://github.com/codota/TabNine)
+2. 🎉 Merged PR [#925](https://github.com/nextcord/nextcord/pull/925) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#915](https://github.com/nextcord/nextcord/issues/915) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#922](https://github.com/nextcord/nextcord/issues/922) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#924](https://github.com/nextcord/nextcord/pull/924) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
