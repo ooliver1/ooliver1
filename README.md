@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#921](https://github.com/nextcord/nextcord/pull/921) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#169](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/169) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-3. 💪 Opened PR [#10](https://github.com/Eludris/effis/pull/10) in [Eludris/effis](https://github.com/Eludris/effis)
-4. 💪 Opened PR [#7](https://github.com/Eludris/pandemonium/pull/7) in [Eludris/pandemonium](https://github.com/Eludris/pandemonium)
-5. 💪 Opened PR [#7](https://github.com/Eludris/oprish/pull/7) in [Eludris/oprish](https://github.com/Eludris/oprish)
+1. 🗣 Commented on [#7254](https://github.com/portainer/portainer/issues/7254) in [portainer/portainer](https://github.com/portainer/portainer)
+2. 🎉 Merged PR [#921](https://github.com/nextcord/nextcord/pull/921) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#169](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/169) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+4. 💪 Opened PR [#10](https://github.com/Eludris/effis/pull/10) in [Eludris/effis](https://github.com/Eludris/effis)
+5. 💪 Opened PR [#7](https://github.com/Eludris/pandemonium/pull/7) in [Eludris/pandemonium](https://github.com/Eludris/pandemonium)
 <!--END_SECTION:activity-->
 
 ---
