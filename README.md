@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#926](https://github.com/nextcord/nextcord/pull/926) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
-3. ❗️ Opened issue [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
-4. 🗣 Commented on [#7254](https://github.com/portainer/portainer/issues/7254) in [portainer/portainer](https://github.com/portainer/portainer)
-5. 🎉 Merged PR [#921](https://github.com/nextcord/nextcord/pull/921) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#929](https://github.com/nextcord/nextcord/pull/929) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#926](https://github.com/nextcord/nextcord/pull/926) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
+4. ❗️ Opened issue [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
+5. 🗣 Commented on [#7254](https://github.com/portainer/portainer/issues/7254) in [portainer/portainer](https://github.com/portainer/portainer)
 <!--END_SECTION:activity-->
 
 ---
