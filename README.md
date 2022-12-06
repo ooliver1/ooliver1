@@ -89,11 +89,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
-2. 🗣 Commented on [#7254](https://github.com/portainer/portainer/issues/7254) in [portainer/portainer](https://github.com/portainer/portainer)
-3. 🎉 Merged PR [#921](https://github.com/nextcord/nextcord/pull/921) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#169](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/169) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-5. 💪 Opened PR [#10](https://github.com/Eludris/effis/pull/10) in [Eludris/effis](https://github.com/Eludris/effis)
+1. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
+2. ❗️ Opened issue [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
+3. 🗣 Commented on [#7254](https://github.com/portainer/portainer/issues/7254) in [portainer/portainer](https://github.com/portainer/portainer)
+4. 🎉 Merged PR [#921](https://github.com/nextcord/nextcord/pull/921) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#169](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/169) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <!--END_SECTION:activity-->
 
 ---
