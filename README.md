@@ -13,6 +13,7 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=Elixir&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
