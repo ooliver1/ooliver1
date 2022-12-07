@@ -91,10 +91,10 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
-2. 💪 Opened PR [#930](https://github.com/nextcord/nextcord/pull/930) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#929](https://github.com/nextcord/nextcord/pull/929) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#926](https://github.com/nextcord/nextcord/pull/926) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
+2. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
+3. 💪 Opened PR [#930](https://github.com/nextcord/nextcord/pull/930) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 💪 Opened PR [#929](https://github.com/nextcord/nextcord/pull/929) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#926](https://github.com/nextcord/nextcord/pull/926) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
