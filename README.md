@@ -92,9 +92,9 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/Eludris/eludris/issues/14) in [Eludris/eludris](https://github.com/Eludris/eludris)
 2. 🗣 Commented on [#15](https://github.com/Eludris/eludris/issues/15) in [Eludris/eludris](https://github.com/Eludris/eludris)
-3. 🗣 Commented on [#16](https://github.com/Eludris/eludris/issues/16) in [Eludris/eludris](https://github.com/Eludris/eludris)
-4. 🎉 Merged PR [#19](https://github.com/Eludris/eludris/pull/19) in [Eludris/eludris](https://github.com/Eludris/eludris)
-5. 💪 Opened PR [#19](https://github.com/Eludris/eludris/pull/19) in [Eludris/eludris](https://github.com/Eludris/eludris)
+3. ❌ Closed PR [#16](https://github.com/Eludris/eludris/pull/16) in [Eludris/eludris](https://github.com/Eludris/eludris)
+4. ❌ Closed PR [#15](https://github.com/Eludris/eludris/pull/15) in [Eludris/eludris](https://github.com/Eludris/eludris)
+5. ❌ Reopened PR [#15](https://github.com/Eludris/eludris/pull/15) in [Eludris/eludris](https://github.com/Eludris/eludris)
 <!--END_SECTION:activity-->
 
 ---
