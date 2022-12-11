@@ -90,11 +90,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Eludris/eludris/pull/19) in [Eludris/eludris](https://github.com/Eludris/eludris)
-2. 💪 Opened PR [#19](https://github.com/Eludris/eludris/pull/19) in [Eludris/eludris](https://github.com/Eludris/eludris)
-3. 💪 Opened PR [#1274](https://github.com/aaugustin/websockets/pull/1274) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
-4. 🗣 Commented on [#8179](https://github.com/portainer/portainer/issues/8179) in [portainer/portainer](https://github.com/portainer/portainer)
-5. 🗣 Commented on [#815](https://github.com/nextcord/nextcord/issues/815) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#14](https://github.com/Eludris/eludris/issues/14) in [Eludris/eludris](https://github.com/Eludris/eludris)
+2. 🗣 Commented on [#15](https://github.com/Eludris/eludris/issues/15) in [Eludris/eludris](https://github.com/Eludris/eludris)
+3. 🗣 Commented on [#16](https://github.com/Eludris/eludris/issues/16) in [Eludris/eludris](https://github.com/Eludris/eludris)
+4. 🎉 Merged PR [#19](https://github.com/Eludris/eludris/pull/19) in [Eludris/eludris](https://github.com/Eludris/eludris)
+5. 💪 Opened PR [#19](https://github.com/Eludris/eludris/pull/19) in [Eludris/eludris](https://github.com/Eludris/eludris)
 <!--END_SECTION:activity-->
 
 ---
