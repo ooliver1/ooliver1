@@ -90,11 +90,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/ooliver1/bot-template/pull/21) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
-2. 🎉 Merged PR [#22](https://github.com/ooliver1/bot-template/pull/22) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
-3. 🎉 Merged PR [#23](https://github.com/ooliver1/bot-template/pull/23) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
-4. 🗣 Commented on [#6288](https://github.com/portainer/portainer/issues/6288) in [portainer/portainer](https://github.com/portainer/portainer)
-5. 🎉 Merged PR [#139](https://github.com/ooliver1/triagecat/pull/139) in [ooliver1/triagecat](https://github.com/ooliver1/triagecat)
+1. 🎉 Merged PR [#17](https://github.com/ooliver1/bot-template/pull/17) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+2. 🎉 Merged PR [#13](https://github.com/ooliver1/bot-template/pull/13) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+3. 🎉 Merged PR [#21](https://github.com/ooliver1/bot-template/pull/21) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+4. 🎉 Merged PR [#22](https://github.com/ooliver1/bot-template/pull/22) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+5. 🎉 Merged PR [#23](https://github.com/ooliver1/bot-template/pull/23) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
 <!--END_SECTION:activity-->
 
 ---
