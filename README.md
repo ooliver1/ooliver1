@@ -91,10 +91,10 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#953](https://github.com/nextcord/nextcord/issues/953) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
-3. ❗️ Opened issue [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
-4. 🎉 Merged PR [#126](https://github.com/ooliver1/nextcord.gay/pull/126) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. 🎉 Merged PR [#93](https://github.com/ooliver1/astro-tailwind/pull/93) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+2. 🗣 Commented on [#953](https://github.com/nextcord/nextcord/issues/953) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+4. ❗️ Opened issue [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+5. 🎉 Merged PR [#126](https://github.com/ooliver1/nextcord.gay/pull/126) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
