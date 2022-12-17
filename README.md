@@ -90,11 +90,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
-2. 🎉 Merged PR [#126](https://github.com/ooliver1/nextcord.gay/pull/126) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-3. 🎉 Merged PR [#93](https://github.com/ooliver1/astro-tailwind/pull/93) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
-4. 🎉 Merged PR [#34](https://github.com/ooliver1/botbase/pull/34) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🎉 Merged PR [#92](https://github.com/ooliver1/astro-tailwind/pull/92) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+1. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+2. ❗️ Opened issue [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+3. 🎉 Merged PR [#126](https://github.com/ooliver1/nextcord.gay/pull/126) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+4. 🎉 Merged PR [#93](https://github.com/ooliver1/astro-tailwind/pull/93) in [ooliver1/astro-tailwind](https://github.com/ooliver1/astro-tailwind)
+5. 🎉 Merged PR [#34](https://github.com/ooliver1/botbase/pull/34) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
