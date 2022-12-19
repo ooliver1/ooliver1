@@ -90,11 +90,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5763](https://github.com/discord/discord-api-docs/issues/5763) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#953](https://github.com/nextcord/nextcord/issues/953) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+2. 🗣 Commented on [#5763](https://github.com/discord/discord-api-docs/issues/5763) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 3. 🗣 Commented on [#953](https://github.com/nextcord/nextcord/issues/953) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
-5. ❗️ Opened issue [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+4. 🗣 Commented on [#953](https://github.com/nextcord/nextcord/issues/953) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
 <!--END_SECTION:activity-->
 
 ---
