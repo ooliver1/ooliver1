@@ -90,11 +90,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#834](https://github.com/nextcord/nextcord/issues/834) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
 2. 🗣 Commented on [#834](https://github.com/nextcord/nextcord/issues/834) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#756](https://github.com/nextcord/nextcord/issues/756) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#5772](https://github.com/discord/discord-api-docs/issues/5772) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+3. 🗣 Commented on [#834](https://github.com/nextcord/nextcord/issues/834) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#756](https://github.com/nextcord/nextcord/issues/756) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#5772](https://github.com/discord/discord-api-docs/issues/5772) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 ---
