@@ -90,11 +90,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+1. 🗣 Commented on [#5690](https://github.com/discord/discord-api-docs/issues/5690) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 2. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
-3. 🗣 Commented on [#834](https://github.com/nextcord/nextcord/issues/834) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
 4. 🗣 Commented on [#834](https://github.com/nextcord/nextcord/issues/834) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#756](https://github.com/nextcord/nextcord/issues/756) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#834](https://github.com/nextcord/nextcord/issues/834) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
