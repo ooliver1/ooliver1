@@ -90,11 +90,11 @@ I am currently working on [a Minecraft and Discord connecting bot](https://githu
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/Eludris/eludris/issues/21) in [Eludris/eludris](https://github.com/Eludris/eludris)
-2. 🗣 Commented on [#21](https://github.com/Eludris/eludris/issues/21) in [Eludris/eludris](https://github.com/Eludris/eludris)
-3. ❗️ Closed issue [#480](https://github.com/ooliver1/status/issues/480) in [ooliver1/status](https://github.com/ooliver1/status)
-4. 🗣 Commented on [#480](https://github.com/ooliver1/status/issues/480) in [ooliver1/status](https://github.com/ooliver1/status)
-5. ❗️ Closed issue [#479](https://github.com/ooliver1/status/issues/479) in [ooliver1/status](https://github.com/ooliver1/status)
+1. 🎉 Merged PR [#955](https://github.com/nextcord/nextcord/pull/955) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Closed issue [#933](https://github.com/nextcord/nextcord/issues/933) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#943](https://github.com/nextcord/nextcord/pull/943) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#943](https://github.com/nextcord/nextcord/issues/943) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#21](https://github.com/Eludris/eludris/issues/21) in [Eludris/eludris](https://github.com/Eludris/eludris)
 <!--END_SECTION:activity-->
 
 ---
