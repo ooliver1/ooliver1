@@ -1,8 +1,8 @@
 # ooliver1
 
-Hey there, I'm Oliver, a 16 year old software developer from the UK. I love making Discord bots with Python, solving problems with Typescript and java, and contributing to other OSS projects whilst sometimes bearing a bit of web development.
+Hey there, I'm Oliver, a 16 year old software developer from the UK. I love making Discord bots with Python, solving problems with Typescript, Rust and Java/Kotlin, and contributing to other OSS projects whilst sometimes bearing a bit of web development.
 
-I am currently working on [a Minecraft and Discord connecting bot](https://github.com/ooliver1/minecat)
+I am currently working on [an Eludris bot to aid development, including an open eval command](https://github.com/ooliver1/dewel)
 
 ---
 
