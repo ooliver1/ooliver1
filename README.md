@@ -90,9 +90,9 @@ I am currently working on [an Eludris bot to aid development, including an open 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Eludris/eludris/pull/23) in [Eludris/eludris](https://github.com/Eludris/eludris)
-2. 🎉 Merged PR [#23](https://github.com/ooliver1/mafic/pull/23) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+1. 🎉 Merged PR [#960](https://github.com/nextcord/nextcord/pull/960) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#916](https://github.com/nextcord/nextcord/pull/916) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#23](https://github.com/Eludris/eludris/pull/23) in [Eludris/eludris](https://github.com/Eludris/eludris)
 4. 🗣 Commented on [#21](https://github.com/Eludris/eludris/issues/21) in [Eludris/eludris](https://github.com/Eludris/eludris)
 5. 💪 Opened PR [#959](https://github.com/nextcord/nextcord/pull/959) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
