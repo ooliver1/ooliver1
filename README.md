@@ -90,11 +90,11 @@ I am currently working on [an Eludris bot to aid development, including an open 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/EnokiUN/effiwbin/pull/1) in [EnokiUN/effiwbin](https://github.com/EnokiUN/effiwbin)
-2. 🗣 Commented on [#1](https://github.com/EnokiUN/effiwbin/issues/1) in [EnokiUN/effiwbin](https://github.com/EnokiUN/effiwbin)
-3. 💪 Opened PR [#1](https://github.com/EnokiUN/effiwbin/pull/1) in [EnokiUN/effiwbin](https://github.com/EnokiUN/effiwbin)
-4. 🎉 Merged PR [#960](https://github.com/nextcord/nextcord/pull/960) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#916](https://github.com/nextcord/nextcord/pull/916) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#964](https://github.com/nextcord/nextcord/pull/964) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❌ Closed PR [#1](https://github.com/EnokiUN/effiwbin/pull/1) in [EnokiUN/effiwbin](https://github.com/EnokiUN/effiwbin)
+3. 🗣 Commented on [#1](https://github.com/EnokiUN/effiwbin/issues/1) in [EnokiUN/effiwbin](https://github.com/EnokiUN/effiwbin)
+4. 💪 Opened PR [#1](https://github.com/EnokiUN/effiwbin/pull/1) in [EnokiUN/effiwbin](https://github.com/EnokiUN/effiwbin)
+5. 🎉 Merged PR [#960](https://github.com/nextcord/nextcord/pull/960) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
