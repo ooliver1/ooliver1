@@ -90,11 +90,11 @@ I am currently working on [an Eludris bot to aid development, including an open 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#968](https://github.com/nextcord/nextcord/pull/968) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#966](https://github.com/nextcord/nextcord/pull/966) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#967](https://github.com/nextcord/nextcord/issues/967) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#967](https://github.com/nextcord/nextcord/issues/967) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#5708](https://github.com/discord/discord-api-docs/issues/5708) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. ❗️ Closed issue [#922](https://github.com/nextcord/nextcord/issues/922) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#922](https://github.com/nextcord/nextcord/issues/922) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#968](https://github.com/nextcord/nextcord/pull/968) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#966](https://github.com/nextcord/nextcord/pull/966) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Closed issue [#967](https://github.com/nextcord/nextcord/issues/967) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
