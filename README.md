@@ -90,11 +90,11 @@ I am currently working on [an Eludris bot to aid development, including an open 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#971](https://github.com/nextcord/nextcord/pull/971) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Reopened issue [#3](https://github.com/eludris/docs/issues/3) in [eludris/docs](https://github.com/eludris/docs)
-3. ❗️ Closed issue [#3](https://github.com/eludris/docs/issues/3) in [eludris/docs](https://github.com/eludris/docs)
-4. 💪 Opened PR [#112](https://github.com/nextcord/previous/pull/112) in [nextcord/previous](https://github.com/nextcord/previous)
-5. 🗣 Commented on [#5830](https://github.com/discord/discord-api-docs/issues/5830) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🗣 Commented on [#915](https://github.com/nextcord/nextcord/issues/915) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#964](https://github.com/nextcord/nextcord/issues/964) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#971](https://github.com/nextcord/nextcord/pull/971) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❗️ Reopened issue [#3](https://github.com/eludris/docs/issues/3) in [eludris/docs](https://github.com/eludris/docs)
+5. ❗️ Closed issue [#3](https://github.com/eludris/docs/issues/3) in [eludris/docs](https://github.com/eludris/docs)
 <!--END_SECTION:activity-->
 
 ---
