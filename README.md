@@ -60,11 +60,11 @@ I am currently working on [an Eludris bot to aid development, including an open 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#915](https://github.com/nextcord/nextcord/issues/915) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#964](https://github.com/nextcord/nextcord/issues/964) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#971](https://github.com/nextcord/nextcord/pull/971) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❗️ Reopened issue [#3](https://github.com/eludris/docs/issues/3) in [eludris/docs](https://github.com/eludris/docs)
-5. ❗️ Closed issue [#3](https://github.com/eludris/docs/issues/3) in [eludris/docs](https://github.com/eludris/docs)
+1. 🗣 Commented on [#9](https://github.com/eludris-community/evangeline/issues/9) in [eludris-community/evangeline](https://github.com/eludris-community/evangeline)
+2. 🗣 Commented on [#915](https://github.com/nextcord/nextcord/issues/915) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#964](https://github.com/nextcord/nextcord/issues/964) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 💪 Opened PR [#971](https://github.com/nextcord/nextcord/pull/971) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Reopened issue [#3](https://github.com/eludris/docs/issues/3) in [eludris/docs](https://github.com/eludris/docs)
 <!--END_SECTION:activity-->
 
 ---
