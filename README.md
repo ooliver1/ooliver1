@@ -28,50 +28,24 @@ I am currently working on [an Eludris bot to aid development, including an open 
 
 ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?logo=AIOHTTP&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=Astro&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=CMake&logoColor=white)
 ![esbuild](https://img.shields.io/badge/esbuild-FFCF00?logo=esbuild&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=Jinja&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=NGINX&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?logo=Poetry&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?logo=PostCSS&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/pre-commit-FAB040?logo=pre-commit&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=Svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white)
 
-### Hosting, Infrastructure and Databases
+### Infrastructure and Databases
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=DigitalOcean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white)
-![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?logo=Github%20Actions&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?logo=Hetzner&logoColor=white)
-![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?logo=Namecheap&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-008C99?logo=New%20Relic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white)
-
-### Software, Sites and Tools
-
-![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=Codecov&logoColor=white)
-![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196?logo=Conventional%20Commits&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=GIMP&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=Insomnia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000000?logo=MDN%20Web%20Docs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-![OpenJDK](https://img.shields.io/badge/OpenJDK-FFFFFF?logo=OpenJDK&logoColor=black)
-![SemVer](https://img.shields.io/badge/SemVer-3F4551?logo=SemVer&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 
 ---
 
