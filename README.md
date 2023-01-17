@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1274](https://github.com/aaugustin/websockets/issues/1274) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
-2. ❌ Closed PR [#1274](https://github.com/aaugustin/websockets/pull/1274) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
-3. ❌ Closed PR [#6](https://github.com/vcokltfre/crosschat/pull/6) in [vcokltfre/crosschat](https://github.com/vcokltfre/crosschat)
-4. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
-5. 💪 Opened PR [#1](https://github.com/TAG-Epic/pytest-harmony/pull/1) in [TAG-Epic/pytest-harmony](https://github.com/TAG-Epic/pytest-harmony)
+1. 💪 Opened PR [#24](https://github.com/ooliver1/mafic/pull/24) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 🗣 Commented on [#1274](https://github.com/aaugustin/websockets/issues/1274) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
+3. ❌ Closed PR [#1274](https://github.com/aaugustin/websockets/pull/1274) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
+4. ❌ Closed PR [#6](https://github.com/vcokltfre/crosschat/pull/6) in [vcokltfre/crosschat](https://github.com/vcokltfre/crosschat)
+5. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
 <!--END_SECTION:activity-->
 
 ---
