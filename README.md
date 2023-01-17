@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
-2. 💪 Opened PR [#1](https://github.com/TAG-Epic/pytest-harmony/pull/1) in [TAG-Epic/pytest-harmony](https://github.com/TAG-Epic/pytest-harmony)
-3. 💪 Opened PR [#976](https://github.com/nextcord/nextcord/pull/976) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❗️ Opened issue [#973](https://github.com/nextcord/nextcord/issues/973) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#9](https://github.com/eludris-community/evangeline/issues/9) in [eludris-community/evangeline](https://github.com/eludris-community/evangeline)
+1. ❌ Closed PR [#1274](https://github.com/aaugustin/websockets/pull/1274) in [aaugustin/websockets](https://github.com/aaugustin/websockets)
+2. ❌ Closed PR [#6](https://github.com/vcokltfre/crosschat/pull/6) in [vcokltfre/crosschat](https://github.com/vcokltfre/crosschat)
+3. 🗣 Commented on [#8211](https://github.com/portainer/portainer/issues/8211) in [portainer/portainer](https://github.com/portainer/portainer)
+4. 💪 Opened PR [#1](https://github.com/TAG-Epic/pytest-harmony/pull/1) in [TAG-Epic/pytest-harmony](https://github.com/TAG-Epic/pytest-harmony)
+5. 💪 Opened PR [#976](https://github.com/nextcord/nextcord/pull/976) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
