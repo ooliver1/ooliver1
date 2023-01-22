@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#154](https://github.com/nextcord/nextcord/issues/154) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#834](https://github.com/nextcord/nextcord/pull/834) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#11](https://github.com/eludris/pengin/issues/11) in [eludris/pengin](https://github.com/eludris/pengin)
-4. 💪 Opened PR [#809](https://github.com/freyacodes/Lavalink/pull/809) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
-5. 🎉 Merged PR [#22](https://github.com/ooliver1/mafic/pull/22) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 🗣 Commented on [#887](https://github.com/nextcord/nextcord/issues/887) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Closed issue [#154](https://github.com/nextcord/nextcord/issues/154) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#834](https://github.com/nextcord/nextcord/pull/834) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#11](https://github.com/eludris/pengin/issues/11) in [eludris/pengin](https://github.com/eludris/pengin)
+5. 💪 Opened PR [#809](https://github.com/freyacodes/Lavalink/pull/809) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
 <!--END_SECTION:activity-->
 
 ---
