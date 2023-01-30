@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5283](https://github.com/discord/discord-api-docs/issues/5283) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. ❗️ Closed issue [#15](https://github.com/ooliver1/mafic/issues/15) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 🎉 Merged PR [#28](https://github.com/ooliver1/mafic/pull/28) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 💪 Opened PR [#28](https://github.com/ooliver1/mafic/pull/28) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. ❌ Closed PR [#27](https://github.com/ooliver1/mafic/pull/27) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. ❗️ Closed issue [#884](https://github.com/nextcord/nextcord/issues/884) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#887](https://github.com/nextcord/nextcord/pull/887) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#5283](https://github.com/discord/discord-api-docs/issues/5283) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. ❗️ Closed issue [#15](https://github.com/ooliver1/mafic/issues/15) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 🎉 Merged PR [#28](https://github.com/ooliver1/mafic/pull/28) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
