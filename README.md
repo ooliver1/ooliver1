@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#182](https://github.com/nextsnake/nextcore/pull/182) in [nextsnake/nextcore](https://github.com/nextsnake/nextcore)
-2. 💪 Opened PR [#827](https://github.com/freyacodes/Lavalink/pull/827) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
-3. 💪 Opened PR [#826](https://github.com/freyacodes/Lavalink/pull/826) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
-4. 💪 Opened PR [#36](https://github.com/eludris/eludris/pull/36) in [eludris/eludris](https://github.com/eludris/eludris)
-5. 🎉 Merged PR [#31](https://github.com/ooliver1/mafic/pull/31) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 🗣 Commented on [#26](https://github.com/ooliver1/mafic/issues/26) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 🎉 Merged PR [#26](https://github.com/ooliver1/mafic/pull/26) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. 💪 Opened PR [#182](https://github.com/nextsnake/nextcore/pull/182) in [nextsnake/nextcore](https://github.com/nextsnake/nextcore)
+4. 💪 Opened PR [#827](https://github.com/freyacodes/Lavalink/pull/827) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
+5. 💪 Opened PR [#826](https://github.com/freyacodes/Lavalink/pull/826) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
 <!--END_SECTION:activity-->
 
 ---
