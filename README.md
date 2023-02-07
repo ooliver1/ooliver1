@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/ooliver1/mafic/issues/34) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-2. 🎉 Merged PR [#34](https://github.com/ooliver1/mafic/pull/34) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 💪 Opened PR [#34](https://github.com/ooliver1/mafic/pull/34) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 🗣 Commented on [#33](https://github.com/ooliver1/mafic/issues/33) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🎉 Merged PR [#33](https://github.com/ooliver1/mafic/pull/33) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 💪 Opened PR [#833](https://github.com/freyacodes/Lavalink/pull/833) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
+2. 🗣 Commented on [#34](https://github.com/ooliver1/mafic/issues/34) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. 🎉 Merged PR [#34](https://github.com/ooliver1/mafic/pull/34) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 💪 Opened PR [#34](https://github.com/ooliver1/mafic/pull/34) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 🗣 Commented on [#33](https://github.com/ooliver1/mafic/issues/33) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
