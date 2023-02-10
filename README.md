@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#482](https://github.com/ooliver1/status/issues/482) in [ooliver1/status](https://github.com/ooliver1/status)
-2. 🗣 Commented on [#482](https://github.com/ooliver1/status/issues/482) in [ooliver1/status](https://github.com/ooliver1/status)
-3. 🎉 Merged PR [#969](https://github.com/nextcord/nextcord/pull/969) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❗️ Opened issue [#482](https://github.com/ooliver1/status/issues/482) in [ooliver1/status](https://github.com/ooliver1/status)
-5. 🗣 Commented on [#481](https://github.com/ooliver1/status/issues/481) in [ooliver1/status](https://github.com/ooliver1/status)
+1. ❌ Closed PR [#35](https://github.com/ooliver1/botbase/pull/35) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+2. ❗️ Closed issue [#482](https://github.com/ooliver1/status/issues/482) in [ooliver1/status](https://github.com/ooliver1/status)
+3. 🗣 Commented on [#482](https://github.com/ooliver1/status/issues/482) in [ooliver1/status](https://github.com/ooliver1/status)
+4. 🎉 Merged PR [#969](https://github.com/nextcord/nextcord/pull/969) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Opened issue [#482](https://github.com/ooliver1/status/issues/482) in [ooliver1/status](https://github.com/ooliver1/status)
 <!--END_SECTION:activity-->
 
 ---
