@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4660](https://github.com/microsoft/pyright/issues/4660) in [microsoft/pyright](https://github.com/microsoft/pyright)
-2. 🗣 Commented on [#55](https://github.com/ooliver1/mafic/issues/55) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 🎉 Merged PR [#55](https://github.com/ooliver1/mafic/pull/55) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 💪 Opened PR [#55](https://github.com/ooliver1/mafic/pull/55) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🗣 Commented on [#52](https://github.com/ooliver1/mafic/issues/52) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. ❗️ Opened issue [#66](https://github.com/parasop/poru/issues/66) in [parasop/poru](https://github.com/parasop/poru)
+2. ❗️ Opened issue [#4660](https://github.com/microsoft/pyright/issues/4660) in [microsoft/pyright](https://github.com/microsoft/pyright)
+3. 🗣 Commented on [#55](https://github.com/ooliver1/mafic/issues/55) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 🎉 Merged PR [#55](https://github.com/ooliver1/mafic/pull/55) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 💪 Opened PR [#55](https://github.com/ooliver1/mafic/pull/55) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
