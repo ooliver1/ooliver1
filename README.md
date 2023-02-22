@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/nextsnake/nextcore/issues/197) in [nextsnake/nextcore](https://github.com/nextsnake/nextcore)
-2. ❗️ Closed issue [#978](https://github.com/nextcord/nextcord/issues/978) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#979](https://github.com/nextcord/nextcord/pull/979) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#5279](https://github.com/discord/discord-api-docs/issues/5279) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🎉 Merged PR [#709](https://github.com/nextcord/nextcord/pull/709) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Closed issue [#815](https://github.com/nextcord/nextcord/issues/815) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#959](https://github.com/nextcord/nextcord/pull/959) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#197](https://github.com/nextsnake/nextcore/issues/197) in [nextsnake/nextcore](https://github.com/nextsnake/nextcore)
+4. ❗️ Closed issue [#978](https://github.com/nextcord/nextcord/issues/978) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#979](https://github.com/nextcord/nextcord/pull/979) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
