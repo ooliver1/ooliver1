@@ -60,8 +60,8 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#220556](https://github.com/NixOS/nixpkgs/pull/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#5964](https://github.com/discord/discord-api-docs/issues/5964) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 💪 Opened PR [#46](https://github.com/eludris/eludris/pull/46) in [eludris/eludris](https://github.com/eludris/eludris)
+2. 💪 Opened PR [#220556](https://github.com/NixOS/nixpkgs/pull/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 3. 🗣 Commented on [#1000](https://github.com/nextcord/nextcord/issues/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 4. 🗣 Commented on [#1000](https://github.com/nextcord/nextcord/issues/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 5. 💪 Opened PR [#1000](https://github.com/nextcord/nextcord/pull/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
