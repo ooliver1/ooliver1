@@ -60,7 +60,7 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1300](https://github.com/MeteorDevelopment/meteor-client/issues/1300) in [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client)
+1. 💪 Opened PR [#220556](https://github.com/NixOS/nixpkgs/pull/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 2. 🗣 Commented on [#5964](https://github.com/discord/discord-api-docs/issues/5964) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 3. 🗣 Commented on [#1000](https://github.com/nextcord/nextcord/issues/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 4. 🗣 Commented on [#1000](https://github.com/nextcord/nextcord/issues/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
