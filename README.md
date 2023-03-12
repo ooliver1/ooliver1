@@ -60,10 +60,10 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1005](https://github.com/nextcord/nextcord/pull/1005) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#46](https://github.com/eludris/eludris/pull/46) in [eludris/eludris](https://github.com/eludris/eludris)
-3. 💪 Opened PR [#220556](https://github.com/NixOS/nixpkgs/pull/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#1000](https://github.com/nextcord/nextcord/issues/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#1006](https://github.com/nextcord/nextcord/issues/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#1005](https://github.com/nextcord/nextcord/pull/1005) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#46](https://github.com/eludris/eludris/pull/46) in [eludris/eludris](https://github.com/eludris/eludris)
+4. 💪 Opened PR [#220556](https://github.com/NixOS/nixpkgs/pull/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 5. 💪 Opened PR [#1000](https://github.com/nextcord/nextcord/pull/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
