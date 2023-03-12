@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#852](https://github.com/freyacodes/Lavalink/issues/852) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
-2. 🗣 Commented on [#1006](https://github.com/nextcord/nextcord/issues/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#1005](https://github.com/nextcord/nextcord/pull/1005) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#46](https://github.com/eludris/eludris/pull/46) in [eludris/eludris](https://github.com/eludris/eludris)
-5. 💪 Opened PR [#220556](https://github.com/NixOS/nixpkgs/pull/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#8](https://github.com/eludris/docs/pull/8) in [eludris/docs](https://github.com/eludris/docs)
+2. 🗣 Commented on [#852](https://github.com/freyacodes/Lavalink/issues/852) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
+3. 🗣 Commented on [#1006](https://github.com/nextcord/nextcord/issues/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#1005](https://github.com/nextcord/nextcord/pull/1005) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 💪 Opened PR [#46](https://github.com/eludris/eludris/pull/46) in [eludris/eludris](https://github.com/eludris/eludris)
 <!--END_SECTION:activity-->
 
 ---
