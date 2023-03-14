@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/eludris/eludris/issues/48) in [eludris/eludris](https://github.com/eludris/eludris)
-2. 🎉 Merged PR [#1009](https://github.com/nextcord/nextcord/pull/1009) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#8](https://github.com/eludris/docs/pull/8) in [eludris/docs](https://github.com/eludris/docs)
-4. 🗣 Commented on [#852](https://github.com/freyacodes/Lavalink/issues/852) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
-5. 🗣 Commented on [#1006](https://github.com/nextcord/nextcord/issues/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Opened issue [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
+2. 🗣 Commented on [#48](https://github.com/eludris/eludris/issues/48) in [eludris/eludris](https://github.com/eludris/eludris)
+3. 🎉 Merged PR [#1009](https://github.com/nextcord/nextcord/pull/1009) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 💪 Opened PR [#8](https://github.com/eludris/docs/pull/8) in [eludris/docs](https://github.com/eludris/docs)
+5. 🗣 Commented on [#852](https://github.com/freyacodes/Lavalink/issues/852) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
 <!--END_SECTION:activity-->
 
 ---
