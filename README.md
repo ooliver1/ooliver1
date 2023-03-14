@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
-2. ❗️ Opened issue [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
-3. 🗣 Commented on [#48](https://github.com/eludris/eludris/issues/48) in [eludris/eludris](https://github.com/eludris/eludris)
-4. 🎉 Merged PR [#1009](https://github.com/nextcord/nextcord/pull/1009) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 💪 Opened PR [#8](https://github.com/eludris/docs/pull/8) in [eludris/docs](https://github.com/eludris/docs)
+1. 💪 Opened PR [#49](https://github.com/eludris/eludris/pull/49) in [eludris/eludris](https://github.com/eludris/eludris)
+2. 🗣 Commented on [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
+3. ❗️ Opened issue [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
+4. 🗣 Commented on [#48](https://github.com/eludris/eludris/issues/48) in [eludris/eludris](https://github.com/eludris/eludris)
+5. 🎉 Merged PR [#1009](https://github.com/nextcord/nextcord/pull/1009) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
