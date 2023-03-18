@@ -61,10 +61,10 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#220556](https://github.com/NixOS/nixpkgs/issues/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#49](https://github.com/eludris/eludris/pull/49) in [eludris/eludris](https://github.com/eludris/eludris)
-3. 🗣 Commented on [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
-4. ❗️ Opened issue [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
-5. 🗣 Commented on [#48](https://github.com/eludris/eludris/issues/48) in [eludris/eludris](https://github.com/eludris/eludris)
+2. 🗣 Commented on [#220556](https://github.com/NixOS/nixpkgs/issues/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#49](https://github.com/eludris/eludris/pull/49) in [eludris/eludris](https://github.com/eludris/eludris)
+4. 🗣 Commented on [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
+5. ❗️ Opened issue [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
 <!--END_SECTION:activity-->
 
 ---
