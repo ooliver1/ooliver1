@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/kkharji/redis-derive/issues/7) in [kkharji/redis-derive](https://github.com/kkharji/redis-derive)
-2. 🎉 Merged PR [#5](https://github.com/eludris/thang/pull/5) in [eludris/thang](https://github.com/eludris/thang)
-3. 💪 Opened PR [#5](https://github.com/eludris/thang/pull/5) in [eludris/thang](https://github.com/eludris/thang)
-4. ❗️ Opened issue [#7](https://github.com/kkharji/redis-derive/issues/7) in [kkharji/redis-derive](https://github.com/kkharji/redis-derive)
-5. 🗣 Commented on [#220556](https://github.com/NixOS/nixpkgs/issues/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🎉 Merged PR [#1006](https://github.com/nextcord/nextcord/pull/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#1006](https://github.com/nextcord/nextcord/issues/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#7](https://github.com/kkharji/redis-derive/issues/7) in [kkharji/redis-derive](https://github.com/kkharji/redis-derive)
+4. 🎉 Merged PR [#5](https://github.com/eludris/thang/pull/5) in [eludris/thang](https://github.com/eludris/thang)
+5. 💪 Opened PR [#5](https://github.com/eludris/thang/pull/5) in [eludris/thang](https://github.com/eludris/thang)
 <!--END_SECTION:activity-->
 
 ---
