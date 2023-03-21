@@ -61,10 +61,10 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1016](https://github.com/nextcord/nextcord/issues/1016) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#1013](https://github.com/nextcord/nextcord/pull/1013) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#1006](https://github.com/nextcord/nextcord/pull/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#1006](https://github.com/nextcord/nextcord/issues/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#7](https://github.com/kkharji/redis-derive/issues/7) in [kkharji/redis-derive](https://github.com/kkharji/redis-derive)
+2. 🗣 Commented on [#1016](https://github.com/nextcord/nextcord/issues/1016) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#1013](https://github.com/nextcord/nextcord/pull/1013) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#1006](https://github.com/nextcord/nextcord/pull/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#1006](https://github.com/nextcord/nextcord/issues/1006) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
