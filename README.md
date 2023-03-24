@@ -61,10 +61,10 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#824](https://github.com/nextcord/nextcord/issues/824) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
-3. 🗣 Commented on [#6788](https://github.com/aio-libs/aiohttp/issues/6788) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
-4. 💪 Opened PR [#1017](https://github.com/nextcord/nextcord/pull/1017) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#3](https://github.com/eludris-community/eludris.go/issues/3) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
+2. 🗣 Commented on [#824](https://github.com/nextcord/nextcord/issues/824) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#152](https://github.com/zabel-xyz/local-history/issues/152) in [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
+4. 🗣 Commented on [#6788](https://github.com/aio-libs/aiohttp/issues/6788) in [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
+5. 💪 Opened PR [#1017](https://github.com/nextcord/nextcord/pull/1017) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
