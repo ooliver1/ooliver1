@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/eludris-community/eludris.go/pull/7) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
-2. 💪 Opened PR [#7](https://github.com/eludris-community/eludris.go/pull/7) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
-3. 🗣 Commented on [#1022](https://github.com/nextcord/nextcord/issues/1022) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#1019](https://github.com/nextcord/nextcord/issues/1019) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#6](https://github.com/eludris-community/eludris.go/pull/6) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
+1. 🎉 Merged PR [#8](https://github.com/eludris-community/eludris.go/pull/8) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
+2. 💪 Opened PR [#8](https://github.com/eludris-community/eludris.go/pull/8) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
+3. 🎉 Merged PR [#7](https://github.com/eludris-community/eludris.go/pull/7) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
+4. 💪 Opened PR [#7](https://github.com/eludris-community/eludris.go/pull/7) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
+5. 🗣 Commented on [#1022](https://github.com/nextcord/nextcord/issues/1022) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
