@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#594](https://github.com/plasma-umass/scalene/issues/594) in [plasma-umass/scalene](https://github.com/plasma-umass/scalene)
-2. 💪 Opened PR [#10](https://github.com/eludris-community/eludris.go/pull/10) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
-3. 🎉 Merged PR [#9](https://github.com/eludris-community/eludris.go/pull/9) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
-4. 💪 Opened PR [#9](https://github.com/eludris-community/eludris.go/pull/9) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
-5. 🗣 Commented on [#1000](https://github.com/nextcord/nextcord/issues/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#1029](https://github.com/nextcord/nextcord/pull/1029) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Opened issue [#594](https://github.com/plasma-umass/scalene/issues/594) in [plasma-umass/scalene](https://github.com/plasma-umass/scalene)
+3. 💪 Opened PR [#10](https://github.com/eludris-community/eludris.go/pull/10) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
+4. 🎉 Merged PR [#9](https://github.com/eludris-community/eludris.go/pull/9) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
+5. 💪 Opened PR [#9](https://github.com/eludris-community/eludris.go/pull/9) in [eludris-community/eludris.go](https://github.com/eludris-community/eludris.go)
 <!--END_SECTION:activity-->
 
 ---
