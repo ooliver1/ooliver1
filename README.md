@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220556](https://github.com/NixOS/nixpkgs/issues/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🎉 Merged PR [#1014](https://github.com/nextcord/nextcord/pull/1014) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#1014](https://github.com/nextcord/nextcord/issues/1014) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#60](https://github.com/ooliver1/mafic/issues/60) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🎉 Merged PR [#1029](https://github.com/nextcord/nextcord/pull/1029) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#995](https://github.com/nextcord/nextcord/issues/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#220556](https://github.com/NixOS/nixpkgs/issues/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🎉 Merged PR [#1014](https://github.com/nextcord/nextcord/pull/1014) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#1014](https://github.com/nextcord/nextcord/issues/1014) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#60](https://github.com/ooliver1/mafic/issues/60) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
