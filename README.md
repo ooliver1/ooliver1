@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6071](https://github.com/discord/discord-api-docs/issues/6071) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#995](https://github.com/nextcord/nextcord/issues/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#220556](https://github.com/NixOS/nixpkgs/issues/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#1014](https://github.com/nextcord/nextcord/pull/1014) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#1014](https://github.com/nextcord/nextcord/issues/1014) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#1017](https://github.com/nextcord/nextcord/issues/1017) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#998](https://github.com/nextcord/nextcord/pull/998) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#6071](https://github.com/discord/discord-api-docs/issues/6071) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🗣 Commented on [#995](https://github.com/nextcord/nextcord/issues/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#220556](https://github.com/NixOS/nixpkgs/issues/220556) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ---
