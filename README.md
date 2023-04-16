@@ -60,9 +60,9 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#595](https://github.com/engineer-man/piston/issues/595) in [engineer-man/piston](https://github.com/engineer-man/piston)
-2. ❌ Closed PR [#56](https://github.com/eludris/eludris/pull/56) in [eludris/eludris](https://github.com/eludris/eludris)
-3. 🗣 Commented on [#56](https://github.com/eludris/eludris/issues/56) in [eludris/eludris](https://github.com/eludris/eludris)
+1. 🎉 Merged PR [#1041](https://github.com/nextcord/nextcord/pull/1041) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Opened issue [#595](https://github.com/engineer-man/piston/issues/595) in [engineer-man/piston](https://github.com/engineer-man/piston)
+3. ❌ Closed PR [#56](https://github.com/eludris/eludris/pull/56) in [eludris/eludris](https://github.com/eludris/eludris)
 4. 🗣 Commented on [#56](https://github.com/eludris/eludris/issues/56) in [eludris/eludris](https://github.com/eludris/eludris)
 5. 🗣 Commented on [#56](https://github.com/eludris/eludris/issues/56) in [eludris/eludris](https://github.com/eludris/eludris)
 <!--END_SECTION:activity-->
