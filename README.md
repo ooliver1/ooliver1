@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#612](https://github.com/collerek/ormar/issues/612) in [collerek/ormar](https://github.com/collerek/ormar)
-2. 💪 Opened PR [#64](https://github.com/ooliver1/mafic/pull/64) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 🗣 Commented on [#62](https://github.com/ooliver1/mafic/issues/62) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 🎉 Merged PR [#62](https://github.com/ooliver1/mafic/pull/62) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🎉 Merged PR [#63](https://github.com/ooliver1/mafic/pull/63) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 🎉 Merged PR [#1043](https://github.com/nextcord/nextcord/pull/1043) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#612](https://github.com/collerek/ormar/issues/612) in [collerek/ormar](https://github.com/collerek/ormar)
+3. 💪 Opened PR [#64](https://github.com/ooliver1/mafic/pull/64) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 🗣 Commented on [#62](https://github.com/ooliver1/mafic/issues/62) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 🎉 Merged PR [#62](https://github.com/ooliver1/mafic/pull/62) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
