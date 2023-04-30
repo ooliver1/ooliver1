@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
-2. 🗣 Commented on [#4413](https://github.com/discord/discord-api-docs/issues/4413) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. ❗️ Closed issue [#1049](https://github.com/nextcord/nextcord/issues/1049) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#1049](https://github.com/nextcord/nextcord/issues/1049) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#1043](https://github.com/nextcord/nextcord/pull/1043) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Opened issue [#63](https://github.com/TopiSenpai/LavaSrc/issues/63) in [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
+2. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
+3. 🗣 Commented on [#4413](https://github.com/discord/discord-api-docs/issues/4413) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. ❗️ Closed issue [#1049](https://github.com/nextcord/nextcord/issues/1049) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#1049](https://github.com/nextcord/nextcord/issues/1049) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
