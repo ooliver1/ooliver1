@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/TopiSenpai/LavaSrc/issues/63) in [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
-2. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
-3. 🗣 Commented on [#4413](https://github.com/discord/discord-api-docs/issues/4413) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. ❗️ Closed issue [#1049](https://github.com/nextcord/nextcord/issues/1049) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#1049](https://github.com/nextcord/nextcord/issues/1049) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#64](https://github.com/ooliver1/mafic/issues/64) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 🎉 Merged PR [#64](https://github.com/ooliver1/mafic/pull/64) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. 🎉 Merged PR [#66](https://github.com/ooliver1/mafic/pull/66) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 💪 Opened PR [#66](https://github.com/ooliver1/mafic/pull/66) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. ❗️ Opened issue [#63](https://github.com/TopiSenpai/LavaSrc/issues/63) in [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
 <!--END_SECTION:activity-->
 
 ---
