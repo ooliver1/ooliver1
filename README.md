@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/eludris/thang/pull/6) in [eludris/thang](https://github.com/eludris/thang)
-2. 💪 Opened PR [#6](https://github.com/eludris/thang/pull/6) in [eludris/thang](https://github.com/eludris/thang)
-3. ❗️ Closed issue [#63](https://github.com/TopiSenpai/LavaSrc/issues/63) in [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
-4. 🗣 Commented on [#63](https://github.com/TopiSenpai/LavaSrc/issues/63) in [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
-5. 🗣 Commented on [#67](https://github.com/ooliver1/mafic/issues/67) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 💪 Opened PR [#68](https://github.com/ooliver1/mafic/pull/68) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 🎉 Merged PR [#6](https://github.com/eludris/thang/pull/6) in [eludris/thang](https://github.com/eludris/thang)
+3. 💪 Opened PR [#6](https://github.com/eludris/thang/pull/6) in [eludris/thang](https://github.com/eludris/thang)
+4. ❗️ Closed issue [#63](https://github.com/TopiSenpai/LavaSrc/issues/63) in [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
+5. 🗣 Commented on [#63](https://github.com/TopiSenpai/LavaSrc/issues/63) in [TopiSenpai/LavaSrc](https://github.com/TopiSenpai/LavaSrc)
 <!--END_SECTION:activity-->
 
 ---
