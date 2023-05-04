@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#820](https://github.com/piccolo-orm/piccolo/issues/820) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
-2. 🗣 Commented on [#818](https://github.com/freyacodes/Lavalink/issues/818) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
-3. 🗣 Commented on [#72](https://github.com/ooliver1/mafic/issues/72) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 🎉 Merged PR [#72](https://github.com/ooliver1/mafic/pull/72) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🎉 Merged PR [#71](https://github.com/ooliver1/mafic/pull/71) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 🗣 Commented on [#3393](https://github.com/microsoft/pyright/issues/3393) in [microsoft/pyright](https://github.com/microsoft/pyright)
+2. ❗️ Opened issue [#820](https://github.com/piccolo-orm/piccolo/issues/820) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
+3. 🗣 Commented on [#818](https://github.com/freyacodes/Lavalink/issues/818) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
+4. 🗣 Commented on [#72](https://github.com/ooliver1/mafic/issues/72) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 🎉 Merged PR [#72](https://github.com/ooliver1/mafic/pull/72) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
