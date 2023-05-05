@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11403](https://github.com/sphinx-doc/sphinx/issues/11403) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-2. 🗣 Commented on [#3393](https://github.com/microsoft/pyright/issues/3393) in [microsoft/pyright](https://github.com/microsoft/pyright)
-3. 🗣 Commented on [#3393](https://github.com/microsoft/pyright/issues/3393) in [microsoft/pyright](https://github.com/microsoft/pyright)
-4. ❗️ Opened issue [#820](https://github.com/piccolo-orm/piccolo/issues/820) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
-5. 🗣 Commented on [#818](https://github.com/freyacodes/Lavalink/issues/818) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
+1. 🗣 Commented on [#820](https://github.com/piccolo-orm/piccolo/issues/820) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
+2. 🗣 Commented on [#39](https://github.com/ooliver1/botbase/issues/39) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+3. 🎉 Merged PR [#39](https://github.com/ooliver1/botbase/pull/39) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+4. 💪 Opened PR [#39](https://github.com/ooliver1/botbase/pull/39) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+5. 🗣 Commented on [#36](https://github.com/ooliver1/botbase/issues/36) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
