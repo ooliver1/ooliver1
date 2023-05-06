@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#820](https://github.com/piccolo-orm/piccolo/issues/820) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
-2. 🗣 Commented on [#39](https://github.com/ooliver1/botbase/issues/39) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-3. 🎉 Merged PR [#39](https://github.com/ooliver1/botbase/pull/39) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-4. 💪 Opened PR [#39](https://github.com/ooliver1/botbase/pull/39) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🗣 Commented on [#36](https://github.com/ooliver1/botbase/issues/36) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. 🎉 Merged PR [#30](https://github.com/ooliver1/bot-template/pull/30) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+2. 🗣 Commented on [#27](https://github.com/ooliver1/bot-template/issues/27) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+3. 🗣 Commented on [#28](https://github.com/ooliver1/bot-template/issues/28) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+4. 🗣 Commented on [#30](https://github.com/ooliver1/bot-template/issues/30) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+5. 🗣 Commented on [#32](https://github.com/ooliver1/bot-template/issues/32) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
 <!--END_SECTION:activity-->
 
 ---
