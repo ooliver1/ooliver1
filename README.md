@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/eludris/eludris/pull/66) in [eludris/eludris](https://github.com/eludris/eludris)
-2. 🎉 Merged PR [#41](https://github.com/ooliver1/botbase/pull/41) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-3. 🗣 Commented on [#40](https://github.com/ooliver1/botbase/issues/40) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-4. 💪 Opened PR [#41](https://github.com/ooliver1/botbase/pull/41) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🎉 Merged PR [#40](https://github.com/ooliver1/botbase/pull/40) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. 🎉 Merged PR [#33](https://github.com/ooliver1/bot-template/pull/33) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
+2. 🎉 Merged PR [#2](https://github.com/ooliver1/nueva-terra-bot/pull/2) in [ooliver1/nueva-terra-bot](https://github.com/ooliver1/nueva-terra-bot)
+3. 💪 Opened PR [#66](https://github.com/eludris/eludris/pull/66) in [eludris/eludris](https://github.com/eludris/eludris)
+4. 🎉 Merged PR [#41](https://github.com/ooliver1/botbase/pull/41) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+5. 🗣 Commented on [#40](https://github.com/ooliver1/botbase/issues/40) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
