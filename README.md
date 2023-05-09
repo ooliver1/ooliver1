@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/ooliver1/bot-template/pull/33) in [ooliver1/bot-template](https://github.com/ooliver1/bot-template)
-2. 🎉 Merged PR [#2](https://github.com/ooliver1/nueva-terra-bot/pull/2) in [ooliver1/nueva-terra-bot](https://github.com/ooliver1/nueva-terra-bot)
-3. 💪 Opened PR [#66](https://github.com/eludris/eludris/pull/66) in [eludris/eludris](https://github.com/eludris/eludris)
-4. 🎉 Merged PR [#41](https://github.com/ooliver1/botbase/pull/41) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-5. 🗣 Commented on [#40](https://github.com/ooliver1/botbase/issues/40) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. 🗣 Commented on [#74](https://github.com/ooliver1/mafic/issues/74) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 🎉 Merged PR [#74](https://github.com/ooliver1/mafic/pull/74) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. 💪 Opened PR [#74](https://github.com/ooliver1/mafic/pull/74) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 🎉 Merged PR [#73](https://github.com/ooliver1/mafic/pull/73) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 💪 Opened PR [#73](https://github.com/ooliver1/mafic/pull/73) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
