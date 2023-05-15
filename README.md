@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/ooliver1/botbase/issues/42) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-2. 🎉 Merged PR [#42](https://github.com/ooliver1/botbase/pull/42) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-3. 💪 Opened PR [#42](https://github.com/ooliver1/botbase/pull/42) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
-4. 🗣 Commented on [#6153](https://github.com/discord/discord-api-docs/issues/6153) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#76](https://github.com/ooliver1/mafic/issues/76) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 🎉 Merged PR [#77](https://github.com/ooliver1/mafic/pull/77) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 💪 Opened PR [#78](https://github.com/ooliver1/mafic/pull/78) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. 💪 Opened PR [#77](https://github.com/ooliver1/mafic/pull/77) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 🗣 Commented on [#42](https://github.com/ooliver1/botbase/issues/42) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+5. 🎉 Merged PR [#42](https://github.com/ooliver1/botbase/pull/42) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
 <!--END_SECTION:activity-->
 
 ---
