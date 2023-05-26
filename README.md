@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/eludris-community/eludris-api-types.go/pull/2) in [eludris-community/eludris-api-types.go](https://github.com/eludris-community/eludris-api-types.go)
-2. ❗️ Opened issue [#105](https://github.com/Walkyst/lavaplayer-fork/issues/105) in [Walkyst/lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)
-3. 💪 Opened PR [#73](https://github.com/eludris/eludris/pull/73) in [eludris/eludris](https://github.com/eludris/eludris)
-4. 🗣 Commented on [#34](https://github.com/eludris/eludris/issues/34) in [eludris/eludris](https://github.com/eludris/eludris)
-5. 💪 Opened PR [#43](https://github.com/ooliver1/botbase/pull/43) in [ooliver1/botbase](https://github.com/ooliver1/botbase)
+1. 💪 Opened PR [#76](https://github.com/eludris/eludris/pull/76) in [eludris/eludris](https://github.com/eludris/eludris)
+2. 💪 Opened PR [#2](https://github.com/eludris-community/eludris-api-types.go/pull/2) in [eludris-community/eludris-api-types.go](https://github.com/eludris-community/eludris-api-types.go)
+3. ❗️ Opened issue [#105](https://github.com/Walkyst/lavaplayer-fork/issues/105) in [Walkyst/lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork)
+4. 💪 Opened PR [#73](https://github.com/eludris/eludris/pull/73) in [eludris/eludris](https://github.com/eludris/eludris)
+5. 🗣 Commented on [#34](https://github.com/eludris/eludris/issues/34) in [eludris/eludris](https://github.com/eludris/eludris)
 <!--END_SECTION:activity-->
 
 ---
