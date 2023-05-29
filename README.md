@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/eludris/eludris/pull/83) in [eludris/eludris](https://github.com/eludris/eludris)
-2. 🗣 Commented on [#6088](https://github.com/discord/discord-api-docs/issues/6088) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 💪 Opened PR [#78](https://github.com/eludris/eludris/pull/78) in [eludris/eludris](https://github.com/eludris/eludris)
-4. 💪 Opened PR [#76](https://github.com/eludris/eludris/pull/76) in [eludris/eludris](https://github.com/eludris/eludris)
-5. 💪 Opened PR [#2](https://github.com/eludris-community/eludris-api-types.go/pull/2) in [eludris-community/eludris-api-types.go](https://github.com/eludris-community/eludris-api-types.go)
+1. 🎉 Merged PR [#90](https://github.com/eludris/eludris/pull/90) in [eludris/eludris](https://github.com/eludris/eludris)
+2. 💪 Opened PR [#83](https://github.com/eludris/eludris/pull/83) in [eludris/eludris](https://github.com/eludris/eludris)
+3. 🗣 Commented on [#6088](https://github.com/discord/discord-api-docs/issues/6088) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 💪 Opened PR [#78](https://github.com/eludris/eludris/pull/78) in [eludris/eludris](https://github.com/eludris/eludris)
+5. 💪 Opened PR [#76](https://github.com/eludris/eludris/pull/76) in [eludris/eludris](https://github.com/eludris/eludris)
 <!--END_SECTION:activity-->
 
 ---
