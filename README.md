@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#706](https://github.com/repology/repology-rules/pull/706) in [repology/repology-rules](https://github.com/repology/repology-rules)
-2. 💪 Opened PR [#705](https://github.com/repology/repology-rules/pull/705) in [repology/repology-rules](https://github.com/repology/repology-rules)
-3. ❗️ Opened issue [#704](https://github.com/repology/repology-rules/issues/704) in [repology/repology-rules](https://github.com/repology/repology-rules)
-4. 💪 Opened PR [#44140](https://github.com/void-linux/void-packages/pull/44140) in [void-linux/void-packages](https://github.com/void-linux/void-packages)
-5. 🎉 Merged PR [#90](https://github.com/eludris/eludris/pull/90) in [eludris/eludris](https://github.com/eludris/eludris)
+1. 🎉 Merged PR [#92](https://github.com/eludris/eludris/pull/92) in [eludris/eludris](https://github.com/eludris/eludris)
+2. 💪 Opened PR [#706](https://github.com/repology/repology-rules/pull/706) in [repology/repology-rules](https://github.com/repology/repology-rules)
+3. 💪 Opened PR [#705](https://github.com/repology/repology-rules/pull/705) in [repology/repology-rules](https://github.com/repology/repology-rules)
+4. ❗️ Opened issue [#704](https://github.com/repology/repology-rules/issues/704) in [repology/repology-rules](https://github.com/repology/repology-rules)
+5. 💪 Opened PR [#44140](https://github.com/void-linux/void-packages/pull/44140) in [void-linux/void-packages](https://github.com/void-linux/void-packages)
 <!--END_SECTION:activity-->
 
 ---
