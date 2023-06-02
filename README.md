@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/ooliver1/mafic/issues/86) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-2. 🎉 Merged PR [#86](https://github.com/ooliver1/mafic/pull/86) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 💪 Opened PR [#86](https://github.com/ooliver1/mafic/pull/86) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 🎉 Merged PR [#85](https://github.com/ooliver1/mafic/pull/85) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 💪 Opened PR [#85](https://github.com/ooliver1/mafic/pull/85) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. ❗️ Closed issue [#8](https://github.com/ooliver1/mafic/issues/8) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 🗣 Commented on [#8](https://github.com/ooliver1/mafic/issues/8) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. ❗️ Closed issue [#9](https://github.com/ooliver1/mafic/issues/9) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 🗣 Commented on [#9](https://github.com/ooliver1/mafic/issues/9) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. ❗️ Closed issue [#84](https://github.com/ooliver1/mafic/issues/84) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
