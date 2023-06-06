@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/ooliver1/mafic/issues/94) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-2. 🎉 Merged PR [#94](https://github.com/ooliver1/mafic/pull/94) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 💪 Opened PR [#94](https://github.com/ooliver1/mafic/pull/94) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 🎉 Merged PR [#93](https://github.com/ooliver1/mafic/pull/93) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 💪 Opened PR [#93](https://github.com/ooliver1/mafic/pull/93) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. ❗️ Opened issue [#9047](https://github.com/portainer/portainer/issues/9047) in [portainer/portainer](https://github.com/portainer/portainer)
+2. 🗣 Commented on [#94](https://github.com/ooliver1/mafic/issues/94) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. 🎉 Merged PR [#94](https://github.com/ooliver1/mafic/pull/94) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 💪 Opened PR [#94](https://github.com/ooliver1/mafic/pull/94) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 🎉 Merged PR [#93](https://github.com/ooliver1/mafic/pull/93) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
