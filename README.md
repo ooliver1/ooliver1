@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/eludris-community/velum/issues/9) in [eludris-community/velum](https://github.com/eludris-community/velum)
-2. 💪 Opened PR [#9](https://github.com/eludris-community/velum/pull/9) in [eludris-community/velum](https://github.com/eludris-community/velum)
-3. 💪 Opened PR [#8](https://github.com/eludris-community/velum/pull/8) in [eludris-community/velum](https://github.com/eludris-community/velum)
-4. 💪 Opened PR [#7](https://github.com/eludris-community/velum/pull/7) in [eludris-community/velum](https://github.com/eludris-community/velum)
-5. 🗣 Commented on [#890](https://github.com/lavalink-devs/Lavalink/issues/890) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
+1. 💪 Opened PR [#10](https://github.com/eludris-community/velum/pull/10) in [eludris-community/velum](https://github.com/eludris-community/velum)
+2. 🗣 Commented on [#9](https://github.com/eludris-community/velum/issues/9) in [eludris-community/velum](https://github.com/eludris-community/velum)
+3. 💪 Opened PR [#9](https://github.com/eludris-community/velum/pull/9) in [eludris-community/velum](https://github.com/eludris-community/velum)
+4. 💪 Opened PR [#8](https://github.com/eludris-community/velum/pull/8) in [eludris-community/velum](https://github.com/eludris-community/velum)
+5. 💪 Opened PR [#7](https://github.com/eludris-community/velum/pull/7) in [eludris-community/velum](https://github.com/eludris-community/velum)
 <!--END_SECTION:activity-->
 
 ---
