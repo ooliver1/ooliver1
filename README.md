@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48081](https://github.com/grafana/grafana/issues/48081) in [grafana/grafana](https://github.com/grafana/grafana)
-2. 💪 Opened PR [#1064](https://github.com/nextcord/nextcord/pull/1064) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#1063](https://github.com/nextcord/nextcord/pull/1063) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#890](https://github.com/lavalink-devs/Lavalink/issues/890) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
-5. 🗣 Commented on [#9047](https://github.com/portainer/portainer/issues/9047) in [portainer/portainer](https://github.com/portainer/portainer)
+1. 🗣 Commented on [#9047](https://github.com/portainer/portainer/issues/9047) in [portainer/portainer](https://github.com/portainer/portainer)
+2. 🗣 Commented on [#48081](https://github.com/grafana/grafana/issues/48081) in [grafana/grafana](https://github.com/grafana/grafana)
+3. 💪 Opened PR [#1064](https://github.com/nextcord/nextcord/pull/1064) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 💪 Opened PR [#1063](https://github.com/nextcord/nextcord/pull/1063) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#890](https://github.com/lavalink-devs/Lavalink/issues/890) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
 <!--END_SECTION:activity-->
 
 ---
