@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/eludris/elusite/issues/4) in [eludris/elusite](https://github.com/eludris/elusite)
-2. 💪 Opened PR [#1067](https://github.com/nextcord/nextcord/pull/1067) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#9047](https://github.com/portainer/portainer/issues/9047) in [portainer/portainer](https://github.com/portainer/portainer)
-4. 🗣 Commented on [#48081](https://github.com/grafana/grafana/issues/48081) in [grafana/grafana](https://github.com/grafana/grafana)
-5. 💪 Opened PR [#1064](https://github.com/nextcord/nextcord/pull/1064) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Opened issue [#6238](https://github.com/discord/discord-api-docs/issues/6238) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#4](https://github.com/eludris/elusite/issues/4) in [eludris/elusite](https://github.com/eludris/elusite)
+3. 💪 Opened PR [#1067](https://github.com/nextcord/nextcord/pull/1067) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#9047](https://github.com/portainer/portainer/issues/9047) in [portainer/portainer](https://github.com/portainer/portainer)
+5. 🗣 Commented on [#48081](https://github.com/grafana/grafana/issues/48081) in [grafana/grafana](https://github.com/grafana/grafana)
 <!--END_SECTION:activity-->
 
 ---
