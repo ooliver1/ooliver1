@@ -61,10 +61,10 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1071](https://github.com/nextcord/nextcord/issues/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#6](https://github.com/eludris/pilfer/pull/6) in [eludris/pilfer](https://github.com/eludris/pilfer)
-3. 💪 Opened PR [#1071](https://github.com/nextcord/nextcord/pull/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❗️ Opened issue [#6238](https://github.com/discord/discord-api-docs/issues/6238) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#4](https://github.com/eludris/elusite/issues/4) in [eludris/elusite](https://github.com/eludris/elusite)
+2. 🗣 Commented on [#1071](https://github.com/nextcord/nextcord/issues/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#6](https://github.com/eludris/pilfer/pull/6) in [eludris/pilfer](https://github.com/eludris/pilfer)
+4. 💪 Opened PR [#1071](https://github.com/nextcord/nextcord/pull/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Opened issue [#6238](https://github.com/discord/discord-api-docs/issues/6238) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 ---
