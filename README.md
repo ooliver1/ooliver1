@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](https://github.com/eludris/eludris/pull/96) in [eludris/eludris](https://github.com/eludris/eludris)
-2. 🗣 Commented on [#1071](https://github.com/nextcord/nextcord/issues/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#6248](https://github.com/discord/discord-api-docs/issues/6248) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 💪 Opened PR [#96](https://github.com/eludris/eludris/pull/96) in [eludris/eludris](https://github.com/eludris/eludris)
 3. 🗣 Commented on [#1071](https://github.com/nextcord/nextcord/issues/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#6](https://github.com/eludris/pilfer/pull/6) in [eludris/pilfer](https://github.com/eludris/pilfer)
-5. 💪 Opened PR [#1071](https://github.com/nextcord/nextcord/pull/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#1071](https://github.com/nextcord/nextcord/issues/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 💪 Opened PR [#6](https://github.com/eludris/pilfer/pull/6) in [eludris/pilfer](https://github.com/eludris/pilfer)
 <!--END_SECTION:activity-->
 
 ---
