@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/jordanisaacs/fastapi-sessions/issues/23) in [jordanisaacs/fastapi-sessions](https://github.com/jordanisaacs/fastapi-sessions)
-2. 🗣 Commented on [#2](https://github.com/kkuchta/tabdb/issues/2) in [kkuchta/tabdb](https://github.com/kkuchta/tabdb)
-3. 🗣 Commented on [#9047](https://github.com/portainer/portainer/issues/9047) in [portainer/portainer](https://github.com/portainer/portainer)
-4. 🎉 Merged PR [#58](https://github.com/ooliver1/mafic/pull/58) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🗣 Commented on [#44140](https://github.com/void-linux/void-packages/issues/44140) in [void-linux/void-packages](https://github.com/void-linux/void-packages)
+1. 🗣 Commented on [#60](https://github.com/ooliver1/mafic/issues/60) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 🗣 Commented on [#23](https://github.com/jordanisaacs/fastapi-sessions/issues/23) in [jordanisaacs/fastapi-sessions](https://github.com/jordanisaacs/fastapi-sessions)
+3. 🗣 Commented on [#2](https://github.com/kkuchta/tabdb/issues/2) in [kkuchta/tabdb](https://github.com/kkuchta/tabdb)
+4. 🗣 Commented on [#9047](https://github.com/portainer/portainer/issues/9047) in [portainer/portainer](https://github.com/portainer/portainer)
+5. 🎉 Merged PR [#58](https://github.com/ooliver1/mafic/pull/58) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
