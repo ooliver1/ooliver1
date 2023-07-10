@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6276](https://github.com/discord/discord-api-docs/issues/6276) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🗣 Commented on [#1085](https://github.com/nextcord/nextcord/issues/1085) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 2. 🗣 Commented on [#6276](https://github.com/discord/discord-api-docs/issues/6276) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🗣 Commented on [#60](https://github.com/ooliver1/mafic/issues/60) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 🗣 Commented on [#23](https://github.com/jordanisaacs/fastapi-sessions/issues/23) in [jordanisaacs/fastapi-sessions](https://github.com/jordanisaacs/fastapi-sessions)
-5. 🗣 Commented on [#2](https://github.com/kkuchta/tabdb/issues/2) in [kkuchta/tabdb](https://github.com/kkuchta/tabdb)
+3. 🗣 Commented on [#6276](https://github.com/discord/discord-api-docs/issues/6276) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🗣 Commented on [#60](https://github.com/ooliver1/mafic/issues/60) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 🗣 Commented on [#23](https://github.com/jordanisaacs/fastapi-sessions/issues/23) in [jordanisaacs/fastapi-sessions](https://github.com/jordanisaacs/fastapi-sessions)
 <!--END_SECTION:activity-->
 
 ---
