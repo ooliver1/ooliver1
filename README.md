@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#917](https://github.com/lavalink-devs/Lavalink/pull/917) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
-2. 🗣 Commented on [#6294](https://github.com/discord/discord-api-docs/issues/6294) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🎉 Merged PR [#1071](https://github.com/nextcord/nextcord/pull/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
-5. 🗣 Commented on [#1083](https://github.com/nextcord/nextcord/issues/1083) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#117](https://github.com/Faboslav/friends-and-foes/issues/117) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
+2. 💪 Opened PR [#917](https://github.com/lavalink-devs/Lavalink/pull/917) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
+3. 🗣 Commented on [#6294](https://github.com/discord/discord-api-docs/issues/6294) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🎉 Merged PR [#1071](https://github.com/nextcord/nextcord/pull/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
 <!--END_SECTION:activity-->
 
 ---
