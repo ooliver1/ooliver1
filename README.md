@@ -60,10 +60,10 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/DavidGmc18/Nature_Arise_PUBLIC/issues/4) in [DavidGmc18/Nature_Arise_PUBLIC](https://github.com/DavidGmc18/Nature_Arise_PUBLIC)
-2. 🗣 Commented on [#117](https://github.com/Faboslav/friends-and-foes/issues/117) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
-3. 💪 Opened PR [#917](https://github.com/lavalink-devs/Lavalink/pull/917) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
-4. 🎉 Merged PR [#1071](https://github.com/nextcord/nextcord/pull/1071) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#31](https://github.com/nanite/Simple-Discord-Rich-Presence/issues/31) in [nanite/Simple-Discord-Rich-Presence](https://github.com/nanite/Simple-Discord-Rich-Presence)
+2. 🗣 Commented on [#4](https://github.com/DavidGmc18/Nature_Arise_PUBLIC/issues/4) in [DavidGmc18/Nature_Arise_PUBLIC](https://github.com/DavidGmc18/Nature_Arise_PUBLIC)
+3. 🗣 Commented on [#117](https://github.com/Faboslav/friends-and-foes/issues/117) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
+4. 💪 Opened PR [#917](https://github.com/lavalink-devs/Lavalink/pull/917) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
 5. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
 <!--END_SECTION:activity-->
 
