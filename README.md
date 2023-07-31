@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1717](https://github.com/AlexModGuy/AlexsMobs/issues/1717) in [AlexModGuy/AlexsMobs](https://github.com/AlexModGuy/AlexsMobs)
-2. 🗣 Commented on [#31](https://github.com/nanite/Simple-Discord-Rich-Presence/issues/31) in [nanite/Simple-Discord-Rich-Presence](https://github.com/nanite/Simple-Discord-Rich-Presence)
-3. 🗣 Commented on [#4](https://github.com/DavidGmc18/Nature_Arise_PUBLIC/issues/4) in [DavidGmc18/Nature_Arise_PUBLIC](https://github.com/DavidGmc18/Nature_Arise_PUBLIC)
-4. 🗣 Commented on [#117](https://github.com/Faboslav/friends-and-foes/issues/117) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
-5. 💪 Opened PR [#917](https://github.com/lavalink-devs/Lavalink/pull/917) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
+1. 💪 Opened PR [#14](https://github.com/CorgiTaco/lazydfu/pull/14) in [CorgiTaco/lazydfu](https://github.com/CorgiTaco/lazydfu)
+2. 🗣 Commented on [#36](https://github.com/astei/lazydfu/issues/36) in [astei/lazydfu](https://github.com/astei/lazydfu)
+3. 💪 Opened PR [#36](https://github.com/astei/lazydfu/pull/36) in [astei/lazydfu](https://github.com/astei/lazydfu)
+4. 🗣 Commented on [#1717](https://github.com/AlexModGuy/AlexsMobs/issues/1717) in [AlexModGuy/AlexsMobs](https://github.com/AlexModGuy/AlexsMobs)
+5. 🗣 Commented on [#31](https://github.com/nanite/Simple-Discord-Rich-Presence/issues/31) in [nanite/Simple-Discord-Rich-Presence](https://github.com/nanite/Simple-Discord-Rich-Presence)
 <!--END_SECTION:activity-->
 
 ---
