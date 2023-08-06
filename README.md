@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/CorgiTaco/lazydfu/pull/14) in [CorgiTaco/lazydfu](https://github.com/CorgiTaco/lazydfu)
-2. 🗣 Commented on [#36](https://github.com/astei/lazydfu/issues/36) in [astei/lazydfu](https://github.com/astei/lazydfu)
-3. 💪 Opened PR [#36](https://github.com/astei/lazydfu/pull/36) in [astei/lazydfu](https://github.com/astei/lazydfu)
-4. 🗣 Commented on [#1717](https://github.com/AlexModGuy/AlexsMobs/issues/1717) in [AlexModGuy/AlexsMobs](https://github.com/AlexModGuy/AlexsMobs)
-5. 🗣 Commented on [#31](https://github.com/nanite/Simple-Discord-Rich-Presence/issues/31) in [nanite/Simple-Discord-Rich-Presence](https://github.com/nanite/Simple-Discord-Rich-Presence)
+1. ❗️ Closed issue [#1045](https://github.com/nextcord/nextcord/issues/1045) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#1046](https://github.com/nextcord/nextcord/pull/1046) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 💪 Opened PR [#14](https://github.com/CorgiTaco/lazydfu/pull/14) in [CorgiTaco/lazydfu](https://github.com/CorgiTaco/lazydfu)
+4. 🗣 Commented on [#36](https://github.com/astei/lazydfu/issues/36) in [astei/lazydfu](https://github.com/astei/lazydfu)
+5. 💪 Opened PR [#36](https://github.com/astei/lazydfu/pull/36) in [astei/lazydfu](https://github.com/astei/lazydfu)
 <!--END_SECTION:activity-->
 
 ---
