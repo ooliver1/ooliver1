@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1000](https://github.com/nextcord/nextcord/pull/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#1045](https://github.com/nextcord/nextcord/issues/1045) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#1046](https://github.com/nextcord/nextcord/pull/1046) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 💪 Opened PR [#14](https://github.com/CorgiTaco/lazydfu/pull/14) in [CorgiTaco/lazydfu](https://github.com/CorgiTaco/lazydfu)
-5. 🗣 Commented on [#36](https://github.com/astei/lazydfu/issues/36) in [astei/lazydfu](https://github.com/astei/lazydfu)
+1. 🎉 Merged PR [#1086](https://github.com/nextcord/nextcord/pull/1086) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Closed issue [#1097](https://github.com/nextcord/nextcord/issues/1097) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#1098](https://github.com/nextcord/nextcord/pull/1098) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❌ Reopened PR [#1000](https://github.com/nextcord/nextcord/pull/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❗️ Closed issue [#1045](https://github.com/nextcord/nextcord/issues/1045) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
