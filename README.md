@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1104](https://github.com/nextcord/nextcord/issues/1104) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#1086](https://github.com/nextcord/nextcord/pull/1086) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❗️ Closed issue [#1097](https://github.com/nextcord/nextcord/issues/1097) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#1098](https://github.com/nextcord/nextcord/pull/1098) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. ❌ Reopened PR [#1000](https://github.com/nextcord/nextcord/pull/1000) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#3](https://github.com/ooliver1/nueva-terra-bot/issues/3) in [ooliver1/nueva-terra-bot](https://github.com/ooliver1/nueva-terra-bot)
+2. 🗣 Commented on [#7](https://github.com/ooliver1/nueva-terra-bot/issues/7) in [ooliver1/nueva-terra-bot](https://github.com/ooliver1/nueva-terra-bot)
+3. 🗣 Commented on [#8](https://github.com/ooliver1/nueva-terra-bot/issues/8) in [ooliver1/nueva-terra-bot](https://github.com/ooliver1/nueva-terra-bot)
+4. 🗣 Commented on [#9](https://github.com/ooliver1/nueva-terra-bot/issues/9) in [ooliver1/nueva-terra-bot](https://github.com/ooliver1/nueva-terra-bot)
+5. 🗣 Commented on [#10](https://github.com/ooliver1/nueva-terra-bot/issues/10) in [ooliver1/nueva-terra-bot](https://github.com/ooliver1/nueva-terra-bot)
 <!--END_SECTION:activity-->
 
 ---
