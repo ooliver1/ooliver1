@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1039](https://github.com/nextcord/nextcord/issues/1039) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#1080](https://github.com/nextcord/nextcord/pull/1080) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#1093](https://github.com/nextcord/nextcord/pull/1093) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#1084](https://github.com/nextcord/nextcord/pull/1084) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#97](https://github.com/ooliver1/mafic/pull/97) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 🗣 Commented on [#98](https://github.com/ooliver1/mafic/issues/98) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. ❗️ Closed issue [#1039](https://github.com/nextcord/nextcord/issues/1039) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#1080](https://github.com/nextcord/nextcord/pull/1080) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#1093](https://github.com/nextcord/nextcord/pull/1093) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#1084](https://github.com/nextcord/nextcord/pull/1084) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
