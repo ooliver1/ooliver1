@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#955](https://github.com/lavalink-devs/Lavalink/issues/955) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
-2. 💪 Opened PR [#10182](https://github.com/portainer/portainer/pull/10182) in [portainer/portainer](https://github.com/portainer/portainer)
-3. 🗣 Commented on [#9047](https://github.com/portainer/portainer/issues/9047) in [portainer/portainer](https://github.com/portainer/portainer)
-4. 🗣 Commented on [#9047](https://github.com/portainer/portainer/issues/9047) in [portainer/portainer](https://github.com/portainer/portainer)
-5. 🗣 Commented on [#98](https://github.com/ooliver1/mafic/issues/98) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. 🗣 Commented on [#100](https://github.com/ooliver1/mafic/issues/100) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 🎉 Merged PR [#100](https://github.com/ooliver1/mafic/pull/100) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+3. 💪 Opened PR [#100](https://github.com/ooliver1/mafic/pull/100) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+4. 🎉 Merged PR [#96](https://github.com/ooliver1/mafic/pull/96) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 🗣 Commented on [#955](https://github.com/lavalink-devs/Lavalink/issues/955) in [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
 <!--END_SECTION:activity-->
 
 ---
