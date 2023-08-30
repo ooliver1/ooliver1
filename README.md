@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/thijsfranck/the-dynamic-typists/pull/1) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-2. 💪 Opened PR [#101](https://github.com/ooliver1/mafic/pull/101) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 🗣 Commented on [#100](https://github.com/ooliver1/mafic/issues/100) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 🎉 Merged PR [#100](https://github.com/ooliver1/mafic/pull/100) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 💪 Opened PR [#100](https://github.com/ooliver1/mafic/pull/100) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. ❌ Closed PR [#1](https://github.com/thijsfranck/the-dynamic-typists/pull/1) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+2. 🗣 Commented on [#1](https://github.com/thijsfranck/the-dynamic-typists/issues/1) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+3. 💪 Opened PR [#1](https://github.com/thijsfranck/the-dynamic-typists/pull/1) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+4. 💪 Opened PR [#101](https://github.com/ooliver1/mafic/pull/101) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+5. 🗣 Commented on [#100](https://github.com/ooliver1/mafic/issues/100) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
