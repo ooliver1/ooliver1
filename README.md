@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/thijsfranck/the-dynamic-typists/pull/7) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-2. 🗣 Commented on [#13](https://github.com/markshannon/faster-cpython/issues/13) in [markshannon/faster-cpython](https://github.com/markshannon/faster-cpython)
-3. ❌ Closed PR [#1](https://github.com/thijsfranck/the-dynamic-typists/pull/1) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-4. 🗣 Commented on [#1](https://github.com/thijsfranck/the-dynamic-typists/issues/1) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-5. 💪 Opened PR [#1](https://github.com/thijsfranck/the-dynamic-typists/pull/1) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+1. 🎉 Merged PR [#95](https://github.com/ooliver1/mafic/pull/95) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+2. 💪 Opened PR [#7](https://github.com/thijsfranck/the-dynamic-typists/pull/7) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+3. 🗣 Commented on [#13](https://github.com/markshannon/faster-cpython/issues/13) in [markshannon/faster-cpython](https://github.com/markshannon/faster-cpython)
+4. ❌ Closed PR [#1](https://github.com/thijsfranck/the-dynamic-typists/pull/1) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+5. 🗣 Commented on [#1](https://github.com/thijsfranck/the-dynamic-typists/issues/1) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
 <!--END_SECTION:activity-->
 
 ---
