@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/thijsfranck/the-dynamic-typists/issues/13) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-2. ❌ Closed PR [#14](https://github.com/thijsfranck/the-dynamic-typists/pull/14) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-3. 🗣 Commented on [#14](https://github.com/thijsfranck/the-dynamic-typists/issues/14) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-4. 🎉 Merged PR [#15](https://github.com/thijsfranck/the-dynamic-typists/pull/15) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-5. 🗣 Commented on [#15](https://github.com/thijsfranck/the-dynamic-typists/issues/15) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+1. 🗣 Commented on [#1717](https://github.com/AlexModGuy/AlexsMobs/issues/1717) in [AlexModGuy/AlexsMobs](https://github.com/AlexModGuy/AlexsMobs)
+2. 🗣 Commented on [#13](https://github.com/thijsfranck/the-dynamic-typists/issues/13) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+3. ❌ Closed PR [#14](https://github.com/thijsfranck/the-dynamic-typists/pull/14) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+4. 🗣 Commented on [#14](https://github.com/thijsfranck/the-dynamic-typists/issues/14) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+5. 🎉 Merged PR [#15](https://github.com/thijsfranck/the-dynamic-typists/pull/15) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
 <!--END_SECTION:activity-->
 
 ---
