@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/thijsfranck/the-dynamic-typists/pull/28) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-2. 🎉 Merged PR [#26](https://github.com/thijsfranck/the-dynamic-typists/pull/26) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-3. 💪 Opened PR [#28](https://github.com/thijsfranck/the-dynamic-typists/pull/28) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-4. 💪 Opened PR [#27](https://github.com/thijsfranck/the-dynamic-typists/pull/27) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-5. 🗣 Commented on [#21](https://github.com/thijsfranck/the-dynamic-typists/issues/21) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+1. 🗣 Commented on [#2071](https://github.com/discord/discord-api-docs/issues/2071) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🎉 Merged PR [#28](https://github.com/thijsfranck/the-dynamic-typists/pull/28) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+3. 🎉 Merged PR [#26](https://github.com/thijsfranck/the-dynamic-typists/pull/26) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+4. 💪 Opened PR [#28](https://github.com/thijsfranck/the-dynamic-typists/pull/28) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+5. 💪 Opened PR [#27](https://github.com/thijsfranck/the-dynamic-typists/pull/27) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
 <!--END_SECTION:activity-->
 
 ---
