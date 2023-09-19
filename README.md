@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1121](https://github.com/nextcord/nextcord/pull/1121) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#1121](https://github.com/nextcord/nextcord/issues/1121) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#2071](https://github.com/discord/discord-api-docs/issues/2071) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🎉 Merged PR [#28](https://github.com/thijsfranck/the-dynamic-typists/pull/28) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
-5. 🎉 Merged PR [#26](https://github.com/thijsfranck/the-dynamic-typists/pull/26) in [thijsfranck/the-dynamic-typists](https://github.com/thijsfranck/the-dynamic-typists)
+1. 🎉 Merged PR [#1109](https://github.com/nextcord/nextcord/pull/1109) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❗️ Closed issue [#1085](https://github.com/nextcord/nextcord/issues/1085) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#1099](https://github.com/nextcord/nextcord/pull/1099) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❗️ Closed issue [#1037](https://github.com/nextcord/nextcord/issues/1037) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#1081](https://github.com/nextcord/nextcord/pull/1081) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
