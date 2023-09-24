@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82205](https://github.com/godotengine/godot/issues/82205) in [godotengine/godot](https://github.com/godotengine/godot)
-2. ❗️ Opened issue [#82205](https://github.com/godotengine/godot/issues/82205) in [godotengine/godot](https://github.com/godotengine/godot)
-3. 🎉 Merged PR [#1042](https://github.com/nextcord/nextcord/pull/1042) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#103](https://github.com/ooliver1/mafic/pull/103) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🎉 Merged PR [#1109](https://github.com/nextcord/nextcord/pull/1109) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#1119](https://github.com/nextcord/nextcord/pull/1119) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#82205](https://github.com/godotengine/godot/issues/82205) in [godotengine/godot](https://github.com/godotengine/godot)
+3. ❗️ Opened issue [#82205](https://github.com/godotengine/godot/issues/82205) in [godotengine/godot](https://github.com/godotengine/godot)
+4. 🎉 Merged PR [#1042](https://github.com/nextcord/nextcord/pull/1042) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🎉 Merged PR [#103](https://github.com/ooliver1/mafic/pull/103) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
 <!--END_SECTION:activity-->
 
 ---
