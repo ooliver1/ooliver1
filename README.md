@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2868](https://github.com/python-poetry/poetry/issues/2868) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🎉 Merged PR [#1119](https://github.com/nextcord/nextcord/pull/1119) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#82205](https://github.com/godotengine/godot/issues/82205) in [godotengine/godot](https://github.com/godotengine/godot)
-4. ❗️ Opened issue [#82205](https://github.com/godotengine/godot/issues/82205) in [godotengine/godot](https://github.com/godotengine/godot)
-5. 🎉 Merged PR [#1042](https://github.com/nextcord/nextcord/pull/1042) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Closed issue [#1073](https://github.com/nextcord/nextcord/issues/1073) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#1073](https://github.com/nextcord/nextcord/issues/1073) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🎉 Merged PR [#1050](https://github.com/nextcord/nextcord/pull/1050) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#2868](https://github.com/python-poetry/poetry/issues/2868) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. 🎉 Merged PR [#1119](https://github.com/nextcord/nextcord/pull/1119) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
