@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/eludris-community/velum/issues/13) in [eludris-community/velum](https://github.com/eludris-community/velum)
-2. ❗️ Closed issue [#1137](https://github.com/nextcord/nextcord/issues/1137) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#1137](https://github.com/nextcord/nextcord/issues/1137) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🎉 Merged PR [#102](https://github.com/ooliver1/mafic/pull/102) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 💪 Opened PR [#1135](https://github.com/nextcord/nextcord/pull/1135) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. ❗️ Closed issue [#1141](https://github.com/nextcord/nextcord/issues/1141) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#1141](https://github.com/nextcord/nextcord/issues/1141) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#13](https://github.com/eludris-community/velum/issues/13) in [eludris-community/velum](https://github.com/eludris-community/velum)
+4. ❗️ Closed issue [#1137](https://github.com/nextcord/nextcord/issues/1137) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#1137](https://github.com/nextcord/nextcord/issues/1137) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
