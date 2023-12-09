@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11931](https://github.com/darkreader/darkreader/issues/11931) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. 🗣 Commented on [#11931](https://github.com/darkreader/darkreader/issues/11931) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-3. 🗣 Commented on [#76](https://github.com/mkrl/misbrands/issues/76) in [mkrl/misbrands](https://github.com/mkrl/misbrands)
-4. 🗣 Commented on [#939](https://github.com/nextcord/nextcord/issues/939) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#5279](https://github.com/discord/discord-api-docs/issues/5279) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🎉 Merged PR [#1126](https://github.com/nextcord/nextcord/pull/1126) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#756](https://github.com/nextcord/nextcord/pull/756) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#11931](https://github.com/darkreader/darkreader/issues/11931) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+4. 🗣 Commented on [#11931](https://github.com/darkreader/darkreader/issues/11931) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+5. 🗣 Commented on [#76](https://github.com/mkrl/misbrands/issues/76) in [mkrl/misbrands](https://github.com/mkrl/misbrands)
 <!--END_SECTION:activity-->
 
 ---
