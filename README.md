@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1156](https://github.com/nextcord/nextcord/issues/1156) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#101](https://github.com/ooliver1/mafic/issues/101) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-3. 🎉 Merged PR [#101](https://github.com/ooliver1/mafic/pull/101) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-4. 🎉 Merged PR [#98](https://github.com/ooliver1/mafic/pull/98) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
-5. 🎉 Merged PR [#105](https://github.com/ooliver1/mafic/pull/105) in [ooliver1/mafic](https://github.com/ooliver1/mafic)
+1. ❌ Closed PR [#140](https://github.com/ooliver1/nextcord.gay/pull/140) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+2. ❌ Closed PR [#141](https://github.com/ooliver1/nextcord.gay/pull/141) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+3. ❌ Closed PR [#139](https://github.com/ooliver1/nextcord.gay/pull/139) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+4. ❌ Closed PR [#138](https://github.com/ooliver1/nextcord.gay/pull/138) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+5. ❌ Closed PR [#137](https://github.com/ooliver1/nextcord.gay/pull/137) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
