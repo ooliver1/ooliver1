@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#140](https://github.com/ooliver1/nextcord.gay/pull/140) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-2. ❌ Closed PR [#141](https://github.com/ooliver1/nextcord.gay/pull/141) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-3. ❌ Closed PR [#139](https://github.com/ooliver1/nextcord.gay/pull/139) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-4. ❌ Closed PR [#138](https://github.com/ooliver1/nextcord.gay/pull/138) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. ❌ Closed PR [#137](https://github.com/ooliver1/nextcord.gay/pull/137) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🗣 Commented on [#20](https://github.com/DisnakeCommunity/disnake-ext-plugins/issues/20) in [DisnakeCommunity/disnake-ext-plugins](https://github.com/DisnakeCommunity/disnake-ext-plugins)
+2. ❌ Closed PR [#140](https://github.com/ooliver1/nextcord.gay/pull/140) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+3. ❌ Closed PR [#141](https://github.com/ooliver1/nextcord.gay/pull/141) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+4. ❌ Closed PR [#139](https://github.com/ooliver1/nextcord.gay/pull/139) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+5. ❌ Closed PR [#138](https://github.com/ooliver1/nextcord.gay/pull/138) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
