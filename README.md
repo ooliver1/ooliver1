@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/ValveSoftware/portal2/issues/32) in [ValveSoftware/portal2](https://github.com/ValveSoftware/portal2)
-2. 🗣 Commented on [#16](https://github.com/lavalink-devs/lavalink-client/issues/16) in [lavalink-devs/lavalink-client](https://github.com/lavalink-devs/lavalink-client)
-3. 🗣 Commented on [#20](https://github.com/DisnakeCommunity/disnake-ext-plugins/issues/20) in [DisnakeCommunity/disnake-ext-plugins](https://github.com/DisnakeCommunity/disnake-ext-plugins)
-4. ❌ Closed PR [#140](https://github.com/ooliver1/nextcord.gay/pull/140) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
-5. ❌ Closed PR [#141](https://github.com/ooliver1/nextcord.gay/pull/141) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
+1. 🗣 Commented on [#3039](https://github.com/typst/typst/issues/3039) in [typst/typst](https://github.com/typst/typst)
+2. 🗣 Commented on [#32](https://github.com/ValveSoftware/portal2/issues/32) in [ValveSoftware/portal2](https://github.com/ValveSoftware/portal2)
+3. 🗣 Commented on [#16](https://github.com/lavalink-devs/lavalink-client/issues/16) in [lavalink-devs/lavalink-client](https://github.com/lavalink-devs/lavalink-client)
+4. 🗣 Commented on [#20](https://github.com/DisnakeCommunity/disnake-ext-plugins/issues/20) in [DisnakeCommunity/disnake-ext-plugins](https://github.com/DisnakeCommunity/disnake-ext-plugins)
+5. ❌ Closed PR [#140](https://github.com/ooliver1/nextcord.gay/pull/140) in [ooliver1/nextcord.gay](https://github.com/ooliver1/nextcord.gay)
 <!--END_SECTION:activity-->
 
 ---
