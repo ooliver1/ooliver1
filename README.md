@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
-2. 🗣 Commented on [#1168](https://github.com/nextcord/nextcord/issues/1168) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#3039](https://github.com/typst/typst/issues/3039) in [typst/typst](https://github.com/typst/typst)
-4. 🗣 Commented on [#32](https://github.com/ValveSoftware/portal2/issues/32) in [ValveSoftware/portal2](https://github.com/ValveSoftware/portal2)
-5. 🗣 Commented on [#16](https://github.com/lavalink-devs/lavalink-client/issues/16) in [lavalink-devs/lavalink-client](https://github.com/lavalink-devs/lavalink-client)
+1. 🗣 Commented on [#1163](https://github.com/nextcord/nextcord/issues/1163) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
+3. 🗣 Commented on [#1168](https://github.com/nextcord/nextcord/issues/1168) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#3039](https://github.com/typst/typst/issues/3039) in [typst/typst](https://github.com/typst/typst)
+5. 🗣 Commented on [#32](https://github.com/ValveSoftware/portal2/issues/32) in [ValveSoftware/portal2](https://github.com/ValveSoftware/portal2)
 <!--END_SECTION:activity-->
 
 ---
