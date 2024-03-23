@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#957](https://github.com/nextcord/nextcord/pull/957) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#957](https://github.com/nextcord/nextcord/issues/957) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#1170](https://github.com/DisnakeDev/disnake/issues/1170) in [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake)
-4. 🗣 Commented on [#1163](https://github.com/nextcord/nextcord/issues/1163) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#8164](https://github.com/portainer/portainer/issues/8164) in [portainer/portainer](https://github.com/portainer/portainer)
+1. 🗣 Commented on [#995](https://github.com/nextcord/nextcord/issues/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❌ Closed PR [#995](https://github.com/nextcord/nextcord/pull/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. ❌ Closed PR [#957](https://github.com/nextcord/nextcord/pull/957) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#957](https://github.com/nextcord/nextcord/issues/957) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#1170](https://github.com/DisnakeDev/disnake/issues/1170) in [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake)
 <!--END_SECTION:activity-->
 
 ---
