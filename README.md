@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/eludris-community/eludrs/pull/1) in [eludris-community/eludrs](https://github.com/eludris-community/eludrs)
-2. 🗣 Commented on [#995](https://github.com/nextcord/nextcord/issues/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. ❌ Closed PR [#995](https://github.com/nextcord/nextcord/pull/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. ❌ Closed PR [#957](https://github.com/nextcord/nextcord/pull/957) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#957](https://github.com/nextcord/nextcord/issues/957) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#7](https://github.com/eludris/thang/pull/7) in [eludris/thang](https://github.com/eludris/thang)
+2. 💪 Opened PR [#1](https://github.com/eludris-community/eludrs/pull/1) in [eludris-community/eludrs](https://github.com/eludris-community/eludrs)
+3. 🗣 Commented on [#995](https://github.com/nextcord/nextcord/issues/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. ❌ Closed PR [#995](https://github.com/nextcord/nextcord/pull/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. ❌ Closed PR [#957](https://github.com/nextcord/nextcord/pull/957) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
 
 ---
