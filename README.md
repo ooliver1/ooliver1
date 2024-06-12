@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2109](https://github.com/home-sweet-gnome/dash-to-panel/issues/2109) in [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)
-2. 🎉 Merged PR [#1057](https://github.com/nextcord/nextcord/pull/1057) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#7](https://github.com/eludris/thang/pull/7) in [eludris/thang](https://github.com/eludris/thang)
-4. 💪 Opened PR [#1](https://github.com/eludris-community/eludrs/pull/1) in [eludris-community/eludrs](https://github.com/eludris-community/eludrs)
-5. 🗣 Commented on [#995](https://github.com/nextcord/nextcord/issues/995) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#1129](https://github.com/nextcord/nextcord/pull/1129) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❌ Closed PR [#939](https://github.com/nextcord/nextcord/pull/939) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#939](https://github.com/nextcord/nextcord/issues/939) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🎉 Merged PR [#1135](https://github.com/nextcord/nextcord/pull/1135) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#2109](https://github.com/home-sweet-gnome/dash-to-panel/issues/2109) in [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)
 <!--END_SECTION:activity-->
 
 ---
