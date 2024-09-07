@@ -60,11 +60,11 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1201](https://github.com/nextcord/nextcord/issues/1201) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#519](https://github.com/GeyserMC/Floodgate/issues/519) in [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate)
-3. 🗣 Commented on [#14](https://github.com/eludris-community/velum/issues/14) in [eludris-community/velum](https://github.com/eludris-community/velum)
-4. ❗️ Closed issue [#14](https://github.com/eludris-community/velum/issues/14) in [eludris-community/velum](https://github.com/eludris-community/velum)
-5. 🗣 Commented on [#1161](https://github.com/nextcord/nextcord/issues/1161) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🎉 Merged PR [#1044](https://github.com/nextcord/nextcord/pull/1044) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#1160](https://github.com/nextcord/nextcord/pull/1160) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#1160](https://github.com/nextcord/nextcord/issues/1160) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 🗣 Commented on [#1201](https://github.com/nextcord/nextcord/issues/1201) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#519](https://github.com/GeyserMC/Floodgate/issues/519) in [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate)
 <!--END_SECTION:activity-->
 
 ---
