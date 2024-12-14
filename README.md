@@ -24,7 +24,3 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 4. 💪 Opened PR [#1228](https://github.com/nextcord/nextcord/pull/1228) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 5. 🗣 Commented on [#1226](https://github.com/nextcord/nextcord/issues/1226) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 <!--END_SECTION:activity-->
-
----
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/ooliver1/ooliver1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ooliver1/ooliver1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
