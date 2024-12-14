@@ -13,9 +13,6 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 
 [![Ooliver1's GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=ooliver1&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-**Note**: this does not represent skill level but purely the amount of code in each language on my profile.
-
 ---
 
 ### Recent Activity
