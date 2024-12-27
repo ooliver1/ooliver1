@@ -18,9 +18,9 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1130](https://github.com/nextcord/nextcord/pull/1130) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🗣 Commented on [#1130](https://github.com/nextcord/nextcord/issues/1130) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 💪 Opened PR [#1234](https://github.com/nextcord/nextcord/pull/1234) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#31](https://github.com/pedrokiefer/aiostomp/issues/31) in [pedrokiefer/aiostomp](https://github.com/pedrokiefer/aiostomp)
-5. ❗️ Closed issue [#1220](https://github.com/nextcord/nextcord/issues/1220) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 💪 Opened PR [#1235](https://github.com/nextcord/nextcord/pull/1235) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. ❌ Closed PR [#1130](https://github.com/nextcord/nextcord/pull/1130) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+3. 🗣 Commented on [#1130](https://github.com/nextcord/nextcord/issues/1130) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+4. 💪 Opened PR [#1234](https://github.com/nextcord/nextcord/pull/1234) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+5. 🗣 Commented on [#31](https://github.com/pedrokiefer/aiostomp/issues/31) in [pedrokiefer/aiostomp](https://github.com/pedrokiefer/aiostomp)
 <!--END_SECTION:activity-->
