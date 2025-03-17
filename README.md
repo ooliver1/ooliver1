@@ -18,8 +18,8 @@ I am currently working on [a fully typehinted and intuitive Lavalink wrapper for
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1213](https://github.com/nextcord/nextcord/issues/1213) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. ❗️ Closed issue [#1213](https://github.com/nextcord/nextcord/issues/1213) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+1. 🗣 Commented on [#1248](https://github.com/nextcord/nextcord/issues/1248) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
+2. 🎉 Merged PR [#1245](https://github.com/nextcord/nextcord/pull/1245) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 3. ❗️ Closed issue [#1241](https://github.com/nextcord/nextcord/issues/1241) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 4. 🗣 Commented on [#1241](https://github.com/nextcord/nextcord/issues/1241) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 5. 🎉 Merged PR [#1243](https://github.com/nextcord/nextcord/pull/1243) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
